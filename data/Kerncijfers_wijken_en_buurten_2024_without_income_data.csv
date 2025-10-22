@@ -1,0 +1,629 @@
+﻿"District_Type";"Municipality_Name";"Area_Code";"Population_Total";"Pop_Age_0_15";"Pop_Age_15_25";"Pop_Age_25_45";"Pop_Age_45_65";"Pop_Age_65_Plus";"Avg_Household_Size";"Avg_Property_Value_1000EUR";"Pct_Unoccupied_Homes";"Pct_Owner_Occupied";"Pct_Rental";"Higher_Education_Count";"Avg_Income_Per_Income_Recipient_1000EUR";"Avg_Income_Per_Inhabitant_1000EUR";"Avg_Std_Household_Income_1000EUR";"Pct_Lowest_40Pct_Income";"Pct_Highest_20Pct_Income";"Pct_Low_Income_Households";"Pct_Below_120Pct_Social_Min";"Urbanization_Level"
+"Amsterdam";"Amsterdam                               ";"GM0363    ";931298;122836;124148;343274;214560;126480;1,8;498;6;30;70;;;;;;;;;1
+"Haarlemmerbuurt";"Amsterdam                               ";"WK0363AA  ";9180;785;915;3090;2530;1865;1,6;610;9;29;70;;;;;;;;;1
+"Planciusbuurt-Noord";"Amsterdam                               ";"BU0363AA01";345;20;25;165;100;35;1,3;392;5;10;90;;;;;;;;;1
+"Westelijke eilanden";"Amsterdam                               ";"BU0363AA02";2895;275;270;920;815;610;1,6;598;8;34;66;;;;;;;;;1
+"Westerdokseiland";"Amsterdam                               ";"BU0363AA03";1850;205;150;540;530;420;1,8;811;6;42;58;;;;;;;;;1
+"Planciusbuurt-Zuid";"Amsterdam                               ";"BU0363AA04";160;10;10;60;50;30;1,4;401;4;1;99;;;;;;;;;1
+"Haarlemmerbuurt-West";"Amsterdam                               ";"BU0363AA05";2410;175;265;835;660;475;1,5;553;10;25;74;;;;;;;;;1
+"Haarlemmerbuurt-Oost";"Amsterdam                               ";"BU0363AA06";1520;95;200;575;375;285;1,5;602;14;25;75;;;;;;;;;1
+"Jordaan";"Amsterdam                               ";"WK0363AB  ";19685;1375;2295;7420;5110;3480;1,5;551;9;26;73;;;;;;;;;1
+"Marnixbuurt-Noord";"Amsterdam                               ";"BU0363AB01";1480;125;135;550;410;260;1,5;456;5;16;83;;;;;;;;;1
+"Driehoekbuurt";"Amsterdam                               ";"BU0363AB02";2730;185;305;1080;705;455;1,4;507;9;27;73;;;;;;;;;1
+"Anjeliersbuurt-Noord";"Amsterdam                               ";"BU0363AB03";2110;150;245;700;625;390;1,5;610;9;30;70;;;;;;;;;1
+"Zaagpoortbuurt";"Amsterdam                               ";"BU0363AB04";945;45;135;455;220;85;1,3;364;7;16;84;;;;;;;;;1
+"Anjeliersbuurt-Zuid";"Amsterdam                               ";"BU0363AB05";2950;215;325;965;875;575;1,5;549;8;26;73;;;;;;;;;1
+"Marnixbuurt-Midden";"Amsterdam                               ";"BU0363AB06";200;15;25;110;35;20;1,8;590;12;46;54;;;;;;;;;1
+"Bloemgrachtbuurt";"Amsterdam                               ";"BU0363AB07";3020;230;405;1155;755;480;1,5;630;12;33;66;;;;;;;;;1
+"Groenmarktkadebuurt";"Amsterdam                               ";"BU0363AB08";320;20;70;175;40;25;1,5;569;12;36;64;;;;;;;;;1
+"Marnixbuurt-Zuid";"Amsterdam                               ";"BU0363AB09";685;25;55;275;135;190;1,3;505;10;14;86;;;;;;;;;1
+"Elandsgrachtbuurt";"Amsterdam                               ";"BU0363AB10";4310;315;500;1590;1085;820;1,5;558;11;25;75;;;;;;;;;1
+"Passeerdersgrachtbuurt";"Amsterdam                               ";"BU0363AB11";935;60;90;365;225;185;1,5;674;10;37;61;;;;;;;;;1
+"Grachtengordel-West";"Amsterdam                               ";"WK0363AC  ";6630;425;1000;2435;1640;1135;1,5;911;20;42;57;;;;;;;;;1
+"Langestraat e.o.";"Amsterdam                               ";"BU0363AC01";1920;150;250;625;505;390;1,6;907;19;49;50;;;;;;;;;1
+"Leliegracht e.o.";"Amsterdam                               ";"BU0363AC02";1875;120;330;715;425;275;1,5;901;20;40;59;;;;;;;;;1
+"Felix Meritisbuurt";"Amsterdam                               ";"BU0363AC03";2120;110;305;825;535;345;1,5;878;21;39;60;;;;;;;;;1
+"Leidsegracht-Noord";"Amsterdam                               ";"BU0363AC04";715;45;110;265;170;125;1,5;1051;21;42;57;;;;;;;;;1
+"Burgwallen-Nieuwe Zijde";"Amsterdam                               ";"WK0363AD  ";4380;150;850;2240;775;355;1,4;520;17;20;79;;;;;;;;;1
+"Stationsplein e.o.";"Amsterdam                               ";"BU0363AD01";5;0;0;0;0;0;1;;;;;;;;;;;;;1
+"Hemelrijk";"Amsterdam                               ";"BU0363AD02";555;20;90;275;135;40;1,4;480;19;28;71;;;;;;;;;1
+"Nieuwendijk-Noord";"Amsterdam                               ";"BU0363AD03";500;15;90;270;90;30;1,4;505;19;15;84;;;;;;;;;1
+"Spuistraat-Noord";"Amsterdam                               ";"BU0363AD04";870;30;170;450;150;70;1,4;547;13;27;72;;;;;;;;;1
+"Nieuwe Kerk e.o.";"Amsterdam                               ";"BU0363AD05";825;40;190;400;155;45;1,5;498;14;21;79;;;;;;;;;1
+"Spuistraat-Zuid";"Amsterdam                               ";"BU0363AD06";810;30;145;410;140;80;1,4;527;16;16;83;;;;;;;;;1
+"Begijnhofbuurt";"Amsterdam                               ";"BU0363AD07";475;0;80;250;65;80;1,3;498;18;8;91;;;;;;;;;1
+"Kalverdriehoek";"Amsterdam                               ";"BU0363AD08";345;10;90;180;45;15;1,4;619;22;20;79;;;;;;;;;1
+"Burgwallen-Oude Zijde";"Amsterdam                               ";"WK0363AE  ";4740;185;915;2250;920;470;1,4;540;16;19;81;;;;;;;;;1
+"Kop Zeedijk";"Amsterdam                               ";"BU0363AE01";1185;50;185;580;265;105;1,4;476;15;21;79;;;;;;;;;1
+"Oude Kerk e.o.";"Amsterdam                               ";"BU0363AE02";755;20;195;350;120;70;1,4;556;20;13;86;;;;;;;;;1
+"Burgwallen-Oost";"Amsterdam                               ";"BU0363AE03";1675;75;300;805;320;175;1,4;527;15;18;82;;;;;;;;;1
+"Nes e.o.";"Amsterdam                               ";"BU0363AE04";395;15;85;195;75;30;1,5;668;21;29;71;;;;;;;;;1
+"BG-terrein e.o.";"Amsterdam                               ";"BU0363AE05";730;35;155;315;140;95;1,4;590;11;20;80;;;;;;;;;1
+"Nieuwmarkt/Lastage";"Amsterdam                               ";"WK0363AF  ";10010;680;1335;3475;2500;2030;1,5;582;10;29;70;;;;;;;;;1
+"Oosterdokseiland";"Amsterdam                               ";"BU0363AF01";555;60;35;240;155;65;1,6;832;20;46;53;;;;;;;;;1
+"Lastage";"Amsterdam                               ";"BU0363AF02";1120;70;115;440;310;180;1,6;588;11;34;66;;;;;;;;;1
+"Scheepvaarthuisbuurt";"Amsterdam                               ";"BU0363AF03";780;45;175;280;170;105;1,6;755;12;39;60;;;;;;;;;1
+"Rapenburg";"Amsterdam                               ";"BU0363AF04";1015;80;225;390;205;115;1,5;493;10;24;76;;;;;;;;;1
+"Nieuwmarkt";"Amsterdam                               ";"BU0363AF05";1580;110;170;400;420;485;1,4;506;7;16;84;;;;;;;;;1
+"Uilenburg";"Amsterdam                               ";"BU0363AF06";1255;70;140;470;335;240;1,5;577;8;36;64;;;;;;;;;1
+"Valkenburg";"Amsterdam                               ";"BU0363AF07";1210;85;155;405;275;295;1,5;555;10;41;59;;;;;;;;;1
+"Zuiderkerkbuurt";"Amsterdam                               ";"BU0363AF08";1600;95;190;550;410;360;1,4;626;11;21;78;;;;;;;;;1
+"Waterloopleinbuurt";"Amsterdam                               ";"BU0363AF09";900;60;125;310;215;185;1,5;546;9;29;71;;;;;;;;;1
+"Grachtengordel-Zuid";"Amsterdam                               ";"WK0363AG  ";5875;400;935;2350;1380;815;1,5;933;19;37;63;;;;;;;;;1
+"Leidsegracht-Zuid";"Amsterdam                               ";"BU0363AG01";710;55;85;305;155;115;1,6;914;22;32;66;;;;;;;;;1
+"Geelvinckbuurt";"Amsterdam                               ";"BU0363AG02";350;15;85;190;40;25;1,4;743;19;16;83;;;;;;;;;1
+"Rembrandtplein e.o.";"Amsterdam                               ";"BU0363AG03";900;45;165;495;145;50;1,4;633;20;17;82;;;;;;;;;1
+"Spiegelbuurt";"Amsterdam                               ";"BU0363AG04";890;65;145;310;250;115;1,6;976;25;42;57;;;;;;;;;1
+"Vijzelstraatbuurt";"Amsterdam                               ";"BU0363AG05";1450;100;220;520;350;260;1,6;1104;17;46;53;;;;;;;;;1
+"Amstelveldbuurt";"Amsterdam                               ";"BU0363AG06";1580;125;235;530;440;245;1,6;973;15;42;57;;;;;;;;;1
+"De Weteringschans";"Amsterdam                               ";"WK0363AH  ";7670;560;1140;3240;1700;1035;1,6;717;12;37;62;;;;;;;;;1
+"Leidsebuurt-Noordwest";"Amsterdam                               ";"BU0363AH01";290;10;50;160;45;15;1,4;537;13;37;62;;;;;;;;;1
+"Leidsebuurt-Noordoost";"Amsterdam                               ";"BU0363AH02";1115;45;260;565;165;65;1,4;603;16;27;72;;;;;;;;;1
+"Weteringbuurt";"Amsterdam                               ";"BU0363AH03";2455;200;340;1065;550;305;1,6;679;11;39;61;;;;;;;;;1
+"Utrechtsebuurt-Zuid";"Amsterdam                               ";"BU0363AH04";1220;90;135;455;315;215;1,5;750;13;39;60;;;;;;;;;1
+"Leidsebuurt-Zuidwest";"Amsterdam                               ";"BU0363AH05";165;5;35;75;35;15;1,5;563;15;15;85;;;;;;;;;1
+"Leidsebuurt-Zuidoost";"Amsterdam                               ";"BU0363AH06";305;25;45;120;70;45;1,5;650;14;26;73;;;;;;;;;1
+"Den Texbuurt";"Amsterdam                               ";"BU0363AH07";1170;105;165;440;255;195;1,7;898;10;46;54;;;;;;;;;1
+"Frederikspleinbuurt";"Amsterdam                               ";"BU0363AH08";960;70;105;355;255;170;1,6;857;10;46;54;;;;;;;;;1
+"Weesperbuurt/Plantage";"Amsterdam                               ";"WK0363AJ  ";8020;620;1220;3000;1720;1460;1,5;649;12;33;67;;;;;;;;;1
+"Weesperbuurt";"Amsterdam                               ";"BU0363AJ01";3160;205;505;1160;655;640;1,5;619;15;30;69;;;;;;;;;1
+"Plantage";"Amsterdam                               ";"BU0363AJ02";2520;210;330;880;545;550;1,6;708;10;37;63;;;;;;;;;1
+"Sarphatistrook";"Amsterdam                               ";"BU0363AJ03";1955;165;340;790;435;230;1,5;625;9;29;71;;;;;;;;;1
+"Alexanderplein e.o.";"Amsterdam                               ";"BU0363AJ04";390;40;45;175;90;35;1,7;646;10;49;51;;;;;;;;;1
+"Oostelijke Eilanden/Kadijken";"Amsterdam                               ";"WK0363AK  ";15480;1300;1730;6145;3785;2535;1,6;511;5;29;71;;;;;;;;;1
+"Marine-Etablissement";"Amsterdam                               ";"BU0363AK01";100;10;10;35;35;20;2;;;;;;;;;;;;;1
+"Kattenburg";"Amsterdam                               ";"BU0363AK02";1695;175;365;425;350;380;1,6;475;4;25;75;;;;;;;;;1
+"Wittenburg";"Amsterdam                               ";"BU0363AK03";2570;210;190;915;820;440;1,6;470;5;31;69;;;;;;;;;1
+"Oostenburg";"Amsterdam                               ";"BU0363AK04";3675;220;370;2205;560;320;1,5;452;6;20;80;;;;;;;;;1
+"Czaar Peterbuurt";"Amsterdam                               ";"BU0363AK05";2355;220;275;1040;555;265;1,6;428;5;24;76;;;;;;;;;1
+"Het Funen";"Amsterdam                               ";"BU0363AK06";1275;215;155;335;420;155;2,1;709;3;61;39;;;;;;;;;1
+"Kadijken";"Amsterdam                               ";"BU0363AK07";2885;205;285;855;835;700;1,5;608;4;34;66;;;;;;;;;1
+"Kazernebuurt";"Amsterdam                               ";"BU0363AK08";925;45;80;335;215;255;1,5;540;5;23;77;;;;;;;;;1
+"Havens-West";"Amsterdam                               ";"WK0363BA  ";25;0;0;10;5;5;1,8;;;;;;;;;;;;;5
+"Afrikahaven";"Amsterdam                               ";"BU0363BA01";5;0;0;0;0;0;2,5;;;;;;;;;;;;;5
+"Amerikahaven";"Amsterdam                               ";"BU0363BA02";5;0;0;5;0;0;1;;;;;;;;;;;;;5
+"Westhaven-Noord";"Amsterdam                               ";"BU0363BA03";5;0;0;5;0;0;3;;;;;;;;;;;;;5
+"Petroleumhaven";"Amsterdam                               ";"BU0363BA04";0;0;0;0;0;0;1;;;;;;;;;;;;;5
+"Vervoerscentrum";"Amsterdam                               ";"BU0363BA05";0;0;0;0;0;0;;;;;;;;;;;;;;5
+"Westhaven-Zuid";"Amsterdam                               ";"BU0363BA06";10;0;0;5;0;0;1,8;;;;;;;;;;;;;5
+"Coenhaven/Minervahaven";"Amsterdam                               ";"WK0363BB  ";1535;20;830;590;90;0;1;;;;;;;;;;;;;2
+"Coenhaven";"Amsterdam                               ";"BU0363BB01";690;25;145;445;80;0;1;;;;;;;;;;;;;5
+"Vlothaven";"Amsterdam                               ";"BU0363BB02";0;0;0;0;0;0;;;;;;;;;;;;;;5
+"Minervahaven-Noordoost";"Amsterdam                               ";"BU0363BB03";825;0;685;130;10;0;1;;;;;;;;;;;;;2
+"Minervahaven-Noordwest";"Amsterdam                               ";"BU0363BB04";5;0;0;0;0;0;1;;;;;;;;;;;;;2
+"Minervahaven-Zuidwest";"Amsterdam                               ";"BU0363BB05";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Minervahaven-Zuidoost";"Amsterdam                               ";"BU0363BB06";10;0;0;10;0;0;1,4;;;;;;;;;;;;;1
+"Alfa-driehoek";"Amsterdam                               ";"BU0363BB07";5;5;0;5;0;0;2,5;;;;;;;;;;;;;5
+"Hemknoop-Noord";"Amsterdam                               ";"BU0363BB08";0;0;0;0;0;0;;;;;;;;;;;;;;4
+"Sloterdijk-West";"Amsterdam                               ";"WK0363EA  ";1145;80;65;850;125;35;1,7;564;7;15;85;;;;;;;;;1
+"Isolatorbuurt";"Amsterdam                               ";"BU0363EA01";55;0;5;15;30;0;1,5;;;;;;;;;;;;;4
+"Contactbuurt";"Amsterdam                               ";"BU0363EA02";15;0;5;10;0;5;2,3;;;;;;;;;;;;;2
+"Woon- en Groengebied Sloterdijk";"Amsterdam                               ";"BU0363EA03";1075;75;55;825;95;35;1,7;567;6;15;85;;;;;;;;;1
+"Spaarndammerbuurt/Zeeheldenbuurt";"Amsterdam                               ";"WK0363EB  ";10845;1270;955;4240;2830;1540;1,6;450;3;23;77;;;;;;;;;1
+"Hemknoop-Zuid";"Amsterdam                               ";"BU0363EB01";0;0;0;0;0;0;1;;;;;;;;;;;;;4
+"Overbraker Binnenpolder";"Amsterdam                               ";"BU0363EB02";5;0;0;0;5;5;1,3;;;;;;;;;;;;;1
+"Zaanstraat emplacement";"Amsterdam                               ";"BU0363EB03";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Spaarndammerbuurt-Noordwest";"Amsterdam                               ";"BU0363EB04";1920;240;135;825;515;200;1,7;460;3;10;90;;;;;;;;;1
+"Spaarndammerbuurt-Midden";"Amsterdam                               ";"BU0363EB05";1460;205;125;615;395;115;1,7;477;3;26;74;;;;;;;;;1
+"Spaarndammerbuurt-Zuidwest";"Amsterdam                               ";"BU0363EB06";1840;185;170;730;370;385;1,5;414;4;27;73;;;;;;;;;1
+"Spaarndammerbuurt-Noordoost";"Amsterdam                               ";"BU0363EB07";2615;270;215;960;770;405;1,6;442;4;22;78;;;;;;;;;1
+"Zeeheldenbuurt";"Amsterdam                               ";"BU0363EB08";1965;265;220;700;515;260;1,7;475;2;27;72;;;;;;;;;1
+"Westergasfabriek";"Amsterdam                               ";"BU0363EB09";5;0;0;0;0;0;3;;;;;;;;;;;;;1
+"Spaarndammerbuurt-Zuidoost";"Amsterdam                               ";"BU0363EB10";1030;110;85;405;260;170;1,6;436;4;32;68;;;;;;;;;1
+"Houthavens";"Amsterdam                               ";"WK0363EC  ";5270;885;630;2035;1210;510;1,9;821;8;50;50;;;;;;;;;1
+"Houthavens-West";"Amsterdam                               ";"BU0363EC01";4625;850;575;1880;965;360;1,9;837;8;49;51;;;;;;;;;1
+"Houthavens-Oost";"Amsterdam                               ";"BU0363EC02";640;30;55;160;245;150;1,6;722;6;56;44;;;;;;;;;1
+"De Kolenkit";"Amsterdam                               ";"WK0363ED  ";12140;1965;1890;5110;2140;1025;1,9;406;6;19;81;;;;;;;;;1
+"Kolenkitbuurt-Noord";"Amsterdam                               ";"BU0363ED01";5055;980;740;1980;1010;340;2,2;433;2;14;86;;;;;;;;;1
+"Kolenkitbuurt-Zuid";"Amsterdam                               ";"BU0363ED02";2125;335;235;905;425;230;2,1;440;11;25;75;;;;;;;;;1
+"Laan van Spartaan";"Amsterdam                               ";"BU0363ED03";2790;445;570;1225;375;175;1,7;425;3;19;81;;;;;;;;;1
+"Robert Scottbuurt-West";"Amsterdam                               ";"BU0363ED04";2165;210;345;1000;335;275;1,5;331;12;22;78;;;;;;;;;1
+"Landlust";"Amsterdam                               ";"WK0363EE  ";18790;2420;2310;8340;4090;1630;1,8;415;3;29;70;;;;;;;;;1
+"Bosleeuw";"Amsterdam                               ";"BU0363EE01";5635;740;905;2220;1245;520;1,9;389;3;29;71;;;;;;;;;1
+"Gibraltarbuurt";"Amsterdam                               ";"BU0363EE02";4200;490;470;1940;945;360;1,7;376;3;22;77;;;;;;;;;1
+"Bedrijventerrein Landlust";"Amsterdam                               ";"BU0363EE03";565;40;50;395;60;25;1,5;383;6;44;56;;;;;;;;;1
+"Landlust-Noord";"Amsterdam                               ";"BU0363EE04";2385;345;280;1070;485;205;1,8;404;3;26;74;;;;;;;;;1
+"Erasmusparkbuurt-Oost";"Amsterdam                               ";"BU0363EE05";1870;275;230;740;455;165;1,9;531;3;39;61;;;;;;;;;1
+"Landlust-Zuid";"Amsterdam                               ";"BU0363EE06";4135;530;385;1970;905;350;1,7;453;4;33;67;;;;;;;;;1
+"Erasmuspark";"Amsterdam                               ";"WK0363EF  ";5740;555;660;2890;1150;480;1,7;426;4;44;56;;;;;;;;;1
+"Robert Scottbuurt-Oost";"Amsterdam                               ";"BU0363EF01";1740;160;230;825;355;170;1,8;442;4;31;68;;;;;;;;;1
+"Erasmusparkbuurt-West";"Amsterdam                               ";"BU0363EF02";3995;390;430;2075;795;310;1,7;419;4;49;50;;;;;;;;;1
+"Centrale Markt";"Amsterdam                               ";"WK0363EG  ";2330;250;230;765;715;375;1,8;525;3;38;62;;;;;;;;;1
+"Bedrijvencentrum Westerkwartier";"Amsterdam                               ";"BU0363EG01";60;5;10;10;25;10;1,9;;;;;;;;;;;;;1
+"GWL-terrein";"Amsterdam                               ";"BU0363EG02";1220;155;145;285;445;185;2;592;2;48;52;;;;;;;;;1
+"Markthallen";"Amsterdam                               ";"BU0363EG03";15;5;0;5;0;5;2,2;;;;;;;;;;;;;1
+"Marcanti";"Amsterdam                               ";"BU0363EG04";1040;85;70;465;235;175;1,6;459;3;28;71;;;;;;;;;1
+"Staatsliedenbuurt";"Amsterdam                               ";"WK0363EH  ";13005;1175;1225;5510;3495;1600;1,6;448;5;30;70;;;;;;;;;1
+"Westerstaatsman";"Amsterdam                               ";"BU0363EH01";2845;245;280;1445;700;175;1,5;420;4;38;62;;;;;;;;;1
+"Fannius Scholtenbuurt";"Amsterdam                               ";"BU0363EH02";3635;340;300;1645;1010;340;1,6;411;5;31;69;;;;;;;;;1
+"Staatsliedenbuurt-Noordoost";"Amsterdam                               ";"BU0363EH03";1215;105;100;350;325;335;1,6;414;3;20;80;;;;;;;;;1
+"De Wittenbuurt-Noord";"Amsterdam                               ";"BU0363EH04";1355;130;135;550;360;180;1,6;486;8;23;76;;;;;;;;;1
+"De Wittenbuurt-Zuid";"Amsterdam                               ";"BU0363EH05";810;50;85;215;250;210;1,5;447;6;21;79;;;;;;;;;1
+"Buyskade e.o.";"Amsterdam                               ";"BU0363EH06";3145;305;330;1310;840;355;1,7;521;3;30;70;;;;;;;;;1
+"Frederik Hendrikbuurt";"Amsterdam                               ";"WK0363EJ  ";8270;645;770;3765;1930;1160;1,5;465;6;30;70;;;;;;;;;1
+"Frederik Hendrikbuurt-Noord";"Amsterdam                               ";"BU0363EJ01";3855;350;390;1795;840;480;1,6;472;5;29;70;;;;;;;;;1
+"Frederik Hendrikbuurt-Zuidwest";"Amsterdam                               ";"BU0363EJ02";1215;70;105;360;340;335;1,6;495;7;34;66;;;;;;;;;1
+"Frederik Hendrikbuurt-Zuidoost";"Amsterdam                               ";"BU0363EJ03";3200;225;280;1610;750;335;1,5;445;5;29;71;;;;;;;;;1
+"Van Galenbuurt";"Amsterdam                               ";"WK0363EK  ";7740;780;885;3455;2005;605;1,6;413;4;23;77;;;;;;;;;1
+"Mercatorpark";"Amsterdam                               ";"BU0363EK01";2305;235;250;985;800;30;1;;;;;;;;;;;;;1
+"Orteliusbuurt-Noord";"Amsterdam                               ";"BU0363EK02";1310;130;130;625;260;165;1,6;414;3;30;70;;;;;;;;;1
+"Jan Maijenbuurt";"Amsterdam                               ";"BU0363EK03";2250;230;270;980;550;225;1,6;403;3;22;78;;;;;;;;;1
+"John Franklinbuurt";"Amsterdam                               ";"BU0363EK04";1870;180;235;860;400;190;1,6;424;5;18;82;;;;;;;;;1
+"Geuzenbuurt";"Amsterdam                               ";"WK0363EL  ";6715;690;830;3295;1295;600;1,6;484;6;32;68;;;;;;;;;1
+"Pieter van der Doesbuurt";"Amsterdam                               ";"BU0363EL01";1895;195;245;840;430;185;1,7;462;6;17;82;;;;;;;;;1
+"Trompbuurt";"Amsterdam                               ";"BU0363EL02";3155;380;380;1515;590;285;1,7;531;5;32;68;;;;;;;;;1
+"Geuzenhofbuurt";"Amsterdam                               ";"BU0363EL03";1665;115;205;940;280;130;1,4;433;6;46;53;;;;;;;;;1
+"Hoofdweg e.o.";"Amsterdam                               ";"WK0363EM  ";10280;1055;1235;4690;2245;1060;1,7;431;4;23;77;;;;;;;;;1
+"Orteliusbuurt-Midden";"Amsterdam                               ";"BU0363EM01";1890;195;195;885;430;180;1,6;436;3;30;70;;;;;;;;;1
+"Balboaplein e.o.";"Amsterdam                               ";"BU0363EM02";3005;290;430;1380;660;245;1,7;428;4;22;78;;;;;;;;;1
+"Orteliusbuurt-Zuid";"Amsterdam                               ";"BU0363EM03";1890;140;210;915;350;270;1,6;430;5;27;73;;;;;;;;;1
+"Columbusplein e.o.";"Amsterdam                               ";"BU0363EM04";3495;415;400;1510;805;360;1,7;431;4;16;84;;;;;;;;;1
+"Chassébuurt";"Amsterdam                               ";"WK0363EN  ";6000;765;795;2400;1420;620;1,8;514;5;28;72;;;;;;;;;1
+"Filips van Almondekwartier";"Amsterdam                               ";"BU0363EN01";1095;115;120;540;230;90;1,7;517;5;36;64;;;;;;;;;1
+"Kortenaerkwartier";"Amsterdam                               ";"BU0363EN02";2210;260;350;850;520;230;1,8;543;5;31;69;;;;;;;;;1
+"Van Brakelkwartier";"Amsterdam                               ";"BU0363EN03";965;145;125;330;250;110;1,9;472;3;16;84;;;;;;;;;1
+"De Wester Quartier";"Amsterdam                               ";"BU0363EN04";1735;250;200;680;425;185;1,9;497;5;25;75;;;;;;;;;1
+"Bellamybuurt";"Amsterdam                               ";"WK0363EP  ";6300;640;665;3030;1350;625;1,6;491;9;24;76;;;;;;;;;1
+"Bellamybuurt-Noord";"Amsterdam                               ";"BU0363EP01";2390;255;255;1085;525;270;1,6;530;7;24;76;;;;;;;;;1
+"Bellamybuurt-Zuid";"Amsterdam                               ";"BU0363EP02";3915;385;410;1940;825;355;1,5;469;11;24;75;;;;;;;;;1
+"Da Costabuurt";"Amsterdam                               ";"WK0363EQ  ";4805;390;505;2230;1035;645;1,6;559;6;32;68;;;;;;;;;1
+"Da Costabuurt-Noord";"Amsterdam                               ";"BU0363EQ01";4805;390;500;2230;1040;650;1,6;559;6;32;68;;;;;;;;;1
+"Westindische Buurt";"Amsterdam                               ";"WK0363ER  ";6740;775;730;3280;1325;635;1,7;517;4;32;68;;;;;;;;;1
+"Postjeskade e.o.";"Amsterdam                               ";"BU0363ER01";2990;315;320;1430;610;315;1,7;503;5;26;74;;;;;;;;;1
+"Paramariboplein e.o.";"Amsterdam                               ";"BU0363ER02";3745;460;405;1855;715;320;1,7;529;4;36;64;;;;;;;;;1
+"Van Lennepbuurt";"Amsterdam                               ";"WK0363ES  ";6925;580;695;2930;1630;1095;1,5;450;5;25;75;;;;;;;;;1
+"Lootsbuurt";"Amsterdam                               ";"BU0363ES01";1865;160;165;870;455;210;1,5;436;5;23;77;;;;;;;;;1
+"Borgerbuurt";"Amsterdam                               ";"BU0363ES02";2815;270;265;885;715;690;1,6;442;4;19;81;;;;;;;;;1
+"Da Costabuurt-Zuid";"Amsterdam                               ";"BU0363ES03";2245;150;270;1175;460;195;1,5;472;7;33;66;;;;;;;;;1
+"Overtoomse Sluis";"Amsterdam                               ";"WK0363ET  ";7920;740;775;3890;1690;825;1,6;559;6;34;66;;;;;;;;;1
+"Cremerbuurt-West";"Amsterdam                               ";"BU0363ET01";5700;530;535;2910;1205;510;1,6;527;6;32;68;;;;;;;;;1
+"Vondelparkbuurt-West";"Amsterdam                               ";"BU0363ET02";2220;210;235;980;480;315;1,6;650;7;40;60;;;;;;;;;1
+"Helmersbuurt";"Amsterdam                               ";"WK0363EU  ";7510;735;850;3230;1735;965;1,6;628;8;33;67;;;;;;;;;1
+"Cremerbuurt-Oost";"Amsterdam                               ";"BU0363EU01";2290;210;245;1110;540;185;1,6;571;7;37;62;;;;;;;;;1
+"WG-terrein";"Amsterdam                               ";"BU0363EU02";2585;245;225;915;670;525;1,5;606;10;25;75;;;;;;;;;1
+"Helmersbuurt-Oost";"Amsterdam                               ";"BU0363EU03";2640;285;375;1200;525;255;1,7;708;7;38;61;;;;;;;;;1
+"Vondelparkbuurt";"Amsterdam                               ";"WK0363EV  ";1870;175;250;615;470;360;1,7;1082;14;44;56;;;;;;;;;1
+"Vondelparkbuurt-Midden";"Amsterdam                               ";"BU0363EV01";930;100;125;265;235;210;1,7;926;10;37;63;;;;;;;;;1
+"Vondelparkbuurt-Oost";"Amsterdam                               ";"BU0363EV02";935;75;130;350;240;150;1,6;1213;18;49;50;;;;;;;;;1
+"Sloterdijk Nieuw-West";"Amsterdam                               ";"WK0363FA  ";1330;85;360;710;150;20;1,3;298;25;11;89;;;;;;;;;2
+"Sloterdijk De Heining";"Amsterdam                               ";"BU0363FA01";25;5;0;5;5;5;2,6;;;;;;;;;;;;;5
+"Sloterdijk Poort-Noord";"Amsterdam                               ";"BU0363FA02";15;0;0;5;10;0;1;;;;;;;;;;;;;5
+"Sloterdijk Poort-Zuid";"Amsterdam                               ";"BU0363FA03";115;0;65;30;15;5;1,2;575;38;3;97;;;;;;;;;5
+"Sloterdijk Rhônepark";"Amsterdam                               ";"BU0363FA04";0;0;5;0;5;0;1,5;;;;;;;;;;;;;3
+"Sloterdijk Donauhoek";"Amsterdam                               ";"BU0363FA05";15;0;0;5;0;0;1,3;;;;;;;;;;;;;4
+"Bretten-West";"Amsterdam                               ";"BU0363FA06";0;0;0;0;0;0;;;;;;;;;;;;;;5
+"Bretten-Oost";"Amsterdam                               ";"BU0363FA07";0;0;0;0;0;0;;;;;;;;;;;;;;2
+"Sloterdijk Stationskwartier";"Amsterdam                               ";"BU0363FA08";1155;75;290;665;110;15;1,3;290;24;11;89;;;;;;;;;1
+"Geuzenveld";"Amsterdam                               ";"WK0363FB  ";19180;3990;2645;5950;4260;2330;2,3;393;3;28;72;;;;;;;;;1
+"Osdorper Binnenpolder";"Amsterdam                               ";"BU0363FB01";25;0;5;5;10;10;1,6;;;;;;;;;;;;;4
+"De Eendracht";"Amsterdam                               ";"BU0363FB02";2445;465;250;640;605;480;2,4;476;1;52;48;;;;;;;;;2
+"Ruys de Beerenbrouckbuurt";"Amsterdam                               ";"BU0363FB03";6130;1325;835;1875;1370;725;2,4;389;3;20;80;;;;;;;;;1
+"Eendrachtspark";"Amsterdam                               ";"BU0363FB04";300;35;35;120;85;20;1,7;324;4;50;50;;;;;;;;;2
+"Van Tijenbuurt";"Amsterdam                               ";"BU0363FB05";2955;655;490;855;595;360;2,5;465;3;46;54;;;;;;;;;1
+"Dudokbuurt";"Amsterdam                               ";"BU0363FB06";2735;630;375;930;590;220;2,3;338;4;24;76;;;;;;;;;1
+"Bakemabuurt";"Amsterdam                               ";"BU0363FB07";3105;595;490;1130;620;265;2,3;371;2;22;78;;;;;;;;;1
+"Wegener Sleeswijkbuurt";"Amsterdam                               ";"BU0363FB08";1485;285;180;385;380;250;2,2;322;2;7;93;;;;;;;;;1
+"Slotermeer-West";"Amsterdam                               ";"WK0363FC  ";10790;1910;1650;3500;2490;1245;2,1;323;6;19;81;;;;;;;;;1
+"Jan de Louterbuurt";"Amsterdam                               ";"BU0363FC01";3385;515;460;1155;815;450;1,9;357;9;35;65;;;;;;;;;1
+"Lodewijk van Deysselbuurt";"Amsterdam                               ";"BU0363FC02";3420;620;525;1100;820;360;2,3;290;3;7;93;;;;;;;;;1
+"Confuciusbuurt";"Amsterdam                               ";"BU0363FC03";3985;780;670;1245;860;435;2,1;321;5;14;86;;;;;;;;;1
+"Slotermeer-Noordoost";"Amsterdam                               ";"WK0363FD  ";9260;1775;1260;2970;2255;1000;2,1;344;6;26;74;;;;;;;;;1
+"Arondeusbuurt";"Amsterdam                               ";"BU0363FD01";2740;630;405;815;615;275;2,2;354;9;19;81;;;;;;;;;1
+"Coronelbuurt";"Amsterdam                               ";"BU0363FD02";1540;245;250;530;380;135;1,9;408;5;65;35;;;;;;;;;1
+"Meerwaldtbuurt";"Amsterdam                               ";"BU0363FD03";1945;325;225;580;520;295;2;319;4;7;93;;;;;;;;;1
+"Dobbebuurt";"Amsterdam                               ";"BU0363FD04";3035;575;380;1045;745;295;2,1;323;5;24;76;;;;;;;;;1
+"Slotermeer-Zuidoost";"Amsterdam                               ";"WK0363FE  ";6785;1050;930;2475;1500;830;1,8;341;4;24;76;;;;;;;;;1
+"Dichtersbuurt";"Amsterdam                               ";"BU0363FE01";1070;140;100;380;255;200;1,7;257;2;11;89;;;;;;;;;1
+"Louis Couperusbuurt";"Amsterdam                               ";"BU0363FE02";2320;395;330;895;470;235;1,8;278;4;10;90;;;;;;;;;1
+"Noordoever Sloterplas";"Amsterdam                               ";"BU0363FE03";3395;520;500;1200;775;395;1,9;422;5;40;60;;;;;;;;;1
+"Sloterpark";"Amsterdam                               ";"BU0363FE04";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Lutkemeer/Ookmeer";"Amsterdam                               ";"WK0363FF  ";1255;145;155;435;325;190;2,1;787;10;70;30;;;;;;;;;3
+"Osdorper Bovenpolder";"Amsterdam                               ";"BU0363FF01";745;95;85;165;225;170;2,1;767;10;70;30;;;;;;;;;3
+"Ookmeer";"Amsterdam                               ";"BU0363FF02";440;45;55;255;70;10;3;;;;;;;;;;;;;1
+"Bedrijvenpark Lutkemeer";"Amsterdam                               ";"BU0363FF03";70;5;15;15;30;5;1,8;1049;9;74;26;;;;;;;;;3
+"De Aker";"Amsterdam                               ";"WK0363FG  ";14385;2490;2075;3635;4110;2075;2,4;523;3;54;46;;;;;;;;;1
+"Middelveldsche Akerpolder";"Amsterdam                               ";"BU0363FG01";4045;880;440;1135;880;705;2,3;457;2;23;77;;;;;;;;;1
+"De Aker-West";"Amsterdam                               ";"BU0363FG02";4500;705;630;1135;1390;655;2,3;520;2;64;36;;;;;;;;;1
+"De Aker-Oost";"Amsterdam                               ";"BU0363FG03";5835;900;1010;1365;1840;720;2,5;574;4;67;33;;;;;;;;;1
+"De Punt";"Amsterdam                               ";"WK0363FH  ";6310;1085;985;2015;1385;835;2,1;321;6;34;66;;;;;;;;;1
+"Bedrijvencentrum Osdorp";"Amsterdam                               ";"BU0363FH01";125;5;0;45;65;20;1,4;;14;2;98;;;;;;;;;1
+"Dijkgraafpleinbuurt";"Amsterdam                               ";"BU0363FH02";6185;1085;980;1975;1320;820;2,1;323;6;34;66;;;;;;;;;1
+"Osdorp-Midden";"Amsterdam                               ";"WK0363FJ  ";15475;2755;2295;5035;3480;1905;2,1;374;4;26;73;;;;;;;;;1
+"Reimerswaal";"Amsterdam                               ";"BU0363FJ01";2755;495;360;725;625;555;2,2;328;5;8;92;;;;;;;;;1
+"Botteskerkbuurt";"Amsterdam                               ";"BU0363FJ02";3395;715;490;1060;745;380;2,2;339;3;20;80;;;;;;;;;1
+"Zuidwestkwadrant-Noord";"Amsterdam                               ";"BU0363FJ03";3130;540;475;1030;630;450;2,1;378;5;23;77;;;;;;;;;1
+"Zuidwestkwadrant-Zuid";"Amsterdam                               ";"BU0363FJ04";6200;1005;975;2215;1480;520;2;414;3;41;59;;;;;;;;;1
+"Osdorp-Oost";"Amsterdam                               ";"WK0363FK  ";18325;2835;2585;5990;3825;3090;1,9;355;4;25;75;;;;;;;;;1
+"Wildeman";"Amsterdam                               ";"BU0363FK01";4910;875;610;1375;1145;905;1,9;277;4;10;90;;;;;;;;;1
+"Meer en Oever";"Amsterdam                               ";"BU0363FK02";3220;435;350;1080;745;605;1,9;440;4;45;55;;;;;;;;;1
+"Osdorpplein e.o.";"Amsterdam                               ";"BU0363FK03";4780;790;725;2010;785;470;1,9;356;4;21;79;;;;;;;;;1
+"Calandlaan/Lelylaan";"Amsterdam                               ";"BU0363FK04";1250;185;110;330;370;250;1,8;352;2;25;75;;;;;;;;;1
+"Osdorp-Zuidoost";"Amsterdam                               ";"BU0363FK05";4165;545;785;1200;780;855;1,7;386;3;34;66;;;;;;;;;1
+"Slotervaart-Noord";"Amsterdam                               ";"WK0363FL  ";7795;1375;1025;2130;1945;1325;2,1;428;6;33;67;;;;;;;;;1
+"Oostoever Sloterplas";"Amsterdam                               ";"BU0363FL01";2430;295;300;500;715;625;2;543;2;63;36;;;;;;;;;1
+"Emanuel van Meterenbuurt";"Amsterdam                               ";"BU0363FL02";2335;455;285;630;545;415;2,1;440;4;37;63;;;;;;;;;1
+"Jacob Geelbuurt";"Amsterdam                               ";"BU0363FL03";3025;625;440;995;685;285;2,1;331;11;6;94;;;;;;;;;1
+"Overtoomse Veld";"Amsterdam                               ";"WK0363FM  ";14685;2155;2805;6140;2440;1140;1,8;403;8;19;81;;;;;;;;;1
+"Lucas/Andreasziekenhuis e.o.";"Amsterdam                               ";"BU0363FM01";1245;15;700;510;25;0;1,1;351;0;0;100;;;;;;;;;1
+"Overtoomse Veld-Noord";"Amsterdam                               ";"BU0363FM02";5840;1075;815;2145;1235;570;2,3;426;4;23;77;;;;;;;;;1
+"Rembrandtpark-Noord";"Amsterdam                               ";"BU0363FM03";1015;65;400;380;100;70;1,3;510;5;0;100;;;;;;;;;1
+"Overtoomse Veld-Zuid";"Amsterdam                               ";"BU0363FM04";4650;655;645;2275;710;365;1,8;370;9;16;84;;;;;;;;;1
+"Rembrandtpark-Zuid";"Amsterdam                               ";"BU0363FM05";875;95;65;520;125;65;1,7;515;6;56;44;;;;;;;;;1
+"Johan Jongkindbuurt";"Amsterdam                               ";"BU0363FM06";1060;255;170;310;260;65;2,2;284;34;0;100;;;;;;;;;1
+"Slotervaart-Zuid";"Amsterdam                               ";"WK0363FN  ";11270;1725;2010;3865;2080;1590;1,9;392;5;19;81;;;;;;;;;1
+"Louis Crispijnbuurt";"Amsterdam                               ";"BU0363FN01";3310;490;545;890;660;720;1,9;390;11;20;79;;;;;;;;;1
+"Jacques Veltmanbuurt";"Amsterdam                               ";"BU0363FN02";3750;505;625;1550;655;415;1,8;350;4;20;80;;;;;;;;;1
+"Medisch Centrum Slotervaart";"Amsterdam                               ";"BU0363FN03";870;40;395;310;60;65;1,1;349;5;0;100;;;;;;;;;1
+"Staalmanbuurt";"Amsterdam                               ";"BU0363FN04";3340;690;445;1110;705;390;2,3;468;2;20;80;;;;;;;;;1
+"Westlandgracht";"Amsterdam                               ";"WK0363FP  ";13250;1215;2920;6470;1800;840;1,5;352;5;14;86;;;;;;;;;1
+"Schipluidenbuurt";"Amsterdam                               ";"BU0363FP01";1625;65;450;1020;75;20;1,2;288;4;6;94;;;;;;;;;1
+"Koningin Wilhelminaplein";"Amsterdam                               ";"BU0363FP02";3065;260;360;1900;365;180;1,6;457;4;22;78;;;;;;;;;1
+"Andreasterrein";"Amsterdam                               ";"BU0363FP03";1270;215;160;400;335;155;2,2;790;3;46;54;;;;;;;;;1
+"Delflandpleinbuurt-West";"Amsterdam                               ";"BU0363FP04";4775;470;1095;2230;640;335;1,5;306;4;11;89;;;;;;;;;1
+"Delflandpleinbuurt-Oost";"Amsterdam                               ";"BU0363FP05";2110;200;660;710;390;145;1,4;292;6;10;90;;;;;;;;;1
+"Riekerhaven";"Amsterdam                               ";"BU0363FP06";410;5;200;210;0;0;1,1;;24;0;100;;;;;;;;;2
+"Sloten/Nieuw-Sloten";"Amsterdam                               ";"WK0363FQ  ";14630;2125;1595;4045;4150;2715;2,1;534;2;49;50;;;;;;;;;1
+"Dorp Sloten";"Amsterdam                               ";"BU0363FQ01";705;80;75;165;225;155;2;576;7;73;27;;;;;;;;;2
+"Nieuw-Sloten-Noordwest";"Amsterdam                               ";"BU0363FQ02";3035;470;365;755;880;570;2,3;522;2;51;49;;;;;;;;;1
+"Nieuw-Sloten-Noordoost";"Amsterdam                               ";"BU0363FQ03";3220;485;345;815;850;725;2,2;525;2;35;65;;;;;;;;;1
+"Nieuw-Sloten-Zuidwest";"Amsterdam                               ";"BU0363FQ04";2195;310;270;480;810;330;2,4;582;1;94;6;;;;;;;;;1
+"Belgiëplein e.o.";"Amsterdam                               ";"BU0363FQ05";1155;95;125;300;270;365;1,7;405;3;42;57;;;;;;;;;2
+"Nieuw-Sloten-Zuidoost";"Amsterdam                               ";"BU0363FQ06";2170;420;240;680;580;250;2,3;501;2;20;80;;;;;;;;;2
+"Sloterweg e.o.";"Amsterdam                               ";"BU0363FQ07";315;65;35;75;85;60;2,5;1232;16;79;21;;;;;;;;;3
+"Park Haagseweg";"Amsterdam                               ";"BU0363FQ08";985;135;80;210;325;230;2,2;622;1;92;8;;;;;;;;;2
+"Riekerpolder";"Amsterdam                               ";"BU0363FQ09";695;45;50;540;50;10;1,5;432;3;1;99;;;;;;;;;3
+"Nieuwe Meer";"Amsterdam                               ";"BU0363FQ10";155;20;20;30;70;20;1,7;;;;;;;;;;;;;5
+"Hoofddorppleinbuurt";"Amsterdam                               ";"WK0363KA  ";11875;1280;1325;5510;2530;1230;1,7;534;6;38;61;;;;;;;;;1
+"Westlandgrachtbuurt";"Amsterdam                               ";"BU0363KA01";3650;430;365;1700;775;380;1,7;519;5;35;65;;;;;;;;;1
+"Surinamepleinbuurt";"Amsterdam                               ";"BU0363KA02";1550;190;155;685;325;195;1,7;598;8;40;60;;;;;;;;;1
+"Legmeerpleinbuurt";"Amsterdam                               ";"BU0363KA03";1675;195;180;710;390;200;1,7;572;6;33;66;;;;;;;;;1
+"Aalsmeerwegbuurt-West";"Amsterdam                               ";"BU0363KA04";2540;260;255;1330;495;200;1,7;492;5;45;55;;;;;;;;;1
+"Aalsmeerwegbuurt-Oost";"Amsterdam                               ";"BU0363KA05";2175;210;220;1010;505;230;1,6;534;5;39;60;;;;;;;;;1
+"Bedrijventerrein Schinkel";"Amsterdam                               ";"BU0363KA06";285;0;145;75;50;15;1,2;;;;;;;;;;;;;1
+"Schinkelbuurt";"Amsterdam                               ";"WK0363KB  ";3865;310;440;1820;830;465;1,5;516;8;26;73;;;;;;;;;1
+"Schinkelbuurt-Noord";"Amsterdam                               ";"BU0363KB01";2475;205;275;1225;540;235;1,6;528;6;33;67;;;;;;;;;1
+"Schinkelbuurt-Zuid";"Amsterdam                               ";"BU0363KB02";1395;105;165;595;295;230;1,5;498;12;17;83;;;;;;;;;1
+"Willemspark";"Amsterdam                               ";"WK0363KC  ";5565;920;650;1675;1525;795;2;1155;11;49;51;;;;;;;;;1
+"Vondelpark-West";"Amsterdam                               ";"BU0363KC01";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Willemsparkbuurt-Noord";"Amsterdam                               ";"BU0363KC02";1540;205;220;470;440;205;1,9;1324;15;47;53;;;;;;;;;1
+"Valeriusbuurt-West";"Amsterdam                               ";"BU0363KC03";2610;455;255;860;650;385;2;956;8;46;54;;;;;;;;;1
+"Valeriusbuurt-Oost";"Amsterdam                               ";"BU0363KC04";1415;260;170;345;435;205;2,2;1340;13;56;44;;;;;;;;;1
+"Museumkwartier";"Amsterdam                               ";"WK0363KD  ";12735;1640;1395;3915;3240;2550;1,8;1134;12;41;59;;;;;;;;;1
+"Vondelpark-Oost";"Amsterdam                               ";"BU0363KD01";0;0;0;0;0;5;1;;;;;;;;;;;;;1
+"Cornelis Schuytbuurt";"Amsterdam                               ";"BU0363KD02";2980;495;355;860;830;440;2;1449;15;55;45;;;;;;;;;1
+"Concertgebouwbuurt";"Amsterdam                               ";"BU0363KD03";1875;275;220;555;530;295;1,9;1344;17;54;45;;;;;;;;;1
+"P.C. Hooftbuurt";"Amsterdam                               ";"BU0363KD04";815;85;90;295;215;135;1,7;1189;24;34;66;;;;;;;;;1
+"Museumplein";"Amsterdam                               ";"BU0363KD05";10;0;0;0;0;0;1,6;;;;;;;;;;;;;1
+"Banpleinbuurt";"Amsterdam                               ";"BU0363KD06";765;90;110;135;220;215;2;1748;9;56;44;;;;;;;;;1
+"Hondecoeterbuurt";"Amsterdam                               ";"BU0363KD07";2040;290;220;680;475;385;1,9;1044;11;39;61;;;;;;;;;1
+"Johannes Vermeerbuurt";"Amsterdam                               ";"BU0363KD08";1510;190;160;480;400;270;1,9;1221;12;48;52;;;;;;;;;1
+"Duivelseiland";"Amsterdam                               ";"BU0363KD09";1405;120;145;705;290;135;1,6;599;9;33;67;;;;;;;;;1
+"Harmoniehofbuurt";"Amsterdam                               ";"BU0363KD10";1335;85;85;210;270;675;1,5;650;3;0;100;;;;;;;;;1
+"Oude Pijp";"Amsterdam                               ";"WK0363KE  ";15035;1070;2130;7220;3065;1550;1,5;523;8;25;75;;;;;;;;;1
+"Frans Halsbuurt";"Amsterdam                               ";"BU0363KE01";2640;190;355;1265;565;270;1,5;547;9;28;72;;;;;;;;;1
+"Gerard Doubuurt";"Amsterdam                               ";"BU0363KE02";2025;150;255;940;435;240;1,5;529;8;24;75;;;;;;;;;1
+"Hercules Seghersbuurt";"Amsterdam                               ";"BU0363KE03";2535;155;335;1265;495;285;1,4;466;7;18;82;;;;;;;;;1
+"Sarphatiparkbuurt";"Amsterdam                               ";"BU0363KE04";5180;320;815;2525;1005;515;1,5;493;9;25;75;;;;;;;;;1
+"Hemonybuurt";"Amsterdam                               ";"BU0363KE05";2650;250;365;1230;560;240;1,6;618;9;30;70;;;;;;;;;1
+"Nieuwe Pijp";"Amsterdam                               ";"WK0363KF  ";12650;1015;1430;5890;2655;1655;1,5;498;8;26;73;;;;;;;;;1
+"Cornelis Troostbuurt";"Amsterdam                               ";"BU0363KF01";3595;300;405;1725;715;455;1,6;498;8;30;69;;;;;;;;;1
+"Lizzy Ansinghbuurt";"Amsterdam                               ";"BU0363KF02";2395;190;250;1035;550;375;1,6;492;5;25;75;;;;;;;;;1
+"Van der Helstpleinbuurt";"Amsterdam                               ";"BU0363KF03";3945;340;405;1995;820;380;1,5;511;8;26;73;;;;;;;;;1
+"Willibrordusbuurt";"Amsterdam                               ";"BU0363KF04";2715;185;375;1130;570;450;1,4;483;8;24;76;;;;;;;;;1
+"Zuid Pijp";"Amsterdam                               ";"WK0363KG  ";7920;825;875;2730;2025;1460;1,7;469;4;15;85;;;;;;;;;1
+"BurgemeesterTellegenbuurt-West";"Amsterdam                               ";"BU0363KG01";2170;235;215;720;555;440;1,6;466;4;14;86;;;;;;;;;1
+"Burgemeester Tellegenbuurt-Oost";"Amsterdam                               ";"BU0363KG02";2735;250;305;1005;705;475;1,6;455;4;16;84;;;;;;;;;1
+"Diamantbuurt";"Amsterdam                               ";"BU0363KG03";3015;345;355;1000;765;550;1,7;486;4;16;84;;;;;;;;;1
+"Stadionbuurt";"Amsterdam                               ";"WK0363KH  ";11855;1490;1210;4400;2870;1885;1,7;547;5;17;83;;;;;;;;;1
+"Bertelmanpleinbuurt";"Amsterdam                               ";"BU0363KH01";1040;100;105;330;275;225;1,6;483;4;6;94;;;;;;;;;1
+"Olympisch Stadion e.o.";"Amsterdam                               ";"BU0363KH02";2355;420;190;835;545;360;2;740;6;9;91;;;;;;;;;1
+"Marathonbuurt-West";"Amsterdam                               ";"BU0363KH03";2365;235;245;785;660;435;1,6;412;5;15;85;;;;;;;;;1
+"Marathonbuurt-Oost";"Amsterdam                               ";"BU0363KH04";1470;155;175;445;405;290;1,7;522;3;12;88;;;;;;;;;1
+"Van Tuyllbuurt";"Amsterdam                               ";"BU0363KH05";4205;505;425;1915;840;515;1,7;563;6;27;72;;;;;;;;;1
+"IJsbaanpad e.o.";"Amsterdam                               ";"BU0363KH06";420;70;60;90;145;60;2,1;;;;;;;;;;;;;2
+"Apollobuurt";"Amsterdam                               ";"WK0363KJ  ";8770;1580;1030;2200;2400;1560;2,1;1224;8;55;45;;;;;;;;;1
+"Hiltonbuurt";"Amsterdam                               ";"BU0363KJ01";65;15;15;5;25;10;2,6;;30;58;42;;;;;;;;;1
+"Minervabuurt-Noord";"Amsterdam                               ";"BU0363KJ02";1470;290;180;320;445;235;2,3;1285;8;61;38;;;;;;;;;1
+"Minervabuurt-Midden";"Amsterdam                               ";"BU0363KJ03";2535;485;280;655;660;450;2,2;1126;8;57;43;;;;;;;;;1
+"Minervabuurt-Zuid";"Amsterdam                               ";"BU0363KJ04";2610;425;260;775;665;480;2;932;7;48;52;;;;;;;;;1
+"Beethovenbuurt";"Amsterdam                               ";"BU0363KJ05";1295;205;180;305;365;240;2;1436;9;50;49;;;;;;;;;1
+"Diepenbrockbuurt";"Amsterdam                               ";"BU0363KJ06";790;160;115;135;235;145;2,4;2206;9;68;32;;;;;;;;;1
+"Scheldebuurt";"Amsterdam                               ";"WK0363KK  ";15225;1905;1660;6415;2945;2300;1,8;643;7;30;70;;;;;;;;;1
+"Wielingenbuurt";"Amsterdam                               ";"BU0363KK01";2950;365;305;1205;630;445;1,8;728;4;32;68;;;;;;;;;1
+"Scheldebuurt-West";"Amsterdam                               ";"BU0363KK02";4330;540;540;1740;865;640;1,8;642;7;30;70;;;;;;;;;1
+"Scheldebuurt-Midden";"Amsterdam                               ";"BU0363KK03";3150;425;320;1385;580;445;1,8;678;6;38;62;;;;;;;;;1
+"Scheldebuurt-Oost";"Amsterdam                               ";"BU0363KK04";2430;295;280;1110;445;290;1,8;613;5;35;65;;;;;;;;;1
+"Veluwebuurt";"Amsterdam                               ";"BU0363KK05";1405;170;85;435;325;390;1,6;492;17;9;91;;;;;;;;;1
+"Kop Zuidas";"Amsterdam                               ";"BU0363KK06";970;105;130;545;100;90;1,6;615;7;25;75;;;;;;;;;1
+"IJselbuurt";"Amsterdam                               ";"WK0363KL  ";5200;475;630;2255;1100;735;1,6;489;6;17;83;;;;;;;;;1
+"IJselbuurt-West";"Amsterdam                               ";"BU0363KL01";2355;175;270;1010;540;360;1,5;470;6;17;83;;;;;;;;;1
+"IJselbuurt-Oost";"Amsterdam                               ";"BU0363KL02";2850;300;365;1245;560;375;1,6;508;6;17;83;;;;;;;;;1
+"Rijnbuurt";"Amsterdam                               ";"WK0363KM  ";8950;835;1045;3820;1915;1340;1,6;487;6;21;79;;;;;;;;;1
+"Kromme Mijdrechtbuurt";"Amsterdam                               ";"BU0363KM01";2340;165;295;1010;520;345;1,5;472;8;18;82;;;;;;;;;1
+"Rijnbuurt-West";"Amsterdam                               ";"BU0363KM02";1645;200;135;485;460;375;1,5;439;3;11;89;;;;;;;;;1
+"Rijnbuurt-Midden";"Amsterdam                               ";"BU0363KM03";2220;235;240;1065;395;290;1,7;515;7;22;78;;;;;;;;;1
+"Rijnbuurt-Oost";"Amsterdam                               ";"BU0363KM04";2695;230;375;1250;525;320;1,6;497;5;31;69;;;;;;;;;1
+"Zorgvlied";"Amsterdam                               ";"BU0363KM05";50;5;5;15;15;10;2;;;;;;;;;;;;;1
+"Prinses Irenebuurt e.o.";"Amsterdam                               ";"WK0363KN  ";1365;220;155;320;355;315;2;1064;10;75;24;;;;;;;;;1
+"Prinses Irenebuurt";"Amsterdam                               ";"BU0363KN01";1365;225;155;320;350;315;2;1064;10;75;24;;;;;;;;;1
+"Beatrixpark";"Amsterdam                               ";"BU0363KN02";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Zuidas";"Amsterdam                               ";"WK0363KP  ";5255;560;815;2855;800;220;1,5;611;10;17;82;;;;;;;;;1
+"Zuidas-Noord";"Amsterdam                               ";"BU0363KP01";565;65;25;375;75;20;1,5;839;4;29;71;;;;;;;;;1
+"RAI";"Amsterdam                               ";"BU0363KP02";10;0;5;0;0;0;1;;;;;;;;;;;;;1
+"VU-kwartier";"Amsterdam                               ";"BU0363KP03";175;20;15;105;30;5;1,3;622;3;46;54;;;;;;;;;1
+"Zuidas-Zuid";"Amsterdam                               ";"BU0363KP04";2650;345;175;1535;470;125;1,7;788;14;24;76;;;;;;;;;1
+"Vivaldi";"Amsterdam                               ";"BU0363KP05";1855;135;590;845;225;65;1,2;315;7;6;94;;;;;;;;;1
+"Buitenveldert-West";"Amsterdam                               ";"WK0363KQ  ";14410;1860;1650;4855;2965;3080;1,7;537;6;39;61;;;;;;;;;1
+"Amsterdamse Bos";"Amsterdam                               ";"BU0363KQ01";65;10;5;20;15;20;1,8;;55;45;55;;;;;;;;;4
+"Zuiderhof";"Amsterdam                               ";"BU0363KQ02";40;0;15;20;0;0;1,1;;;;;;;;;;;;;2
+"Buitenveldert-West-Midden";"Amsterdam                               ";"BU0363KQ03";1010;140;115;185;265;310;1,9;943;6;53;47;;;;;;;;;1
+"Gelderlandpleinbuurt";"Amsterdam                               ";"BU0363KQ04";4810;520;580;1760;880;1070;1,6;477;5;35;65;;;;;;;;;1
+"Buitenveldert-Zuidwest";"Amsterdam                               ";"BU0363KQ05";4505;615;385;1325;985;1200;1,7;553;6;35;65;;;;;;;;;1
+"Buitenveldert-Zuid-Midden";"Amsterdam                               ";"BU0363KQ06";3970;580;550;1545;815;480;1,8;494;8;45;55;;;;;;;;;1
+"Buitenveldert-Oost";"Amsterdam                               ";"WK0363KR  ";8240;1105;815;2875;1585;1865;1,7;493;5;32;67;;;;;;;;;1
+"De Klenckebuurt";"Amsterdam                               ";"BU0363KR01";840;105;35;285;135;290;1,7;572;6;35;65;;;;;;;;;1
+"Buitenveldert-Oost-Midden";"Amsterdam                               ";"BU0363KR02";3400;480;280;1180;655;805;1,7;444;4;24;75;;;;;;;;;1
+"Buitenveldert-Zuidoost";"Amsterdam                               ";"BU0363KR03";3980;520;495;1405;800;765;1,7;518;6;39;61;;;;;;;;;1
+"Amstelpark";"Amsterdam                               ";"BU0363KR04";15;5;0;5;5;5;2,2;;;;;;;;;;;;;2
+"Oostelijk Havengebied";"Amsterdam                               ";"WK0363MA  ";20555;2415;2030;7050;6355;2710;1,9;620;4;39;61;;;;;;;;;1
+"Java-eiland";"Amsterdam                               ";"BU0363MA01";3130;310;305;880;1085;550;1,8;671;3;32;68;;;;;;;;;1
+"KNSM-eiland";"Amsterdam                               ";"BU0363MA02";2340;215;165;600;830;530;1,7;572;3;48;52;;;;;;;;;1
+"Oostelijke Handelskade";"Amsterdam                               ";"BU0363MA03";1480;165;115;685;375;140;1,9;682;6;26;74;;;;;;;;;1
+"Rietlanden";"Amsterdam                               ";"BU0363MA04";2450;275;245;905;710;315;1,9;626;2;40;60;;;;;;;;;1
+"Sporenburg";"Amsterdam                               ";"BU0363MA05";2660;395;360;630;1040;240;2,3;701;4;49;51;;;;;;;;;1
+"Borneo";"Amsterdam                               ";"BU0363MA06";2715;450;320;760;930;250;2,2;765;1;37;63;;;;;;;;;1
+"Entrepot-Noordwest";"Amsterdam                               ";"BU0363MA07";1380;145;130;450;415;240;1,8;513;3;34;66;;;;;;;;;1
+"Bedrijvengebied Veelaan";"Amsterdam                               ";"BU0363MA08";35;5;0;10;15;10;1,5;;;;;;;;;;;;;1
+"Architectenbuurt";"Amsterdam                               ";"BU0363MA09";1715;150;155;530;555;320;1,7;479;2;55;45;;;;;;;;;1
+"Cruquiusbuurt";"Amsterdam                               ";"BU0363MA10";2395;265;185;1505;360;85;1,8;551;7;29;71;;;;;;;;;1
+"Bedrijvengebied Zeeburgerkade";"Amsterdam                               ";"BU0363MA11";240;30;40;100;40;25;1,7;486;30;12;88;;;;;;;;;1
+"Weesperzijde";"Amsterdam                               ";"WK0363MB  ";5925;590;1005;2600;1130;590;1,6;585;6;37;62;;;;;;;;;1
+"Weesperzijde-Noord";"Amsterdam                               ";"BU0363MB01";1935;190;250;930;410;160;1,6;597;7;45;55;;;;;;;;;1
+"Weesperzijde-Midden/Zuid";"Amsterdam                               ";"BU0363MB02";3300;355;340;1530;655;425;1,7;588;5;36;64;;;;;;;;;1
+"Parooldriehoek";"Amsterdam                               ";"BU0363MB03";685;50;420;140;65;10;1,2;417;3;0;100;;;;;;;;;1
+"Oosterparkbuurt";"Amsterdam                               ";"WK0363MC  ";10715;1170;1155;4490;2450;1455;1,6;488;5;26;74;;;;;;;;;1
+"Oosterparkbuurt-Noordwest";"Amsterdam                               ";"BU0363MC01";3850;350;440;1760;810;495;1,6;468;3;23;76;;;;;;;;;1
+"Oosterpark";"Amsterdam                               ";"BU0363MC02";105;5;10;50;30;15;1,1;277;7;1;99;;;;;;;;;1
+"Oosterparkbuurt-Zuidwest";"Amsterdam                               ";"BU0363MC03";3055;375;325;1210;715;430;1,7;473;4;22;78;;;;;;;;;1
+"Oosterparkbuurt-Zuidoost";"Amsterdam                               ";"BU0363MC04";3705;440;385;1465;895;520;1,7;534;8;33;67;;;;;;;;;1
+"Transvaalbuurt";"Amsterdam                               ";"WK0363MD  ";8770;1030;1085;3500;2000;1155;1,8;481;7;25;75;;;;;;;;;1
+"Transvaalbuurt-West";"Amsterdam                               ";"BU0363MD01";4020;425;465;1570;965;595;1,7;446;3;27;73;;;;;;;;;1
+"Transvaalbuurt-Oost";"Amsterdam                               ";"BU0363MD02";4750;600;620;1930;1035;560;1,8;510;10;23;77;;;;;;;;;1
+"Dapperbuurt";"Amsterdam                               ";"WK0363ME  ";10130;1120;1160;3910;2340;1600;1,7;487;4;26;74;;;;;;;;;1
+"Dapperbuurt-Noord";"Amsterdam                               ";"BU0363ME01";4280;440;470;1725;930;715;1,7;451;3;25;74;;;;;;;;;1
+"Dapperbuurt-Zuid";"Amsterdam                               ";"BU0363ME02";3715;335;455;1485;920;515;1,6;466;3;22;78;;;;;;;;;1
+"Oostpoort";"Amsterdam                               ";"BU0363ME03";2140;355;225;700;495;365;1,9;610;6;35;65;;;;;;;;;1
+"Indische Buurt-West";"Amsterdam                               ";"WK0363MF  ";12145;1335;1570;5150;2725;1360;1,7;443;5;28;71;;;;;;;;;1
+"Timorpleinbuurt-Noord";"Amsterdam                               ";"BU0363MF01";3845;420;435;1790;875;320;1,6;464;7;34;66;;;;;;;;;1
+"Timorpleinbuurt-Zuid";"Amsterdam                               ";"BU0363MF02";4450;430;660;1990;940;425;1,7;445;4;29;71;;;;;;;;;1
+"Ambonpleinbuurt";"Amsterdam                               ";"BU0363MF03";3855;490;475;1375;910;610;1,9;416;4;21;79;;;;;;;;;1
+"Indische Buurt-Oost";"Amsterdam                               ";"WK0363MG  ";9900;1235;1215;3440;2405;1605;1,8;450;3;23;77;;;;;;;;;1
+"Makassarpleinbuurt";"Amsterdam                               ";"BU0363MG01";5690;665;680;1930;1370;1045;1,8;431;3;19;81;;;;;;;;;1
+"Zeeburgerdijk-Oost";"Amsterdam                               ";"BU0363MG02";435;45;40;130;140;80;2;651;3;57;43;;;;;;;;;1
+"Sumatraplantsoenbuurt";"Amsterdam                               ";"BU0363MG03";3760;520;495;1370;895;475;1,9;460;3;24;76;;;;;;;;;1
+"Flevopark";"Amsterdam                               ";"BU0363MG04";15;0;0;5;5;5;1,7;;;;;;;;;;;;;1
+"Zeeburgereiland/Bovendiep";"Amsterdam                               ";"WK0363MH  ";5750;810;1255;2640;790;255;1,6;388;4;20;80;;;;;;;;;3
+"Sluisbuurt";"Amsterdam                               ";"BU0363MH01";20;5;0;5;5;5;2,1;;;;;;;;;;;;;3
+"Sportheldenbuurt";"Amsterdam                               ";"BU0363MH02";4595;780;585;2295;710;225;1,8;478;4;26;74;;;;;;;;;3
+"Oostpunt Zeeburgereiland";"Amsterdam                               ";"BU0363MH03";5;0;5;0;0;0;2;;;;;;;;;;;;;3
+"Baaibuurt-West";"Amsterdam                               ";"BU0363MH04";320;10;140;115;35;15;1,3;;10;1;99;;;;;;;;;2
+"Baaibuurt-Oost";"Amsterdam                               ";"BU0363MH05";750;0;525;215;10;5;1,1;69;2;0;100;;;;;;;;;2
+"Bovendiep/Diemerpark";"Amsterdam                               ";"BU0363MH06";65;10;10;10;25;15;2,1;;;;;;;;;;;;;3
+"IJburg-West";"Amsterdam                               ";"WK0363MJ  ";16340;3010;2605;5035;4680;1015;2,3;604;3;43;57;;;;;;;;;2
+"Steigereiland-Zuid";"Amsterdam                               ";"BU0363MJ01";2600;490;495;555;905;155;2,6;676;8;56;44;;;;;;;;;3
+"Steigereiland-Noord";"Amsterdam                               ";"BU0363MJ02";2320;395;255;1080;510;85;2;481;3;30;70;;;;;;;;;3
+"Rieteilanden-West";"Amsterdam                               ";"BU0363MJ03";2665;460;500;505;1000;200;2,6;917;3;66;34;;;;;;;;;2
+"Joris Ivenspleinbuurt";"Amsterdam                               ";"BU0363MJ04";2935;485;455;1085;670;245;2;486;3;27;73;;;;;;;;;2
+"Ed Pelsterparkbuurt";"Amsterdam                               ";"BU0363MJ05";5820;1185;895;1810;1595;335;2,4;578;2;45;55;;;;;;;;;2
+"IJburg-Oost";"Amsterdam                               ";"WK0363MK  ";1130;250;115;505;210;40;2,2;639;5;68;32;;;;;;;;;3
+"Buiteneiland";"Amsterdam                               ";"BU0363MK01";0;0;0;0;0;0;;;;;;;;;;;;;;
+"Pampusbuurt-West";"Amsterdam                               ";"BU0363MK02";0;0;0;0;0;0;;;;;;;;;;;;;;
+"Pampusbuurt-Oost";"Amsterdam                               ";"BU0363MK03";0;0;0;0;0;0;;;;;;;;;;;;;;
+"Centrumeiland";"Amsterdam                               ";"BU0363MK04";1130;250;115;505;210;40;2,2;639;5;68;32;;;;;;;;;3
+"Muidenbuurt-West";"Amsterdam                               ";"BU0363MK05";0;0;0;0;0;0;;;;;;;;;;;;;;
+"IJburg-Zuid";"Amsterdam                               ";"WK0363ML  ";8490;1960;1260;2540;2335;395;2,4;624;3;43;57;;;;;;;;;2
+"Havenkwartier IJburg";"Amsterdam                               ";"BU0363ML01";2145;355;270;915;440;160;2;450;4;24;76;;;;;;;;;2
+"Theo van Goghparkbuurt";"Amsterdam                               ";"BU0363ML02";6035;1520;930;1600;1750;235;2,6;667;3;50;50;;;;;;;;;2
+"Rieteiland-Oost";"Amsterdam                               ";"BU0363ML03";315;85;60;25;140;5;3,5;1682;3;97;3;;;;;;;;;2
+"Frankendael";"Amsterdam                               ";"WK0363MM  ";13350;1670;1805;5230;2885;1765;1,6;476;4;17;83;;;;;;;;;1
+"Van der Kunbuurt";"Amsterdam                               ";"BU0363MM01";515;80;75;185;110;65;1,9;380;10;0;100;;;;;;;;;1
+"De Eenhoorn";"Amsterdam                               ";"BU0363MM02";3865;305;855;2015;560;130;1,3;354;4;1;99;;;;;;;;;1
+"Don Bosco";"Amsterdam                               ";"BU0363MM03";2160;330;275;730;510;315;2;628;7;44;56;;;;;;;;;1
+"Julianapark";"Amsterdam                               ";"BU0363MM04";1385;140;80;840;185;135;1,6;538;2;9;91;;;;;;;;;1
+"Frankendael";"Amsterdam                               ";"BU0363MM05";10;5;0;5;5;0;3,3;;;;;;;;;;;;;1
+"Tuindorp Amstelstation";"Amsterdam                               ";"BU0363MM06";835;135;85;165;250;200;1,7;351;4;0;100;;;;;;;;;1
+"De Wetbuurt";"Amsterdam                               ";"BU0363MM07";1815;285;240;415;545;330;2;553;4;39;61;;;;;;;;;1
+"Tuindorp Frankendael";"Amsterdam                               ";"BU0363MM08";2765;395;190;880;720;580;1,7;485;4;15;85;;;;;;;;;1
+"Middenmeer";"Amsterdam                               ";"WK0363MN  ";15515;2205;2995;4845;3480;1995;1,8;569;6;38;62;;;;;;;;;1
+"Linnaeusparkbuurt";"Amsterdam                               ";"BU0363MN01";2645;445;300;855;665;385;2;772;7;44;56;;;;;;;;;1
+"Middenmeer-Noord";"Amsterdam                               ";"BU0363MN02";2830;480;360;810;760;420;2,2;774;4;46;54;;;;;;;;;1
+"Middenmeer-Zuid";"Amsterdam                               ";"BU0363MN03";5100;915;685;1675;1200;620;2;615;4;48;52;;;;;;;;;1
+"Science Park-Noord";"Amsterdam                               ";"BU0363MN04";2680;130;1295;915;270;70;1,3;330;3;14;86;;;;;;;;;1
+"Science Park-Zuid";"Amsterdam                               ";"BU0363MN05";265;10;115;120;10;10;1,1;40;14;0;100;;;;;;;;;3
+"Sportpark Middenmeer-Zuid";"Amsterdam                               ";"BU0363MN06";310;35;10;55;60;145;1,7;615;4;57;43;;;;;;;;;1
+"Sportpark Middenmeer-Noord";"Amsterdam                               ";"BU0363MN07";135;0;60;70;0;5;1;31;49;0;100;;;;;;;;;2
+"Park de Meer";"Amsterdam                               ";"BU0363MN08";1550;195;170;330;520;340;2,1;694;2;64;36;;;;;;;;;1
+"Sportpark Voorland";"Amsterdam                               ";"BU0363MN09";0;0;0;0;0;0;;;;;;;;;;;;;;2
+"Betondorp";"Amsterdam                               ";"WK0363MP  ";3010;385;265;825;845;685;1,7;438;11;19;81;;;;;;;;;1
+"Drieburg";"Amsterdam                               ";"BU0363MP01";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"Nieuwe Oosterbegraafplaats";"Amsterdam                               ";"BU0363MP02";5;0;0;5;0;0;2,5;;;;;;;;;;;;;1
+"Betondorp";"Amsterdam                               ";"BU0363MP03";3005;390;260;825;850;680;1,7;437;11;19;81;;;;;;;;;1
+"Omval/Overamstel";"Amsterdam                               ";"WK0363MQ  ";5935;495;1065;3260;795;310;1,5;514;8;24;76;;;;;;;;;1
+"De Omval";"Amsterdam                               ";"BU0363MQ01";730;50;40;350;160;135;1,7;707;8;45;55;;;;;;;;;1
+"Overamstel";"Amsterdam                               ";"BU0363MQ02";45;5;0;15;25;0;2,6;;;;;;;;;;;;;5
+"Amstelglorie";"Amsterdam                               ";"BU0363MQ03";80;10;10;15;30;10;2;;;;;;;;;;;;;2
+"Amstelkwartier-West";"Amsterdam                               ";"BU0363MQ04";750;15;215;485;20;15;1,1;261;14;0;100;;;;;;;;;3
+"Amstelkwartier-Noord";"Amsterdam                               ";"BU0363MQ05";2865;315;335;1680;430;110;1,6;529;7;28;72;;;;;;;;;1
+"Amstelkwartier-Zuid";"Amsterdam                               ";"BU0363MQ06";60;5;5;30;5;10;1,3;;;;;;;;;;;;;2
+"Weespertrekvaart";"Amsterdam                               ";"BU0363MQ07";1405;100;455;685;130;30;1,4;656;5;23;77;;;;;;;;;1
+"Oostzanerwerf";"Amsterdam                               ";"WK0363NA  ";9075;1535;1150;2415;2525;1445;2,2;424;3;46;54;;;;;;;;;2
+"Noorder IJplas";"Amsterdam                               ";"BU0363NA01";145;10;20;15;55;50;2,1;;;;;;;;;;;;;5
+"Melkweg/Oostzanerwerf";"Amsterdam                               ";"BU0363NA02";325;30;60;125;95;15;1,5;;;;;;;;;;;;;4
+"Walvisbuurt";"Amsterdam                               ";"BU0363NA03";1370;230;160;365;405;205;2,3;496;3;69;31;;;;;;;;;2
+"Twiske-West";"Amsterdam                               ";"BU0363NA04";2525;445;300;570;790;410;2,4;554;2;66;34;;;;;;;;;2
+"Oostzanerdijk";"Amsterdam                               ";"BU0363NA05";340;70;25;95;95;50;2,3;573;7;73;27;;;;;;;;;2
+"Circus/Kermisbuurt";"Amsterdam                               ";"BU0363NA06";1330;180;130;440;390;190;2;385;2;56;44;;;;;;;;;2
+"Molenwijk";"Amsterdam                               ";"BU0363NA07";3045;570;450;805;690;530;2,1;306;5;15;85;;;;;;;;;2
+"Noordelijke IJ-oevers-West";"Amsterdam                               ";"WK0363NB  ";10435;1015;1210;6075;1570;565;1,6;471;4;22;78;;;;;;;;;1
+"Cornelis Douwesterrein-West";"Amsterdam                               ";"BU0363NB01";0;0;0;5;0;0;2;;;;;;;;;;;;;4
+"Cornelis Douwesterrein-Oost";"Amsterdam                               ";"BU0363NB02";0;0;0;5;0;0;2;;;;;;;;;;;;;2
+"NDSM terrein";"Amsterdam                               ";"BU0363NB03";3805;135;645;2755;240;40;1,3;327;4;4;96;;;;;;;;;2
+"Buiksloterham-Zuid";"Amsterdam                               ";"BU0363NB04";1725;280;115;940;305;80;1,8;498;4;28;72;;;;;;;;;1
+"Buiksloterham-Noord";"Amsterdam                               ";"BU0363NB05";1525;320;130;630;370;80;2,1;599;8;63;37;;;;;;;;;1
+"Klaprozenbuurt";"Amsterdam                               ";"BU0363NB06";125;10;15;35;35;25;1,7;;;;;;;;;;;;;1
+"Overhoeks";"Amsterdam                               ";"BU0363NB07";3245;270;305;1705;620;345;1,7;611;4;29;71;;;;;;;;;1
+"Tuindorp Oostzaan";"Amsterdam                               ";"WK0363NC  ";12135;2250;1225;3465;3105;2090;2,1;441;3;33;67;;;;;;;;;1
+"Tuindorp Oostzaan-West";"Amsterdam                               ";"BU0363NC01";1135;170;95;215;270;385;1,9;402;3;24;76;;;;;;;;;3
+"Tuindorp Oostzaan-Oost";"Amsterdam                               ";"BU0363NC02";4165;685;405;1095;1155;820;2;415;2;31;69;;;;;;;;;1
+"Terrasdorp";"Amsterdam                               ";"BU0363NC03";4020;555;385;1250;1050;780;1,8;374;4;23;77;;;;;;;;;1
+"De Bongerd";"Amsterdam                               ";"BU0363NC04";2805;840;335;900;625;100;2,9;679;5;67;33;;;;;;;;;1
+"Kadoelen";"Amsterdam                               ";"WK0363ND  ";3595;785;370;865;1015;565;2,5;633;2;66;34;;;;;;;;;2
+"Twiske-Oost";"Amsterdam                               ";"BU0363ND01";1115;170;130;245;320;245;2,4;475;1;55;45;;;;;;;;;2
+"Kadoelen";"Amsterdam                               ";"BU0363ND02";2485;610;240;615;695;320;2,6;710;2;71;29;;;;;;;;;2
+"Banne Buiksloot";"Amsterdam                               ";"WK0363NE  ";14735;2705;2000;4135;3510;2385;2,2;396;3;30;70;;;;;;;;;1
+"Banne-Noordwest";"Amsterdam                               ";"BU0363NE01";2595;465;410;770;610;335;2,1;334;2;20;79;;;;;;;;;2
+"Banne-Noordoost";"Amsterdam                               ";"BU0363NE02";3550;640;540;945;875;555;2,3;381;2;31;69;;;;;;;;;2
+"Banne-Zuidwest";"Amsterdam                               ";"BU0363NE03";3740;705;605;900;835;695;2,3;397;3;25;75;;;;;;;;;1
+"Banne-Zuidoost";"Amsterdam                               ";"BU0363NE04";4205;780;370;1345;1005;700;2;414;3;33;67;;;;;;;;;1
+"Buiksloterbreek";"Amsterdam                               ";"BU0363NE05";305;50;30;60;95;75;2,4;733;4;96;4;;;;;;;;;1
+"Marjoleinterrein";"Amsterdam                               ";"BU0363NE06";335;65;50;105;90;25;2,4;497;6;49;51;;;;;;;;;1
+"Nieuwendammerdijk/Buiksloterdijk";"Amsterdam                               ";"WK0363NF  ";1690;370;190;335;515;290;2,6;908;6;92;8;;;;;;;;;1
+"Buiksloterdijk-West";"Amsterdam                               ";"BU0363NF01";165;45;15;25;50;30;2,5;892;2;90;10;;;;;;;;;1
+"Buiksloterdijk-Oost";"Amsterdam                               ";"BU0363NF02";140;25;15;25;35;40;2,4;1094;2;96;4;;;;;;;;;1
+"Nieuwendammerdijk-West";"Amsterdam                               ";"BU0363NF03";1030;215;125;200;325;175;2,6;881;7;91;9;;;;;;;;;1
+"Nieuwendammerdijk-Oost";"Amsterdam                               ";"BU0363NF04";350;90;35;85;105;45;2,8;922;6;96;4;;;;;;;;;2
+"Nieuwendammerdijk-Zuid";"Amsterdam                               ";"BU0363NF05";5;0;0;5;5;0;1,3;;;;;;;;;;;;;2
+"Elzenhagen";"Amsterdam                               ";"WK0363NG  ";5350;990;900;2215;880;360;1,8;372;4;23;77;;;;;;;;;1
+"Elzenhagen-Noord";"Amsterdam                               ";"BU0363NG01";3605;815;580;1285;675;250;2,2;486;2;39;61;;;;;;;;;1
+"Elzenhagen-Zuid";"Amsterdam                               ";"BU0363NG02";1625;145;310;915;175;85;1,3;211;6;0;100;;;;;;;;;1
+"Nintemanterrein";"Amsterdam                               ";"BU0363NG03";125;35;10;20;30;30;3,2;867;3;100;0;;;;;;;;;1
+"Buikslotermeer";"Amsterdam                               ";"WK0363NH  ";12070;1520;1820;3810;2425;2495;1,8;376;5;28;72;;;;;;;;;1
+"Buikslotermeer-Noord";"Amsterdam                               ";"BU0363NH01";2465;190;545;710;415;600;1,5;393;12;48;52;;;;;;;;;1
+"De Kleine Wereld";"Amsterdam                               ";"BU0363NH02";2640;430;415;645;620;535;2,1;322;2;11;89;;;;;;;;;1
+"Loenermark";"Amsterdam                               ";"BU0363NH03";2175;170;260;1015;310;415;1,6;344;3;26;74;;;;;;;;;1
+"Buikslotermeerplein";"Amsterdam                               ";"BU0363NH04";1365;160;115;390;265;435;1,7;404;4;17;82;;;;;;;;;1
+"Plan van Gool";"Amsterdam                               ";"BU0363NH05";3180;520;465;1005;765;420;2,1;395;2;29;71;;;;;;;;;1
+"Rode Kruisbuurt";"Amsterdam                               ";"BU0363NH06";245;35;15;50;55;90;2,2;704;4;94;6;;;;;;;;;1
+"Waterlandpleinbuurt";"Amsterdam                               ";"WK0363NJ  ";14180;2940;2000;4315;3305;1610;2,2;387;3;30;70;;;;;;;;;1
+"Markengouw-Noord";"Amsterdam                               ";"BU0363NJ01";650;55;105;240;115;135;1,6;315;5;47;53;;;;;;;;;1
+"Markengouw-Midden";"Amsterdam                               ";"BU0363NJ02";4140;1025;645;1280;895;290;2,6;451;2;22;78;;;;;;;;;1
+"Markengouw-Zuid";"Amsterdam                               ";"BU0363NJ03";2305;665;325;660;500;165;2,6;388;3;28;72;;;;;;;;;2
+"Werengouw-Noord";"Amsterdam                               ";"BU0363NJ04";465;35;40;145;100;145;1,7;392;7;72;28;;;;;;;;;1
+"Werengouw-Midden";"Amsterdam                               ";"BU0363NJ05";5005;795;625;1655;1255;670;1,9;338;2;27;73;;;;;;;;;1
+"Werengouw-Zuid";"Amsterdam                               ";"BU0363NJ06";1615;370;260;335;445;205;2,5;464;2;39;60;;;;;;;;;2
+"Volewijck";"Amsterdam                               ";"WK0363NK  ";9460;1535;1010;3060;2550;1305;1,9;382;5;15;85;;;;;;;;;1
+"Bloemenbuurt-Noord";"Amsterdam                               ";"BU0363NK01";2475;425;195;770;635;450;2;404;2;27;73;;;;;;;;;1
+"Bloemenbuurt-Zuid";"Amsterdam                               ";"BU0363NK02";2340;410;260;680;625;370;2;420;5;9;91;;;;;;;;;1
+"Van der Pekbuurt";"Amsterdam                               ";"BU0363NK03";4645;700;560;1605;1295;490;1,8;354;7;11;89;;;;;;;;;1
+"IJplein/Vogelbuurt";"Amsterdam                               ";"WK0363NL  ";7875;1100;920;2690;2100;1070;1,8;410;7;20;80;;;;;;;;;1
+"Vogelbuurt-Noord";"Amsterdam                               ";"BU0363NL01";1035;170;85;370;270;135;1,8;369;21;19;81;;;;;;;;;1
+"Vliegenbos";"Amsterdam                               ";"BU0363NL02";185;25;30;45;70;20;2,4;;27;61;39;;;;;;;;;2
+"Vogelbuurt-Zuid";"Amsterdam                               ";"BU0363NL03";4165;605;560;1440;1055;510;1,9;418;5;20;80;;;;;;;;;1
+"IJplein e.o.";"Amsterdam                               ";"BU0363NL04";2490;295;245;835;705;405;1,7;399;4;19;81;;;;;;;;;1
+"Tuindorp Buiksloot";"Amsterdam                               ";"WK0363NM  ";1905;330;170;540;485;375;2;415;4;19;81;;;;;;;;;1
+"Blauwe Zand";"Amsterdam                               ";"BU0363NM01";1905;330;170;540;485;375;2;415;4;19;81;;;;;;;;;1
+"Tuindorp Nieuwendam";"Amsterdam                               ";"WK0363NN  ";3460;535;305;805;1000;805;1,9;431;3;21;79;;;;;;;;;1
+"Tuindorp Nieuwendam-West";"Amsterdam                               ";"BU0363NN01";1060;160;85;240;270;300;1,9;411;3;25;75;;;;;;;;;1
+"Tuindorp Nieuwendam-Oost";"Amsterdam                               ";"BU0363NN02";2400;375;220;565;730;505;1,9;440;3;19;81;;;;;;;;;1
+"Noordelijke IJ-oevers-Oost";"Amsterdam                               ";"WK0363NP  ";415;35;95;190;80;20;1,3;318;18;11;89;;;;;;;;;1
+"Hamerstraatkwartier-West";"Amsterdam                               ";"BU0363NP01";380;25;90;175;70;20;1,3;311;18;9;91;;;;;;;;;1
+"Hamerstraatkwartier-Oost";"Amsterdam                               ";"BU0363NP02";15;5;0;5;5;5;2;;;;;;;;;;;;;2
+"Bedrijventerrein Nieuwendammerdijk";"Amsterdam                               ";"BU0363NP03";20;10;5;5;5;5;1,9;;;;;;;;;;;;;2
+"Waterland";"Amsterdam                               ";"WK0363NQ  ";2390;390;265;445;800;495;2,3;971;12;77;23;;;;;;;;;5
+"Noorderstrook-West";"Amsterdam                               ";"BU0363NQ01";80;5;0;35;30;5;1,2;;;;;;;;;;;;;3
+"Noorderstrook-Oost";"Amsterdam                               ";"BU0363NQ02";0;0;0;0;0;0;2;;;;;;;;;;;;;2
+"Zunderdorp";"Amsterdam                               ";"BU0363NQ03";465;70;45;90;150;105;2,3;945;11;70;30;;;;;;;;;5
+"Schellingwoude-West";"Amsterdam                               ";"BU0363NQ04";70;10;10;5;30;20;2;880;10;74;26;;;;;;;;;4
+"Schellingwoude-Oost";"Amsterdam                               ";"BU0363NQ05";625;120;75;125;190;110;2,4;990;3;87;13;;;;;;;;;3
+"Schellingwoude-Noord";"Amsterdam                               ";"BU0363NQ06";5;0;0;0;5;5;2,5;;;;;;;;;;;;;5
+"Zwarte Gouw";"Amsterdam                               ";"BU0363NQ07";35;0;10;15;5;5;2,6;;32;9;91;;;;;;;;;5
+"Holysloot";"Amsterdam                               ";"BU0363NQ08";280;40;30;45;100;70;2,5;;25;73;27;;;;;;;;;5
+"Ransdorp";"Amsterdam                               ";"BU0363NQ09";315;55;25;45;105;80;2,3;969;11;85;15;;;;;;;;;5
+"Durgerdam";"Amsterdam                               ";"BU0363NQ10";515;100;65;70;185;95;2,5;972;8;86;14;;;;;;;;;5
+"Driemond";"Amsterdam                               ";"WK0363SA  ";1705;320;190;415;480;295;2,4;482;2;61;39;;;;;;;;;5
+"Landelijk gebied Driemond";"Amsterdam                               ";"BU0363SA01";150;35;30;30;40;15;3,5;1001;0;91;9;;;;;;;;;4
+"Dorp Driemond";"Amsterdam                               ";"BU0363SA02";1555;290;160;385;440;280;2,3;447;2;59;41;;;;;;;;;5
+"Bloemendalerpolder";"Amsterdam                               ";"WK0363SB  ";5470;1905;285;2180;885;210;3,1;800;4;95;4;;;;;;;;;3
+"Weespersluis-Noord";"Amsterdam                               ";"BU0363SB01";5;0;0;0;5;5;3;;;;;;;;;;;;;5
+"Waterrijk";"Amsterdam                               ";"BU0363SB02";520;205;25;230;65;10;3,3;1069;22;95;5;;;;;;;;;5
+"Lanenrijk";"Amsterdam                               ";"BU0363SB03";2750;1060;75;1265;300;50;3,1;799;2;98;2;;;;;;;;;3
+"Vechtrijk";"Amsterdam                               ";"BU0363SB04";605;225;25;275;70;15;3,3;818;5;97;3;;;;;;;;;4
+"Leeuwenveld";"Amsterdam                               ";"BU0363SB05";1555;420;160;405;440;125;2,9;712;2;92;8;;;;;;;;;2
+"Bedrijventerrein Nijverheidslaan";"Amsterdam                               ";"BU0363SB06";30;5;0;5;10;5;2,1;;;;;;;;;;;;;3
+"Weesp-Noordwest";"Amsterdam                               ";"WK0363SC  ";8000;1285;765;2330;2015;1605;2;374;4;42;58;;;;;;;;;2
+"Bedrijventerrein-Noord Weesp";"Amsterdam                               ";"BU0363SC01";130;10;0;65;30;15;1,7;369;11;37;63;;;;;;;;;3
+"Hogewey-Noord";"Amsterdam                               ";"BU0363SC02";1155;255;85;370;205;240;2,4;432;5;70;30;;;;;;;;;2
+"Hogewey-Midden";"Amsterdam                               ";"BU0363SC03";1875;340;175;480;480;400;2,1;364;5;43;57;;;;;;;;;2
+"Hogewey-Zuid";"Amsterdam                               ";"BU0363SC04";1905;265;225;310;525;585;2,1;439;3;35;65;;;;;;;;;2
+"Weesp Dichtersbuurt";"Amsterdam                               ";"BU0363SC05";1885;230;160;810;485;200;1,7;319;3;48;51;;;;;;;;;2
+"Weesp Schildersbuurt";"Amsterdam                               ";"BU0363SC06";1050;185;115;290;280;170;2,1;348;3;17;83;;;;;;;;;1
+"Weesp Binnenstad/Zuid";"Amsterdam                               ";"WK0363SD  ";5770;855;570;1375;1580;1390;1,9;489;4;54;46;;;;;;;;;2
+"Herensingelkwartier";"Amsterdam                               ";"BU0363SD01";1045;150;110;315;290;185;1,8;485;3;63;37;;;;;;;;;1
+"Bedrijventerrein Van Houten";"Amsterdam                               ";"BU0363SD02";680;150;95;170;180;80;2;703;1;92;8;;;;;;;;;2
+"Weesp Centrum";"Amsterdam                               ";"BU0363SD03";2185;285;195;550;655;500;1,8;506;5;56;44;;;;;;;;;2
+"Weesp-Zuid I";"Amsterdam                               ";"BU0363SD04";570;45;45;80;110;290;1,6;319;6;20;80;;;;;;;;;2
+"Weesp-Zuid II";"Amsterdam                               ";"BU0363SD05";645;100;65;130;185;170;2,1;472;2;33;67;;;;;;;;;3
+"De Klomp";"Amsterdam                               ";"BU0363SD06";640;120;65;135;165;165;2,5;578;2;86;14;;;;;;;;;4
+"Aetsveld/Oostelijke Vechtoever";"Amsterdam                               ";"WK0363SE  ";4355;640;460;870;1300;1090;2,3;477;2;71;29;;;;;;;;;3
+"Aetsveldsepolder";"Amsterdam                               ";"BU0363SE01";445;45;55;30;210;105;2,4;775;8;92;8;;;;;;;;;5
+"Aetsveld-Zuid";"Amsterdam                               ";"BU0363SE02";1750;260;180;425;460;430;2,2;416;1;68;32;;;;;;;;;3
+"Aetsveld-Noord";"Amsterdam                               ";"BU0363SE03";1625;260;160;340;460;410;2,3;435;1;68;32;;;;;;;;;3
+"Oostelijke Vechtoever";"Amsterdam                               ";"BU0363SE04";540;75;70;75;175;150;2,3;797;5;84;16;;;;;;;;;4
+"Amstel III/Bullewijk";"Amsterdam                               ";"WK0363TA  ";3870;155;1175;2330;190;20;1,2;202;8;0;100;;;;;;;;;2
+"Hoofdcentrum-Zuidoost";"Amsterdam                               ";"BU0363TA01";30;0;5;20;5;0;1,1;;;;;;;;;;;;;2
+"Amstel III deel C/D-Noord";"Amsterdam                               ";"BU0363TA02";50;0;15;30;10;0;1,1;;;;;;;;;;;;;4
+"Amstel III deel A/B-Noord";"Amsterdam                               ";"BU0363TA03";980;95;155;635;85;10;1,5;351;3;0;100;;;;;;;;;2
+"Amstel III deel C/D-Zuid";"Amsterdam                               ";"BU0363TA04";5;0;5;0;0;5;1,5;;;;;;;;;;;;;4
+"Amstel III deel A/B-Zuid";"Amsterdam                               ";"BU0363TA05";2680;55;975;1590;60;0;1,2;181;8;0;100;;;;;;;;;1
+"AMC";"Amsterdam                               ";"BU0363TA06";35;0;0;15;15;0;1;;;;;;;;;;;;;2
+"Hoge Dijk";"Amsterdam                               ";"BU0363TA07";90;0;25;40;15;10;1,2;;;;;;;;;;;;;5
+"Venserpolder";"Amsterdam                               ";"WK0363TB  ";8490;1035;1140;2955;2190;1170;1,7;287;3;27;73;;;;;;;;;1
+"Venserpolder-West";"Amsterdam                               ";"BU0363TB01";5050;615;665;1675;1320;785;1,6;280;4;22;78;;;;;;;;;1
+"Venserpolder-Oost";"Amsterdam                               ";"BU0363TB02";3440;420;480;1280;875;390;1,7;299;2;35;65;;;;;;;;;1
+"Amsterdamse Poort e.o.";"Amsterdam                               ";"WK0363TC  ";9655;1030;2485;3695;1785;660;1,6;224;6;12;87;;;;;;;;;1
+"D-buurt";"Amsterdam                               ";"BU0363TC01";2350;130;1200;840;135;45;1,2;56;6;1;99;;;;;;;;;1
+"F-buurt";"Amsterdam                               ";"BU0363TC02";4350;645;775;1645;1015;270;1,9;323;3;27;73;;;;;;;;;1
+"Amsterdamse Poort";"Amsterdam                               ";"BU0363TC03";2315;170;435;1050;445;205;1,4;250;10;0;100;;;;;;;;;1
+"Vogeltjeswei";"Amsterdam                               ";"BU0363TC04";640;75;75;160;190;135;2,2;442;1;56;44;;;;;;;;;1
+"Nelson Mandelapark";"Amsterdam                               ";"BU0363TC05";0;0;0;0;0;0;;;;;;;;;;;;;;1
+"H-buurt";"Amsterdam                               ";"WK0363TD  ";7610;1225;1505;2295;1890;705;1,8;263;5;10;90;;;;;;;;;1
+"Hoptille";"Amsterdam                               ";"BU0363TD01";1980;255;540;745;340;105;1,6;222;4;7;93;;;;;;;;;1
+"Rechte H-buurt";"Amsterdam                               ";"BU0363TD02";3095;520;535;835;865;345;1,9;275;4;17;82;;;;;;;;;1
+"Hakfort/Huigenbos";"Amsterdam                               ";"BU0363TD03";2345;425;400;680;635;200;1,9;270;6;0;100;;;;;;;;;1
+"Huntum";"Amsterdam                               ";"BU0363TD04";190;20;30;30;50;55;2,1;585;6;82;18;;;;;;;;;1
+"Ganzenhoef e.o.";"Amsterdam                               ";"WK0363TE  ";7725;1260;1265;2375;2090;745;2;362;4;28;72;;;;;;;;;1
+"E-buurt";"Amsterdam                               ";"BU0363TE01";2350;495;555;680;550;75;2,3;508;4;50;50;;;;;;;;;1
+"G-buurt-West";"Amsterdam                               ";"BU0363TE02";3740;500;505;1230;1000;510;1,9;388;3;36;64;;;;;;;;;1
+"G-buurt-Noord";"Amsterdam                               ";"BU0363TE03";1640;265;205;465;540;165;1,7;221;7;0;100;;;;;;;;;1
+"Geerdinkhof/Kantershof";"Amsterdam                               ";"WK0363TF  ";7180;855;985;1870;1760;1715;1,8;363;4;58;42;;;;;;;;;1
+"G-buurt-Oost";"Amsterdam                               ";"BU0363TF01";3200;245;440;820;670;1025;1,6;363;5;64;36;;;;;;;;;1
+"Grunder/Koningshoef";"Amsterdam                               ";"BU0363TF02";1750;300;285;515;480;170;2,2;422;2;50;49;;;;;;;;;1
+"Kantershof";"Amsterdam                               ";"BU0363TF03";2235;305;260;540;610;520;1,8;329;3;52;48;;;;;;;;;2
+"Bijlmermuseum";"Amsterdam                               ";"WK0363TG  ";7770;1265;1305;2250;1920;1030;1,8;268;4;12;88;;;;;;;;;1
+"Bijlmermuseum-Noord";"Amsterdam                               ";"BU0363TG01";2265;340;340;475;590;515;1,8;281;3;9;91;;;;;;;;;1
+"Bijlmermuseum-Zuid";"Amsterdam                               ";"BU0363TG02";3120;530;540;985;745;310;1,9;287;4;24;76;;;;;;;;;1
+"De Kameleon e.o.";"Amsterdam                               ";"BU0363TG03";2395;390;425;785;585;200;1,7;234;3;0;100;;;;;;;;;1
+"K-buurt";"Amsterdam                               ";"WK0363TH  ";7465;1390;1070;2180;1880;950;2;352;3;29;70;;;;;;;;;1
+"Gooise Kant";"Amsterdam                               ";"BU0363TH01";745;215;95;280;150;5;2,7;515;2;65;35;;;;;;;;;1
+"Kortvoort";"Amsterdam                               ";"BU0363TH02";2880;410;325;840;725;580;1,7;266;4;15;85;;;;;;;;;1
+"Kelbergen";"Amsterdam                               ";"BU0363TH03";1030;185;160;235;275;170;2,3;342;1;19;81;;;;;;;;;1
+"K-buurt-Zuidwest";"Amsterdam                               ";"BU0363TH04";1415;235;270;360;415;130;2,3;411;2;55;45;;;;;;;;;1
+"K-buurt-Zuidoost";"Amsterdam                               ";"BU0363TH05";1395;340;215;460;315;60;2,4;490;2;40;60;;;;;;;;;2
+"Holendrecht";"Amsterdam                               ";"WK0363TJ  ";9695;1750;1375;2340;2355;1880;2,1;315;3;19;81;;;;;;;;;1
+"Holendrecht-West";"Amsterdam                               ";"BU0363TJ01";2895;585;470;595;660;585;2;272;3;0;100;;;;;;;;;1
+"Holendrecht-Oost";"Amsterdam                               ";"BU0363TJ02";2505;365;265;610;550;720;2,1;416;2;56;44;;;;;;;;;1
+"Holendrecht-Zuid";"Amsterdam                               ";"BU0363TJ03";4295;800;635;1145;1145;570;2,1;287;3;12;88;;;;;;;;;1
+"Nellestein";"Amsterdam                               ";"WK0363TK  ";3110;375;290;1080;745;620;1,7;312;4;41;58;;;;;;;;;2
+"L-buurt";"Amsterdam                               ";"BU0363TK01";3085;375;290;1080;730;610;1,7;308;4;41;59;;;;;;;;;2
+"Gaasperpark";"Amsterdam                               ";"BU0363TK02";20;0;0;0;10;0;2;;;;;;;;;;;;;4
+"Gaasperplas";"Amsterdam                               ";"BU0363TK03";5;0;0;0;0;5;2;;;;;;;;;;;;;5
+"Reigersbos";"Amsterdam                               ";"WK0363TL  ";8590;1200;1075;2445;2245;1625;1,8;317;4;35;65;;;;;;;;;1
+"Reigersbos 1";"Amsterdam                               ";"BU0363TL01";2050;265;260;660;615;250;1,8;297;5;33;67;;;;;;;;;1
+"Reigersbos 2";"Amsterdam                               ";"BU0363TL02";1540;165;220;460;400;300;1,6;265;4;36;64;;;;;;;;;1
+"Reigersbos 3";"Amsterdam                               ";"BU0363TL03";2460;350;315;665;620;515;1,9;310;2;31;69;;;;;;;;;1
+"Reigersbos 4";"Amsterdam                               ";"BU0363TL04";2540;420;280;665;615;565;2,1;380;4;38;62;;;;;;;;;2
+"Gein";"Amsterdam                               ";"WK0363TM  ";11190;1670;1360;2975;2930;2250;2;328;4;41;59;;;;;;;;;2
+"Gein 1";"Amsterdam                               ";"BU0363TM01";2960;430;435;830;755;510;1,7;248;5;21;79;;;;;;;;;2
+"Gein 2";"Amsterdam                               ";"BU0363TM02";1645;275;230;495;455;195;1,9;282;2;23;77;;;;;;;;;1
+"Gein 3";"Amsterdam                               ";"BU0363TM03";3200;435;360;735;865;805;2,3;431;1;95;5;;;;;;;;;2
+"Gein 4";"Amsterdam                               ";"BU0363TM04";3385;535;335;920;855;750;2,1;350;5;26;74;;;;;;;;;2

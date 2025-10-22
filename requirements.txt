@@ -1,0 +1,11 @@
+requests
+pandas
+geopandas
+numpy
+shapely
+pyproj
+scikit-learn
+statsmodels
+seaborn
+matplotlib
+lightgbm

@@ -1,0 +1,440 @@
+buurtcode_2022,buurt_name,stadsdeel_name,risk_prediction_2028,risk_probability_2028
+AE01,Kop Zeedijk,Centrum,0,0.06745639082887164
+AE02,Oude Kerk e.o.,Centrum,0,0.06745641831161467
+AE03,Burgwallen-Oost,Centrum,0,0.06745641820869089
+AE04,Nes e.o.,Centrum,0,0.06745642682006671
+AE05,BG-terrein e.o.,Centrum,0,0.06745641831161467
+AD01,Stationsplein e.o.,Centrum,0,0.06744927095960956
+AD02,Hemelrijk,Centrum,0,0.06745639206118184
+AD03,Nieuwendijk-Noord,Centrum,0,0.06745641142587024
+AD04,Spuistraat-Noord,Centrum,0,0.06745638324716345
+AD05,Nieuwe Kerk e.o.,Centrum,0,0.06745637678011455
+AD06,Spuistraat-Zuid,Centrum,0,0.06745637761600433
+AD07,Begijnhofbuurt,Centrum,0,0.06745640919696466
+AD08,Kalverdriehoek,Centrum,0,0.06745644771314255
+AC01,Langestraat e.o.,Centrum,0,0.06745287978198507
+AC02,Leliegracht e.o.,Centrum,0,0.06745244125796378
+AC03,Felix Meritisbuurt,Centrum,0,0.06745244125796378
+AC04,Leidsegracht-Noord,Centrum,0,0.06745244524932233
+AG04,Spiegelbuurt,Centrum,0,0.06745360094510296
+AG06,Amstelveldbuurt,Centrum,0,0.06744228596565875
+AG01,Leidsegracht-Zuid,Centrum,0,0.06745247207867905
+AF01,Oosterdokseiland,Centrum,0,0.06745232011918077
+AF03,Scheepvaarthuisbuurt,Centrum,0,0.06745647449785834
+AF04,Rapenburg,Centrum,0,0.06745640266209095
+AF02,Lastage,Centrum,0,0.06745637307706863
+AF05,Nieuwmarkt,Centrum,0,0.06742066831570259
+AF06,Uilenburg,Centrum,0,0.0674563991870357
+AF07,Valkenburg,Centrum,0,0.06747857623944986
+AF08,Zuiderkerkbuurt,Centrum,0,0.0674564226985485
+AF09,Waterloopleinbuurt,Centrum,0,0.06745637190136744
+AA03,Westerdokseiland,Centrum,0,0.06745753809853121
+AA06,Haarlemmerbuurt-Oost,Centrum,0,0.0674563728999723
+AA05,Haarlemmerbuurt-West,Centrum,0,0.06745624798035835
+AA02,Westelijke eilanden,Centrum,0,0.06745618392265237
+AA01,Planciusbuurt-Noord,Centrum,0,0.13936516395846152
+AA04,Planciusbuurt-Zuid,Centrum,0,0.06700139608954875
+AB02,Driehoekbuurt,Centrum,0,0.06745621756720753
+AB07,Bloemgrachtbuurt,Centrum,0,0.06745617729685605
+AB01,Marnixbuurt-Noord,Centrum,0,0.06742089785347741
+AB04,Zaagpoortbuurt,Centrum,0,0.13880194573357374
+AB06,Marnixbuurt-Midden,Centrum,0,0.06748156654023324
+AB10,Elandsgrachtbuurt,Centrum,0,0.06744769075818874
+AB11,Passeerdersgrachtbuurt,Centrum,0,0.06744762330333937
+AB08,Groenmarktkadebuurt,Centrum,0,0.06745894988428565
+AB09,Marnixbuurt-Zuid,Centrum,0,0.067449940026961
+AB03,Anjeliersbuurt-Noord,Centrum,0,0.06745636934607646
+AB05,Anjeliersbuurt-Zuid,Centrum,0,0.06745622043756536
+AH01,Leidsebuurt-Noordwest,Centrum,0,0.0674591393041633
+AH05,Leidsebuurt-Zuidwest,Centrum,0,0.0674748359997792
+AH02,Leidsebuurt-Noordoost,Centrum,0,0.06744768884939463
+AH06,Leidsebuurt-Zuidoost,Centrum,0,0.06747488132478993
+AH03,Weteringbuurt,Centrum,0,0.06745006350692918
+AH07,Den Texbuurt,Centrum,0,0.06745764470814541
+AH04,Utrechtsebuurt-Zuid,Centrum,0,0.0674565520718651
+AH08,Frederikspleinbuurt,Centrum,0,0.06745250430746666
+AJ01,Weesperbuurt,Centrum,0,0.0674562802924949
+AJ03,Sarphatistrook,Centrum,0,0.06745631610433199
+AJ02,Plantage,Centrum,0,0.06745914729104778
+AJ04,Alexanderplein e.o.,Centrum,0,0.06745703493596684
+AK01,Marine-Etablissement,Centrum,0,0.0674248372744348
+AK02,Kattenburg,Centrum,0,0.06738708064835518
+AK03,Wittenburg,Centrum,0,0.06745919139877342
+AK04,Oostenburg,Centrum,0,0.0674567476801454
+AK05,Czaar Peterbuurt,Centrum,0,0.0674219188750332
+AK06,Het Funen,Centrum,0,0.06745739518114567
+AK08,Kazernebuurt,Centrum,0,0.06742081451983817
+AK07,Kadijken,Centrum,0,0.06745637649850131
+BA04,Petroleumhaven,Westpoort,0,0.06741237971011958
+BA03,Westhaven-Noord,Westpoort,0,0.06744763172931663
+BA05,Vervoerscentrum,Westpoort,0,0.06741237971011958
+BA02,Amerikahaven,Westpoort,0,0.0674477065154677
+BA01,Afrikahaven,Westpoort,0,0.06744768550918327
+BA06,Westhaven-Zuid,Westpoort,0,0.06744632852547172
+FA01,Sloterdijk De Heining,Nieuw-West,0,0.06793311158510623
+FA08,Sloterdijk Stationskwartier,Nieuw-West,1,0.6091383128428055
+FA07,Bretten-Oost,Nieuw-West,0,0.060689890319617974
+FA06,Bretten-West,Nieuw-West,0,0.07557912966201971
+EC01,Houthavens-West,West,0,0.06726450866340643
+EC02,Houthavens-Oost,West,0,0.06745750260831926
+EB08,Zeeheldenbuurt,West,0,0.06742088576408528
+EB07,Spaarndammerbuurt-Noordoost,West,0,0.0674209492447501
+EB10,Spaarndammerbuurt-Zuidoost,West,0,0.06745654938073534
+EB06,Spaarndammerbuurt-Zuidwest,West,0,0.06734279144136687
+EB05,Spaarndammerbuurt-Midden,West,0,0.06744760495295708
+EB04,Spaarndammerbuurt-Noordwest,West,0,0.06742780978948328
+EB09,Westergasfabriek,West,0,0.0674153776863017
+EH04,De Wittenbuurt-Noord,West,0,0.06745637263789446
+EH05,De Wittenbuurt-Zuid,West,0,0.06742076236820252
+EH03,Staatsliedenbuurt-Noordoost,West,0,0.06735239922929247
+EH02,Fannius Scholtenbuurt,West,0,0.06734295527811666
+EH01,Westerstaatsman,West,0,0.06746620988301118
+EH06,Buyskade e.o.,West,0,0.06746334865183787
+EG02,GWL-terrein,West,0,0.06746337710207614
+EG03,Markthallen,West,0,0.06746764213497015
+EG01,Bedrijvencentrum Westerkwartier,West,0,0.06746999667040363
+EG04,Marcanti,West,0,0.06746338167442949
+EJ01,Frederik Hendrikbuurt-Noord,West,0,0.06744928848095008
+EJ03,Frederik Hendrikbuurt-Zuidoost,West,0,0.0674633671226231
+EJ02,Frederik Hendrikbuurt-Zuidwest,West,0,0.06746339320409063
+EQ01,Da Costabuurt-Noord,West,0,0.06746333485554222
+EP01,Bellamybuurt-Noord,West,0,0.06746335259005425
+EP02,Bellamybuurt-Zuid,West,0,0.06745004352610906
+ES03,Da Costabuurt-Zuid,West,0,0.06746334549350966
+ES02,Borgerbuurt,West,0,0.06742783787879095
+ES01,Lootsbuurt,West,0,0.0674210144317586
+EU03,Helmersbuurt-Oost,West,0,0.06746347139041717
+EU02,WG-terrein,West,0,0.06741447996612436
+EU01,Cremerbuurt-Oost,West,0,0.06745636926836465
+ET01,Cremerbuurt-West,West,0,0.06745624244366576
+ET02,Vondelparkbuurt-West,West,0,0.06745653638169244
+EV02,Vondelparkbuurt-Oost,West,0,0.06745815925100139
+EV01,Vondelparkbuurt-Midden,West,0,0.06745772069514012
+KP01,Zuidas-Noord,Zuid,0,0.06727542297507262
+KP02,RAI,Zuid,0,0.06745092929842897
+KP03,VU-kwartier,Zuid,0,0.06745380000593537
+KP04,Zuidas-Zuid,Zuid,0,0.06747977652204838
+KP05,Vivaldi,Zuid,0,0.2093313246746557
+KE05,Hemonybuurt,Zuid,0,0.06745636301793884
+KE02,Gerard Doubuurt,Zuid,0,0.06741211909652794
+KE01,Frans Halsbuurt,Zuid,0,0.06744766424619261
+KE03,Hercules Seghersbuurt,Zuid,0,0.06745650470310179
+KE04,Sarphatiparkbuurt,Zuid,0,0.06745780885336608
+KF04,Willibrordusbuurt,Zuid,0,0.06742082566771238
+KF03,Van der Helstpleinbuurt,Zuid,0,0.067456480989473
+KF02,Lizzy Ansinghbuurt,Zuid,0,0.06745643476036658
+KF01,Cornelis Troostbuurt,Zuid,0,0.0674562339481137
+KG03,Diamantbuurt,Zuid,0,0.06739069205862284
+KG02,Burgemeester Tellegenbuurt-Oost,Zuid,0,0.06739065545513859
+KG01,Burgemeester Tellegenbuurt-West,Zuid,0,0.06739084236354809
+MB01,Weesperzijde-Noord,Oost,0,0.06745639822617876
+MB02,Weesperzijde-Midden/Zuid,Oost,0,0.06745655956432699
+MB03,Parooldriehoek,Oost,0,0.06742560769113497
+MC01,Oosterparkbuurt-Noordwest,Oost,0,0.06745621015798484
+MC02,Oosterpark,Oost,0,0.1258006591827373
+MC04,Oosterparkbuurt-Zuidoost,Oost,0,0.06745624413975577
+MC03,Oosterparkbuurt-Zuidwest,Oost,0,0.06742094221252681
+ME01,Dapperbuurt-Noord,Oost,0,0.06742076748036732
+ME02,Dapperbuurt-Zuid,Oost,0,0.06742070863506865
+ME03,Oostpoort,Oost,0,0.06745631678932378
+MD01,Transvaalbuurt-West,Oost,0,0.06742129700634239
+MD02,Transvaalbuurt-Oost,Oost,0,0.06742074149485208
+MF01,Timorpleinbuurt-Noord,Oost,0,0.06745653670881287
+MF02,Timorpleinbuurt-Zuid,Oost,0,0.06742103916632604
+MF03,Ambonpleinbuurt,Oost,0,0.15353816839495418
+MG01,Makassarpleinbuurt,Oost,0,0.1783625014746155
+MG03,Sumatraplantsoenbuurt,Oost,0,0.06739068195234275
+MG02,Zeeburgerdijk-Oost,Oost,0,0.06742840497093622
+MG04,Flevopark,Oost,0,0.06734833506068753
+MA03,Oostelijke Handelskade,Oost,0,0.06746028237560328
+MA04,Rietlanden,Oost,0,0.06745941876217038
+MA01,Java-eiland,Oost,0,0.06741847908271144
+MA05,Sporenburg,Oost,0,0.06741704608327419
+MA06,Borneo,Oost,0,0.06742308317855814
+MA07,Entrepot-Noordwest,Oost,0,0.0674565017008335
+MA09,Architectenbuurt,Oost,0,0.06742462614613147
+MA08,Bedrijvengebied Veelaan,Oost,0,0.06744931762839507
+MA10,Cruquiusbuurt,Oost,0,0.0673388338871941
+MA11,Bedrijvengebied Zeeburgerkade,Oost,0,0.06745638865587596
+MH01,Sluisbuurt,Oost,0,0.06742892881180636
+MH05,Baaibuurt-Oost,Oost,0,0.2081620769647785
+MH04,Baaibuurt-West,Oost,0,0.1848377616372695
+MH06,Bovendiep/Diemerpark,Oost,0,0.06742900150521886
+MH02,Sportheldenbuurt,Oost,0,0.06746190565125071
+MH03,Oostpunt Zeeburgereiland,Oost,0,0.06744610662433503
+MJ01,Steigereiland-Zuid,Oost,0,0.06353694327254386
+MJ03,Rieteilanden-West,Oost,0,0.08221196949480529
+EE03,Bedrijventerrein Landlust,West,0,0.10700246337314029
+EE01,Bosleeuw,West,0,0.07103332054270971
+EE06,Landlust-Zuid,West,0,0.06746341566430336
+EE05,Erasmusparkbuurt-Oost,West,0,0.06744760970453464
+EE02,Gibraltarbuurt,West,0,0.11767942569082179
+EE04,Landlust-Noord,West,0,0.06735239922929247
+EF02,Erasmusparkbuurt-West,West,0,0.06745435386172823
+EF01,Robert Scottbuurt-Oost,West,0,0.06744752101297749
+ED04,Robert Scottbuurt-West,West,0,0.1216870000046931
+ED03,Laan van Spartaan,West,0,0.0674612035323083
+ED02,Kolenkitbuurt-Zuid,West,0,0.06745750294398943
+ED01,Kolenkitbuurt-Noord,West,0,0.19387090014441985
+EL01,Pieter van der Doesbuurt,West,0,0.06742779091151413
+EK04,John Franklinbuurt,West,0,0.06742824131069343
+EK03,Jan Maijenbuurt,West,0,0.06734279144136687
+EK02,Orteliusbuurt-Noord,West,0,0.06735239922929247
+EK01,Mercatorpark,West,0,0.0670015496121324
+EM02,Balboaplein e.o.,West,0,0.06745775163464532
+EM04,Columbusplein e.o.,West,0,0.0674218539895564
+EM01,Orteliusbuurt-Midden,West,0,0.06745655088089683
+EM03,Orteliusbuurt-Zuid,West,0,0.0674565947540449
+ER02,Paramariboplein e.o.,West,0,0.06745649587109141
+ER01,Postjeskade e.o.,West,0,0.06745631265040004
+KA02,Surinamepleinbuurt,Zuid,0,0.06745631951931728
+KA01,Westlandgrachtbuurt,Zuid,0,0.06745660008757957
+KA04,Aalsmeerwegbuurt-West,Zuid,0,0.06745620715975505
+KA05,Aalsmeerwegbuurt-Oost,Zuid,0,0.06745631891960266
+KA03,Legmeerpleinbuurt,Zuid,0,0.06745627125932002
+KA06,Bedrijventerrein Schinkel,Zuid,0,0.18480082385224839
+KB01,Schinkelbuurt-Noord,Zuid,0,0.06745636364666711
+KB02,Schinkelbuurt-Zuid,Zuid,0,0.06745802271975823
+KC04,Valeriusbuurt-Oost,Zuid,0,0.06745425885646703
+KC03,Valeriusbuurt-West,Zuid,0,0.06745251970861826
+KC02,Willemsparkbuurt-Noord,Zuid,0,0.0674524974321268
+KC01,Vondelpark-West,Zuid,0,0.06745124363637924
+KD08,Johannes Vermeerbuurt,Zuid,0,0.06745247207867905
+KD04,P.C. Hooftbuurt,Zuid,0,0.06745772069514012
+KD03,Concertgebouwbuurt,Zuid,0,0.06745322589736813
+KD02,Cornelis Schuytbuurt,Zuid,0,0.0674533923426679
+KD06,Banpleinbuurt,Zuid,0,0.06745435477549527
+KD07,Hondecoeterbuurt,Zuid,0,0.06746195489498401
+KD10,Harmoniehofbuurt,Zuid,0,0.06747163120226295
+KD05,Museumplein,Zuid,0,0.06745109671299272
+KD01,Vondelpark-Oost,Zuid,0,0.06745125131286338
+KD09,Duivelseiland,Zuid,0,0.06745651398576526
+KH01,Bertelmanpleinbuurt,Zuid,0,0.0674209419119595
+KH04,Marathonbuurt-Oost,Zuid,0,0.06742089486455509
+KH03,Marathonbuurt-West,Zuid,0,0.06735255349808218
+KH02,Olympisch Stadion e.o.,Zuid,0,0.06745631962343208
+KH06,IJsbaanpad e.o.,Zuid,0,0.06733884155180886
+KH05,Van Tuyllbuurt,Zuid,0,0.06745634122202095
+KJ06,Diepenbrockbuurt,Zuid,0,0.0674532854607646
+KJ05,Beethovenbuurt,Zuid,0,0.06745309527955917
+KJ01,Hiltonbuurt,Zuid,0,0.06745030868953371
+KJ02,Minervabuurt-Noord,Zuid,0,0.06745575921469082
+KJ03,Minervabuurt-Midden,Zuid,0,0.06745455480416873
+KJ04,Minervabuurt-Zuid,Zuid,0,0.06745235309097515
+ML03,Rieteiland-Oost,Oost,0,0.08240560525728914
+ML02,Theo van Goghparkbuurt,Oost,0,0.08245819347920948
+ML01,Havenkwartier IJburg,Oost,0,0.08246454029017149
+KK01,Wielingenbuurt,Zuid,0,0.0674566138325887
+KK02,Scheldebuurt-West,Zuid,0,0.06745638421961825
+KK03,Scheldebuurt-Midden,Zuid,0,0.0674010927115754
+KK04,Scheldebuurt-Oost,Zuid,0,0.06746635393181642
+KK05,Veluwebuurt,Zuid,0,0.06742126363641486
+KK06,Kop Zuidas,Zuid,0,0.06740246214746223
+KL01,IJselbuurt-West,Zuid,0,0.06742093067907047
+KL02,IJselbuurt-Oost,Zuid,0,0.0674562725753744
+KM01,Kromme Mijdrechtbuurt,Zuid,0,0.06742076525697546
+KM04,Rijnbuurt-Oost,Zuid,0,0.06745629453020814
+KM03,Rijnbuurt-Midden,Zuid,0,0.06745798914792278
+KM02,Rijnbuurt-West,Zuid,0,0.06742106189863532
+KM05,Zorgvlied,Zuid,0,0.06742654366503575
+MM02,De Eenhoorn,Oost,0,0.13155830452133616
+MM04,Julianapark,Oost,0,0.06740228531437553
+MM03,Don Bosco,Oost,0,0.06745627072796007
+MM05,Frankendael,Oost,0,0.06745108721223314
+MM06,Tuindorp Amstelstation,Oost,0,0.17922748701281568
+MM07,De Wetbuurt,Oost,0,0.06742639161826591
+MM08,Tuindorp Frankendael,Oost,0,0.06742393822995317
+MM01,Van der Kunbuurt,Oost,0,0.125567397390953
+MN01,Linnaeusparkbuurt,Oost,0,0.06745662197746803
+MN02,Middenmeer-Noord,Oost,0,0.067401132084697
+MN03,Middenmeer-Zuid,Oost,0,0.06745927421781935
+MN06,Sportpark Middenmeer-Zuid,Oost,0,0.06745983914945863
+MN07,Sportpark Middenmeer-Noord,Oost,0,0.16328752594919638
+MN08,Park de Meer,Oost,0,0.0674480166431577
+MN09,Sportpark Voorland,Oost,0,0.06744935222100525
+MN04,Science Park-Noord,Oost,0,0.1659457139323658
+MN05,Science Park-Zuid,Oost,0,0.18546060347177012
+MP03,Betondorp,Oost,0,0.31318500512438324
+MP02,Nieuwe Oosterbegraafplaats,Oost,0,0.10517504786713362
+MQ07,Weespertrekvaart,Oost,0,0.06726468516110055
+MQ03,Amstelglorie,Oost,0,0.06737807303313674
+MQ02,Overamstel,Oost,0,0.06737821056624704
+MQ05,Amstelkwartier-Noord,Oost,0,0.06742646061119614
+MQ01,De Omval,Oost,0,0.06740228531437553
+MQ06,Amstelkwartier-Zuid,Oost,0,0.06742563463359276
+MQ04,Amstelkwartier-West,Oost,0,0.15527355280633473
+KN01,Prinses Irenebuurt,Zuid,0,0.0673974917337025
+KN02,Beatrixpark,Zuid,0,0.06739467213750855
+NK03,Van der Pekbuurt,Noord,1,0.5477261547459747
+NK02,Bloemenbuurt-Zuid,Noord,0,0.2322177450731248
+NK01,Bloemenbuurt-Noord,Noord,0,0.23158408635816896
+NL04,IJplein e.o.,Noord,0,0.15508203901660617
+NL03,Vogelbuurt-Zuid,Noord,0,0.18667524896835574
+NL01,Vogelbuurt-Noord,Noord,0,0.38446444939658625
+NL02,Vliegenbos,Noord,0,0.06695500897884189
+NN01,Tuindorp Nieuwendam-West,Noord,0,0.1263487942771253
+NN02,Tuindorp Nieuwendam-Oost,Noord,0,0.3223303526079203
+NM01,Blauwe Zand,Noord,0,0.06357758775617654
+NF01,Buiksloterdijk-West,Noord,0,0.0635054663463291
+NF03,Nieuwendammerdijk-West,Noord,0,0.06349467864219452
+NF04,Nieuwendammerdijk-Oost,Noord,0,0.08235930963444123
+NF05,Nieuwendammerdijk-Zuid,Noord,0,0.06739467213750855
+NC01,Tuindorp Oostzaan-West,Noord,0,0.08241302629841524
+NC02,Tuindorp Oostzaan-Oost,Noord,0,0.2378467365791868
+NC03,Terrasdorp,Noord,1,0.6786692080873745
+NC04,De Bongerd,Noord,0,0.08234605470941728
+NA04,Twiske-West,Noord,0,0.08233466151741971
+NA01,Noorder IJplas,Noord,0,0.06354163161325295
+NA07,Molenwijk,Noord,0,0.16262140101508402
+NA06,Circus/Kermisbuurt,Noord,0,0.22441150045743344
+ND02,Kadoelen,Noord,0,0.08233466151741971
+ND01,Twiske-Oost,Noord,0,0.08236672688065158
+NJ01,Markengouw-Noord,Noord,0,0.4729760235992584
+NJ04,Werengouw-Noord,Noord,0,0.1113593443974302
+NJ05,Werengouw-Midden,Noord,1,0.6393380887129212
+NJ03,Markengouw-Zuid,Noord,0,0.45581521998236874
+NJ06,Werengouw-Zuid,Noord,0,0.21073756792462103
+NH06,Rode Kruisbuurt,Noord,0,0.06065813097071411
+NH03,Loenermark,Noord,1,0.5619818406126647
+NH04,Buikslotermeerplein,Noord,0,0.23997564591209342
+NH05,Plan van Gool,Noord,0,0.26830465613939375
+NH02,De Kleine Wereld,Noord,1,0.7141093153927554
+NH01,Buikslotermeer-Noord,Noord,1,0.6054168195586699
+NE03,Banne-Zuidwest,Noord,0,0.18455077709654072
+NE04,Banne-Zuidoost,Noord,0,0.08240526706078988
+NE01,Banne-Noordwest,Noord,0,0.46387469619942795
+NE02,Banne-Noordoost,Noord,1,0.5463143385923975
+NE05,Buiksloterbreek,Noord,0,0.07128285019664023
+NE06,Marjoleinterrein,Noord,0,0.06106647530985953
+NB03,NDSM terrein,Noord,0,0.20100823891349218
+NB04,Buiksloterham-Zuid,Noord,0,0.06357248198955058
+NB07,Overhoeks,Noord,0,0.06351689558110861
+NP01,Hamerstraatkwartier-West,Noord,0,0.1494752898883529
+NP02,Hamerstraatkwartier-Oost,Noord,0,0.061550314663586514
+NP03,Bedrijventerrein Nieuwendammerdijk,Noord,0,0.07767292721568399
+NQ04,Schellingwoude-West,Noord,0,0.0635418977532199
+NQ05,Schellingwoude-Oost,Noord,0,0.06337875625300153
+NQ06,Schellingwoude-Noord,Noord,0,0.06745255674888878
+NQ10,Durgerdam,Noord,0,0.08221196949480529
+NQ07,Zwarte Gouw,Noord,0,0.06354163161325295
+NQ09,Ransdorp,Noord,0,0.08221196949480529
+NQ08,Holysloot,Noord,0,0.08221196949480529
+NQ03,Zunderdorp,Noord,0,0.08240526706078988
+NQ01,Noorderstrook-West,Noord,0,0.08241898490420575
+NQ02,Noorderstrook-Oost,Noord,0,0.06744804673215864
+NG03,Nintemanterrein,Noord,0,0.06743670796260458
+NG02,Elzenhagen-Zuid,Noord,0,0.14532928834093484
+NG01,Elzenhagen-Noord,Noord,0,0.06353083818246985
+EN02,Kortenaerkwartier,West,0,0.06746333691223
+EN03,Van Brakelkwartier,West,0,0.0674120451505787
+FD04,Dobbebuurt,Nieuw-West,0,0.48070114918233525
+FE03,Noordoever Sloterplas,Nieuw-West,0,0.06746185065925575
+FC01,Jan de Louterbuurt,Nieuw-West,0,0.43684078183227854
+FC02,Lodewijk van Deysselbuurt,Nieuw-West,0,0.45831596867917485
+FC03,Confuciusbuurt,Nieuw-West,1,0.5215790476004546
+FB05,Van Tijenbuurt,Nieuw-West,0,0.1402619646188486
+FB03,Ruys de Beerenbrouckbuurt,Nieuw-West,0,0.38224810892678823
+FB04,Eendrachtspark,Nieuw-West,0,0.26397989283738027
+FB01,Osdorper Binnenpolder,Nieuw-West,0,0.060689890319617974
+FB02,De Eendracht,Nieuw-West,0,0.21590161702255709
+FF02,Ookmeer,Nieuw-West,0,0.06743691221003051
+FF01,Osdorper Bovenpolder,Nieuw-West,0,0.06742537298381023
+FF03,Bedrijvenpark Lutkemeer,Nieuw-West,0,0.06712918786198942
+FK01,Wildeman,Nieuw-West,1,0.5836144282125372
+FK02,Meer en Oever,Nieuw-West,0,0.06746367469196259
+FK03,Osdorpplein e.o.,Nieuw-West,0,0.06326333357362676
+FK04,Calandlaan/Lelylaan,Nieuw-West,0,0.49281511902131997
+FK05,Osdorp-Zuidoost,Nieuw-West,1,0.54472493007862
+FJ01,Reimerswaal,Nieuw-West,1,0.7148607120520528
+FJ02,Botteskerkbuurt,Nieuw-West,0,0.28937496686943
+FJ03,Zuidwestkwadrant-Noord,Nieuw-West,0,0.1576418876395641
+FJ04,Zuidwestkwadrant-Zuid,Nieuw-West,0,0.06739167960865028
+FH02,Dijkgraafpleinbuurt,Nieuw-West,1,0.6843559809169382
+FH01,Bedrijvencentrum Osdorp,Nieuw-West,0,0.40359818062220276
+FG01,Middelveldsche Akerpolder,Nieuw-West,0,0.06353694327254386
+FG02,De Aker-West,Nieuw-West,0,0.06353083818246985
+FG03,De Aker-Oost,Nieuw-West,0,0.06731342201200538
+FL01,Oostoever Sloterplas,Nieuw-West,0,0.06731471324456231
+FL02,Emanuel van Meterenbuurt,Nieuw-West,0,0.0674252937391892
+FL03,Jacob Geelbuurt,Nieuw-West,0,0.11261074521326545
+FM02,Overtoomse Veld-Noord,Nieuw-West,0,0.0673928561854638
+FM04,Overtoomse Veld-Zuid,Nieuw-West,0,0.1191681982923109
+FM03,Rembrandtpark-Noord,Nieuw-West,0,0.06745929467036141
+FM05,Rembrandtpark-Zuid,Nieuw-West,0,0.06733866487358145
+FM06,Johan Jongkindbuurt,Nieuw-West,0,0.10774066332379278
+FM01,Lucas/Andreasziekenhuis e.o.,Nieuw-West,0,0.1858461558499042
+FP02,Koningin Wilhelminaplein,Nieuw-West,0,0.06740228530454843
+FP03,Andreasterrein,Nieuw-West,0,0.06745637187328124
+FP05,Delflandpleinbuurt-Oost,Nieuw-West,0,0.09989837468121053
+FP04,Delflandpleinbuurt-West,Nieuw-West,0,0.11894701765390836
+FP06,Riekerhaven,Nieuw-West,0,0.16870836200276373
+FP01,Schipluidenbuurt,Nieuw-West,0,0.12279224765584497
+FQ09,Riekerpolder,Nieuw-West,0,0.06728245911439104
+FQ08,Park Haagseweg,Nieuw-West,0,0.06739924995749437
+FQ10,Nieuwe Meer,Nieuw-West,0,0.0634860703509238
+FQ07,Sloterweg e.o.,Nieuw-West,0,0.06743698747555352
+FQ02,Nieuw-Sloten-Noordwest,Nieuw-West,0,0.06743131984599783
+FQ03,Nieuw-Sloten-Noordoost,Nieuw-West,0,0.06731547350118905
+FQ05,Belgi�plein e.o.,Nieuw-West,0,0.06735469468201044
+FQ04,Nieuw-Sloten-Zuidwest,Nieuw-West,0,0.06739946019457385
+FQ06,Nieuw-Sloten-Zuidoost,Nieuw-West,0,0.06744372603576154
+FQ01,Dorp Sloten,Nieuw-West,0,0.06353083818246985
+FN01,Louis Chrispijnbuurt,Nieuw-West,0,0.3172833997807175
+FN02,Jacques Veltmanbuurt,Nieuw-West,0,0.09211627713717789
+FN04,Staalmanbuurt,Nieuw-West,0,0.06425808998038446
+FN03,Medisch Centrum Slotervaart,Nieuw-West,0,0.17956890994250413
+KQ04,Gelderlandpleinbuurt,Zuid,0,0.06745468051624133
+KQ06,Buitenveldert-Zuid-Midden,Zuid,0,0.06745520110739102
+KQ05,Buitenveldert-Zuidwest,Zuid,0,0.06741981758863345
+KQ01,Amsterdamse Bos,Zuid,0,0.06743671704947786
+KQ03,Buitenveldert-West-Midden,Zuid,0,0.06745516137425968
+KQ02,Zuiderhof,Zuid,0,0.0674571565741151
+KR01,De Klenckebuurt,Zuid,0,0.06740228531437553
+KR02,Buitenveldert-Oost-Midden,Zuid,0,0.067458397792763
+KR03,Buitenveldert-Zuidoost,Zuid,0,0.0674569935950431
+KR04,Amstelpark,Zuid,0,0.06745163548768375
+TA01,Hoofdcentrum-Zuidoost,Zuidoost,0,0.0674300809921656
+TA03,Amstel III deel A/B-Noord,Zuidoost,0,0.17242636833508534
+TA02,Amstel III deel C/D-Noord,Zuidoost,0,0.06736578159305845
+TA05,Amstel III deel A/B-Zuid,Zuidoost,0,0.36059724190754705
+TA04,Amstel III deel C/D-Zuid,Zuidoost,0,0.06742096177363875
+TA06,AMC,Zuidoost,0,0.06733303311110111
+TA07,Hoge Dijk,Zuidoost,0,0.06733303311110111
+TB01,Venserpolder-West,Zuidoost,1,0.6128160066429686
+TB02,Venserpolder-Oost,Zuidoost,1,0.7939907625520691
+TC01,D-buurt,Zuidoost,1,0.763705672274052
+TC02,F-buurt,Zuidoost,0,0.1011993310623456
+TC03,Amsterdamse Poort,Zuidoost,1,0.6343602934630289
+TD01,Hoptille,Zuidoost,1,0.9003061358869323
+TD02,Rechte H-buurt,Zuidoost,1,0.5957315416189501
+TD03,Hakfort/Huigenbos,Zuidoost,1,0.7401114180016883
+TD04,Huntum,Zuidoost,0,0.060689890319617974
+TC04,Vogeltjeswei,Zuidoost,0,0.09299681909292276
+TC05,Nelson Mandelapark,Zuidoost,0,0.0774755073592347
+TE01,E-buurt,Zuidoost,0,0.2588905982405034
+TE02,G-buurt-West,Zuidoost,0,0.1256222020377103
+TG01,Bijlmermuseum-Noord,Zuidoost,0,0.4042726016110237
+TH02,Kortvoort,Zuidoost,1,0.7050862256888674
+TH03,Kelbergen,Zuidoost,1,0.5922236534526305
+TG03,De Kameleon e.o.,Zuidoost,0,0.47769287609690336
+TH05,K-buurt-Zuidoost,Zuidoost,0,0.23660847725904469
+TH04,K-buurt-Zuidwest,Zuidoost,0,0.19468953311697373
+TF02,Grunder/Koningshoef,Zuidoost,0,0.06743112078437725
+TF01,G-buurt-Oost,Zuidoost,0,0.185592238334428
+TF03,Kantershof,Zuidoost,0,0.1726053010269321
+TH01,Gooise Kant,Zuidoost,0,0.08943010124902821
+TE03,G-buurt-Noord,Zuidoost,1,0.7010372915938483
+TG02,Bijlmermuseum-Zuid,Zuidoost,0,0.4064017098575916
+TK01,L-buurt,Zuidoost,0,0.13853590298205867
+TJ01,Holendrecht-West,Zuidoost,1,0.5484562769229192
+TJ03,Holendrecht-Zuid,Zuidoost,0,0.3590192448874041
+TJ02,Holendrecht-Oost,Zuidoost,0,0.18240218613891498
+TL01,Reigersbos 1,Zuidoost,1,0.6319972956088604
+TL02,Reigersbos 2,Zuidoost,1,0.6913333637376766
+TL03,Reigersbos 3,Zuidoost,1,0.6577032173556199
+TL04,Reigersbos 4,Zuidoost,0,0.47700830398072835
+TM01,Gein 1,Zuidoost,1,0.8123134327993579
+TM02,Gein 2,Zuidoost,1,0.7543937236021654
+TM03,Gein 3,Zuidoost,0,0.06727107589860645
+TM04,Gein 4,Zuidoost,1,0.7464019284967139
+SA01,Landelijk gebied Driemond,Weesp,0,0.06732906139927583

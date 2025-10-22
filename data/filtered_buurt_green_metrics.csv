@@ -1,0 +1,440 @@
+BUURTCODE_2022,BUURTNAAM_2022,WIJKNAAM_2022,STADSDEELNAAM,buurt_area_m2,distance_to_nearest_green_m_2020,distance_to_nearest_green_m_2024,distance_change_m,nearest_green_name_2020,nearest_green_type_2020,nearest_green_area_m2_2020,nearest_green_name_2024,nearest_green_type_2024,nearest_green_area_m2_2024,total_green_area_m2_2020,total_green_area_m2_2024,green_coverage_percent_2020,green_coverage_percent_2024,coverage_change_percent,num_green_spaces_2020,num_green_spaces_2024
+AE01,Kop Zeedijk,Burgwallen-Oude Zijde,Centrum,80480.24,672.69,442.07,-230.6200000000001,Unnamed,forest,522.33,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AE02,Oude Kerk e.o.,Burgwallen-Oude Zijde,Centrum,92625.76,857.71,396.3,-461.41,Unnamed,forest,522.33,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AE03,Burgwallen-Oost,Burgwallen-Oude Zijde,Centrum,72478.68,672.5,189.17,-483.33,Unnamed,forest,522.33,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AE04,Nes e.o.,Burgwallen-Oude Zijde,Centrum,57837.9,954.89,523.35,-431.54,Weesperplantsoen,park,1512.39,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AE05,BG-terrein e.o.,Burgwallen-Oude Zijde,Centrum,101280.11,765.91,468.5,-297.41,Weesperplantsoen,park,1512.39,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD01,Stationsplein e.o.,Burgwallen-Nieuwe Zijde,Centrum,260425.27,358.22,457.02,98.79999999999995,Unnamed,forest,137.28,Unnamed,forest,392.3,0.0,0.0,0.0,0.0,0.0,0,0
+AD02,Hemelrijk,Burgwallen-Nieuwe Zijde,Centrum,62955.8,782.52,534.94,-247.57999999999996,Unnamed,forest,137.28,Unnamed,forest,86.55,0.0,0.0,0.0,0.0,0.0,0,0
+AD03,Nieuwendijk-Noord,Burgwallen-Nieuwe Zijde,Centrum,65989.96,743.97,626.4,-117.57000000000004,Unnamed,forest,137.28,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD04,Spuistraat-Noord,Burgwallen-Nieuwe Zijde,Centrum,56817.83,875.69,764.4,-111.29000000000008,Unnamed,park,81.6,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD05,Nieuwe Kerk e.o.,Burgwallen-Nieuwe Zijde,Centrum,84154.79,1029.49,609.73,-419.76,Unnamed,park,81.6,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD06,Spuistraat-Zuid,Burgwallen-Nieuwe Zijde,Centrum,67108.13,1014.78,821.49,-193.29,Unnamed,park,175.55,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD07,Begijnhofbuurt,Burgwallen-Nieuwe Zijde,Centrum,70609.69,1082.74,688.69,-394.05,Weesperplantsoen,park,1512.39,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AD08,Kalverdriehoek,Burgwallen-Nieuwe Zijde,Centrum,60386.69,909.69,810.57,-99.12,Leidsebosje,park,4551.86,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AC01,Langestraat e.o.,Grachtengordel-West,Centrum,123308.57,742.2,498.14,-244.0600000000001,Unnamed,park,81.6,Unnamed,forest,156.28,0.0,0.0,0.0,0.0,0.0,0,0
+AC02,Leliegracht e.o.,Grachtengordel-West,Centrum,173446.55,601.19,601.13,-0.0600000000000591,Unnamed,park,81.6,Unnamed,park,191.74,0.0,0.0,0.0,0.0,0.0,0,0
+AC03,Felix Meritisbuurt,Grachtengordel-West,Centrum,203160.27,828.18,731.01,-97.16999999999996,Unnamed,park,175.55,Tweede Marnixplantsoen,park,2262.82,0.0,0.0,0.0,0.0,0.0,0,0
+AC04,Leidsegracht-Noord,Grachtengordel-West,Centrum,69128.8,574.9,574.9,0.0,Leidsebosje,park,4551.86,Leidsebosje,park,4551.86,0.0,0.0,0.0,0.0,0.0,0,0
+AG04,Spiegelbuurt,Grachtengordel-Zuid,Centrum,94261.43,515.13,515.13,0.0,Leidsebosje,park,4333.05,Leidsebosje,park,4333.05,0.0,0.0,0.0,0.0,0.0,0,0
+AG06,Amstelveldbuurt,Grachtengordel-Zuid,Centrum,147839.43,301.95,303.1,1.150000000000034,Unnamed,forest,872.32,Unnamed,forest,1002.33,0.0,0.0,0.0,0.0,0.0,0,0
+AF01,Oosterdokseiland,Nieuwmarkt/Lastage,Centrum,242948.12,480.89,288.83,-192.06,Unnamed,park,154.42,Unnamed,forest,87.43,0.0,0.0,0.0,0.0,0.0,0,0
+AF03,Scheepvaarthuisbuurt,Nieuwmarkt/Lastage,Centrum,107781.37,237.89,237.79,-0.0999999999999943,Unnamed,forest,522.33,Unnamed,forest,524.83,0.0,0.0,0.0,0.0,0.0,0,0
+AF04,Rapenburg,Nieuwmarkt/Lastage,Centrum,165949.98,145.16,145.29,0.1299999999999954,Unnamed,forest,522.33,Unnamed,forest,524.83,522.33,524.83,0.31,0.32,0.01,1,1
+AF02,Lastage,Nieuwmarkt/Lastage,Centrum,77804.13,388.7,249.96,-138.73999999999998,Unnamed,forest,522.33,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AF05,Nieuwmarkt,Nieuwmarkt/Lastage,Centrum,71272.1,471.99,64.51,-407.48,Unnamed,forest,522.33,Unnamed,park,353.96,0.0,353.96,0.0,0.5,0.5,0,1
+AF06,Uilenburg,Nieuwmarkt/Lastage,Centrum,106889.35,349.16,335.52,-13.640000000000043,Unnamed,forest,1236.52,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AF07,Valkenburg,Nieuwmarkt/Lastage,Centrum,73591.15,129.97,129.97,0.0,Unnamed,forest,1236.52,Unnamed,forest,1236.52,0.0,0.0,0.0,0.0,0.0,0,0
+AF08,Zuiderkerkbuurt,Nieuwmarkt/Lastage,Centrum,91016.21,593.0,337.6,-255.4,Weesperplantsoen,park,1512.39,Unnamed,park,353.96,0.0,0.0,0.0,0.0,0.0,0,0
+AF09,Waterloopleinbuurt,Nieuwmarkt/Lastage,Centrum,129553.45,271.46,315.31,43.85000000000002,Weesperplantsoen,park,1512.39,Hortusplantsoen,park,1711.86,0.0,0.0,0.0,0.0,0.0,0,0
+AA03,Westerdokseiland,Haarlemmerbuurt,Centrum,337782.21,409.72,194.74,-214.98,Unnamed,forest,56.28,Unnamed,forest,86.55,0.0,242.83,0.0,0.07,0.07,0,2
+AA06,Haarlemmerbuurt-Oost,Haarlemmerbuurt,Centrum,101365.85,727.78,255.14,-472.64,Unnamed,forest,852.86,Unnamed,forest,156.28,0.0,0.0,0.0,0.0,0.0,0,0
+AA05,Haarlemmerbuurt-West,Haarlemmerbuurt,Centrum,117324.45,387.2,370.13,-17.069999999999993,Unnamed,forest,206.7,Unnamed,forest,156.28,0.0,0.0,0.0,0.0,0.0,0,0
+AA02,Westelijke eilanden,Haarlemmerbuurt,Centrum,216567.19,129.55,129.55,0.0,Unnamed,forest,852.86,Unnamed,forest,852.86,2350.65,2825.25,1.09,1.3,0.2099999999999999,3,3
+FB05,Van Tijenbuurt,Geuzenveld,Nieuw-West,297779.62,91.53,223.07,131.54,Unnamed,forest,305.61,Unnamed,forest,541.04,968.42,4057.75,0.33,1.36,1.03,3,7
+FB03,Ruys de Beerenbrouckbuurt,Geuzenveld,Nieuw-West,434931.37,265.78,156.65,-109.12999999999997,Unnamed,park,14432.93,Unnamed,forest,162.09,17949.23,14423.25,4.13,3.32,-0.81,5,4
+FB04,Eendrachtspark,Geuzenveld,Nieuw-West,140147.23,20.4,29.21,8.810000000000002,Unnamed,forest,741.72,Unnamed,forest,1271.4,92762.27,90938.6,66.19,64.89,-1.2999999999999972,14,13
+FB01,Osdorper Binnenpolder,Geuzenveld,Nieuw-West,2100546.9,42.8,42.5,-0.2999999999999971,Unnamed,forest,375.19,Unnamed,forest,333.1,509812.51,542070.97,24.27,25.81,1.5399999999999991,91,152
+FB02,De Eendracht,Geuzenveld,Nieuw-West,320959.75,234.11,215.04,-19.07000000000002,Unnamed,forest,1485.98,Unnamed,forest,414.99,16084.6,16724.17,5.01,5.21,0.2000000000000001,15,19
+FF02,Ookmeer,Lutkemeer/Ookmeer,Nieuw-West,725417.45,54.91,56.92,2.010000000000005,Unnamed,forest,6925.02,Unnamed,forest,6580.76,86646.12,81427.18,11.94,11.22,-0.7199999999999989,38,37
+FF01,Osdorper Bovenpolder,Lutkemeer/Ookmeer,Nieuw-West,2602969.78,67.16,55.78,-11.379999999999995,Unnamed,forest,147.46,Unnamed,forest,158.08,20219.49,15864.29,0.78,0.61,-0.17,6,26
+FF03,Bedrijvenpark Lutkemeer,Lutkemeer/Ookmeer,Nieuw-West,2359012.18,323.79,55.62,-268.17,Unnamed,forest,54814.57,Unnamed,forest,671.23,177306.29,213401.12,7.52,9.05,1.5300000000000011,60,113
+FK01,Wildeman,Osdorp-Oost,Nieuw-West,330009.63,305.1,305.1,0.0,Unnamed,forest,6029.87,Unnamed,forest,6029.87,6029.87,6029.87,1.83,1.83,0.0,1,1
+FK02,Meer en Oever,Osdorp-Oost,Nieuw-West,233514.9,164.68,60.22,-104.46,Unnamed,forest,1638.33,Unnamed,forest,14.35,9479.81,23048.84,4.06,9.87,5.81,6,48
+FK03,Osdorpplein e.o.,Osdorp-Oost,Nieuw-West,412389.68,186.75,143.74,-43.00999999999999,Unnamed,forest,794.84,Unnamed,forest,14.7,75646.75,77984.08,18.34,18.91,0.5700000000000003,6,8
+FK04,Calandlaan/Lelylaan,Osdorp-Oost,Nieuw-West,275414.22,51.24,53.71,2.469999999999999,Dwaze Moedersplein,park,6126.08,Dwaze Moeders plein,park,4723.11,93739.12,106953.35,34.04,38.83,4.789999999999999,19,33
+FK05,Osdorp-Zuidoost,Osdorp-Oost,Nieuw-West,519322.22,264.48,133.47,-131.01000000000002,Unnamed,forest,294.28,Unnamed,forest,669.95,109354.12,114212.15,21.06,21.99,0.9299999999999996,25,32
+FJ01,Reimerswaal,Osdorp-Midden,Nieuw-West,215532.68,195.5,195.5,0.0,Unnamed,forest,7977.36,Unnamed,forest,7977.36,8862.65,20820.54,4.11,9.66,5.55,3,2
+FJ02,Botteskerkbuurt,Osdorp-Midden,Nieuw-West,258389.2,105.37,105.37,0.0,Unnamed,forest,732.07,Unnamed,forest,732.07,55074.76,54796.39,21.31,21.21,-0.0999999999999978,8,7
+FJ03,Zuidwestkwadrant-Noord,Osdorp-Midden,Nieuw-West,240736.46,267.49,25.87,-241.62,Stadspark Osdorp,park,58304.83,Unnamed,forest,730.21,53025.43,53761.29,22.03,22.33,0.2999999999999971,4,8
+FJ04,Zuidwestkwadrant-Zuid,Osdorp-Midden,Nieuw-West,402278.11,231.85,231.64,-0.2100000000000079,Jan van Zutphenplantsoen,park,36052.71,Jan van Zutphenplantsoen,park,35932.56,73102.5,72748.36,18.17,18.08,-0.0900000000000034,11,11
+FH02,Dijkgraafpleinbuurt,De Punt,Nieuw-West,481656.71,201.22,204.65,3.430000000000007,Unnamed,forest,3064.08,Unnamed,forest,2431.84,27204.69,25145.16,5.65,5.22,-0.4300000000000006,17,18
+FH01,Bedrijvencentrum Osdorp,De Punt,Nieuw-West,117974.57,141.4,141.4,0.0,Unnamed,forest,3535.19,Unnamed,forest,3535.19,13376.95,24355.58,11.34,20.64,9.3,2,3
+FG01,Middelveldsche Akerpolder,De Aker,Nieuw-West,352007.88,181.79,181.79,0.0,Unnamed,forest,1539.62,Unnamed,forest,1539.62,5839.39,5850.08,1.66,1.66,0.0,3,4
+FG02,De Aker-West,De Aker,Nieuw-West,574252.5,344.1,255.59,-88.51000000000002,Iseoplantsoen,park,8485.7,Unnamed,forest,72.54,9926.55,10347.17,1.73,1.8,0.07,2,10
+FG03,De Aker-Oost,De Aker,Nieuw-West,718524.28,219.46,219.46,0.0,Forintplantsoen,park,8606.72,Forintplantsoen,park,8606.72,14229.0,17999.87,1.98,2.51,0.5299999999999998,4,20
+FL01,Oostoever Sloterplas,Slotervaart-Noord,Nieuw-West,647623.9,58.38,22.46,-35.92,Unnamed,forest,4731.41,Unnamed,forest,14241.26,204465.87,220797.49,31.57,34.09,2.520000000000003,19,23
+FL02,Emanuel van Meterenbuurt,Slotervaart-Noord,Nieuw-West,584747.18,45.8,159.12,113.32,Unnamed,forest,1498.53,Unnamed,forest,16538.84,264590.56,289932.86,45.25,49.58,4.329999999999998,28,31
+FL03,Jacob Geelbuurt,Slotervaart-Noord,Nieuw-West,321330.39,320.08,292.16,-27.91999999999996,Unnamed,forest,5672.4,Unnamed,forest,2904.0,9156.45,11650.38,2.85,3.63,0.7799999999999998,3,6
+FM02,Overtoomse Veld-Noord,Overtoomse Veld,Nieuw-West,344678.43,101.43,89.65,-11.78,Unnamed,forest,833.78,Unnamed,forest,1228.36,15633.76,5486.91,4.54,1.59,-2.95,6,4
+FM04,Overtoomse Veld-Zuid,Overtoomse Veld,Nieuw-West,306482.89,181.16,268.09,86.92999999999998,Unnamed,forest,650.95,Unnamed,forest,2196.21,10783.17,9972.63,3.52,3.25,-0.27,6,5
+FM03,Rembrandtpark-Noord,Overtoomse Veld,Nieuw-West,304291.61,69.46,68.1,-1.3599999999999994,Unnamed,forest,2008.94,Unnamed,forest,2110.44,304291.61,83324.52,100.0,27.38,-72.62,45,44
+FM05,Rembrandtpark-Zuid,Overtoomse Veld,Nieuw-West,316642.35,26.22,26.22,0.0,Unnamed,forest,1396.72,Unnamed,forest,1396.72,316642.35,112672.58,100.0,35.58,-64.42,63,35
+FM06,Johan Jongkindbuurt,Overtoomse Veld,Nieuw-West,86904.45,51.97,51.97,0.0,Unnamed,forest,3537.91,Unnamed,forest,3537.91,6963.18,6435.15,8.01,7.4,-0.6099999999999994,2,2
+FM01,Lucas/Andreasziekenhuis e.o.,Overtoomse Veld,Nieuw-West,184919.86,159.46,160.22,0.7599999999999909,Unnamed,forest,8929.92,Unnamed,forest,8888.54,8929.92,8888.54,4.83,4.81,-0.0200000000000004,1,1
+FP02,Koningin Wilhelminaplein,Westlandgracht,Nieuw-West,263619.0,78.88,78.88,0.0,Unnamed,forest,579.99,Unnamed,forest,579.99,16945.35,16876.68,6.43,6.4,-0.0299999999999993,17,17
+FP03,Andreasterrein,Westlandgracht,Nieuw-West,177421.22,136.87,136.03,-0.8400000000000034,Unnamed,forest,203.56,Unnamed,forest,134.78,29867.87,9595.9,16.83,5.41,-11.419999999999998,7,9
+FP05,Delflandpleinbuurt-Oost,Westlandgracht,Nieuw-West,181604.3,114.03,114.03,0.0,Unnamed,forest,775.0,Unnamed,forest,775.0,5361.38,5361.38,2.95,2.95,0.0,4,4
+FP04,Delflandpleinbuurt-West,Westlandgracht,Nieuw-West,340477.77,224.83,224.83,0.0,Unnamed,forest,1670.0,Unnamed,forest,1670.0,12491.63,12053.9,3.67,3.54,-0.1299999999999999,10,10
+FP06,Riekerhaven,Westlandgracht,Nieuw-West,416482.87,114.7,118.69,3.989999999999995,Unnamed,forest,11692.27,Unnamed,forest,12060.87,27365.75,48237.36,6.57,11.58,5.01,11,13
+FP01,Schipluidenbuurt,Westlandgracht,Nieuw-West,116487.38,66.54,140.17,73.62999999999998,Unnamed,forest,1395.97,Unnamed,forest,3537.91,5564.04,1579.06,4.78,1.36,-3.42,4,2
+FQ09,Riekerpolder,Sloten/Nieuw-Sloten,Nieuw-West,645631.45,202.81,202.81,0.0,Unnamed,forest,615.81,Unnamed,forest,615.81,24649.64,38922.95,3.82,6.03,2.2100000000000004,10,14
+FQ08,Park Haagseweg,Sloten/Nieuw-Sloten,Nieuw-West,121323.61,139.73,139.73,0.0,Unnamed,forest,1212.76,Unnamed,forest,1212.76,3243.01,3243.01,2.67,2.67,0.0,4,4
+FQ10,Nieuwe Meer,Sloten/Nieuw-Sloten,Nieuw-West,2273734.01,120.43,120.43,0.0,Unnamed,forest,965.99,Unnamed,forest,965.99,588490.71,601300.22,25.88,26.45,0.5700000000000003,62,85
+FQ07,Sloterweg e.o.,Sloten/Nieuw-Sloten,Nieuw-West,862533.26,98.74,98.74,0.0,Unnamed,forest,483.4,Unnamed,forest,483.45,159979.49,160914.88,18.55,18.66,0.1099999999999994,63,75
+FQ02,Nieuw-Sloten-Noordwest,Sloten/Nieuw-Sloten,Nieuw-West,373501.54,187.92,187.92,0.0,Unnamed,forest,282.6,Unnamed,forest,282.6,22819.2,27450.03,6.11,7.35,1.239999999999999,7,11
+FQ03,Nieuw-Sloten-Noordoost,Sloten/Nieuw-Sloten,Nieuw-West,480244.86,170.11,170.11,0.0,Unnamed,forest,55.02,Unnamed,forest,55.02,61086.97,62009.29,12.72,12.91,0.1899999999999995,9,10
+FQ04,Nieuw-Sloten-Zuidwest,Sloten/Nieuw-Sloten,Nieuw-West,231670.25,297.62,66.16,-231.46,Unnamed,forest,169.41,Unnamed,forest,95.9,1337.76,3406.06,0.58,1.47,0.89,1,11
+FQ06,Nieuw-Sloten-Zuidoost,Sloten/Nieuw-Sloten,Nieuw-West,256142.66,209.91,151.49,-58.41999999999999,Unnamed,forest,109.61,Unnamed,forest,102.97,5967.04,6070.01,2.33,2.37,0.04,5,6
+TA01,Hoofdcentrum-Zuidoost,Amstel III/Bullewijk,Zuidoost,342121.93,239.57,194.51,-45.06,ArenaPark,park,20071.36,Unnamed,forest,96.93,21374.13,22090.12,6.25,6.46,0.2099999999999999,6,10
+TA03,Amstel III deel A/B-Noord,Amstel III/Bullewijk,Zuidoost,799539.37,265.09,265.06,-0.0299999999999727,Unnamed,forest,1401.75,Unnamed,forest,1403.1,1401.75,4852.28,0.18,0.61,0.43,1,7
+TA02,Amstel III deel C/D-Noord,Amstel III/Bullewijk,Zuidoost,989709.36,381.14,112.96,-268.18,Unnamed,forest,1507.81,Unnamed,forest,154.84,9921.3,11186.36,1.0,1.13,0.1299999999999999,5,6
+TA05,Amstel III deel A/B-Zuid,Amstel III/Bullewijk,Zuidoost,375474.0,179.56,199.69,20.129999999999995,Unnamed,forest,1318.41,Unnamed,forest,607.02,8080.74,7252.46,2.15,1.93,-0.2199999999999999,4,4
+TA04,Amstel III deel C/D-Zuid,Amstel III/Bullewijk,Zuidoost,359974.73,326.93,61.94,-264.99,Unnamed,forest,2746.13,Unnamed,forest,1358.73,2746.13,3404.74,0.76,0.95,0.1899999999999999,1,2
+TA06,AMC,Amstel III/Bullewijk,Zuidoost,801510.22,59.18,59.77,0.5900000000000034,Unnamed,park,2277.89,Unnamed,park,1992.19,141049.42,134941.18,17.6,16.84,-0.7600000000000016,63,71
+TA07,Hoge Dijk,Amstel III/Bullewijk,Zuidoost,1605346.84,15.19,16.88,1.6899999999999995,Unnamed,forest,1508.33,Unnamed,forest,1673.33,174561.16,247949.11,10.87,15.45,4.58,74,168
+TB01,Venserpolder-West,Venserpolder,Zuidoost,498446.08,185.27,185.27,0.0,Unnamed,forest,1091.5,Unnamed,forest,1091.5,17410.26,29106.01,3.49,5.84,2.35,21,27
+TB02,Venserpolder-Oost,Venserpolder,Zuidoost,322588.21,38.87,38.87,0.0,Unnamed,forest,124.45,Unnamed,forest,124.45,30949.58,36676.95,9.59,11.37,1.7799999999999994,32,34
+TC01,D-buurt,Amsterdamse Poort e.o.,Zuidoost,277007.1,127.79,99.32,-28.470000000000013,Unnamed,park,602.27,Unnamed,forest,417.24,97240.66,105102.89,35.1,37.94,2.8399999999999963,10,16
+TC02,F-buurt,Amsterdamse Poort e.o.,Zuidoost,232052.55,52.37,52.37,0.0,Unnamed,forest,1335.99,Unnamed,forest,1335.99,21087.2,20418.15,9.09,8.8,-0.2899999999999991,32,32
+TC03,Amsterdamse Poort,Amsterdamse Poort e.o.,Zuidoost,431419.65,205.78,205.78,0.0,Unnamed,forest,382.0,Unnamed,forest,382.0,11584.95,11910.19,2.69,2.76,0.0699999999999998,6,7
+AB02,Driehoekbuurt,Jordaan,Centrum,106075.76,483.97,230.75,-253.22000000000003,Frederik Hendrikplantsoen,park,9556.42,Unnamed,park,2025.15,0.0,0.0,0.0,0.0,0.0,0,0
+AB07,Bloemgrachtbuurt,Jordaan,Centrum,127092.21,352.5,282.78,-69.72000000000003,Unnamed,park,175.55,Tweede Marnixplantsoen,park,2262.82,0.0,0.0,0.0,0.0,0.0,0,0
+AB01,Marnixbuurt-Noord,Jordaan,Centrum,72112.46,287.3,65.97,-221.33,Frederik Hendrikplantsoen,park,9556.42,Unnamed,park,2025.15,81.6,2175.64,0.11,3.02,2.91,1,2
+AB04,Zaagpoortbuurt,Jordaan,Centrum,37938.57,192.2,192.92,0.7199999999999989,Unnamed,park,175.55,Unnamed,park,191.74,175.55,1881.21,0.46,4.96,4.5,1,2
+AB06,Marnixbuurt-Midden,Jordaan,Centrum,21591.34,400.04,173.1,-226.94000000000003,Unnamed,park,106.54,Tweede Marnixplantsoen,park,2262.82,0.0,0.0,0.0,0.0,0.0,0,0
+AB10,Elandsgrachtbuurt,Jordaan,Centrum,207902.0,684.6,479.31,-205.29,Bilderdijkpark,park,6102.4,Tweede Marnixplantsoen,park,2262.82,0.0,0.0,0.0,0.0,0.0,0,0
+AB11,Passeerdersgrachtbuurt,Jordaan,Centrum,54682.04,423.77,365.94,-57.829999999999984,Leidsebosje,park,4551.86,Unnamed,park,84.51,0.0,0.0,0.0,0.0,0.0,0,0
+AB08,Groenmarktkadebuurt,Jordaan,Centrum,49465.89,452.99,452.99,0.0,Bilderdijkpark,park,6102.4,Bilderdijkpark,park,6102.4,0.0,0.0,0.0,0.0,0.0,0,0
+AB09,Marnixbuurt-Zuid,Jordaan,Centrum,51230.08,398.85,200.72,-198.13,Leidsebosje,park,4551.86,Unnamed,park,84.51,0.0,0.0,0.0,0.0,0.0,0,0
+AH01,Leidsebuurt-Noordwest,De Weteringschans,Centrum,28545.33,259.25,259.25,0.0,Leidsebosje,park,4551.86,Leidsebosje,park,4551.86,0.0,0.0,0.0,0.0,0.0,0,0
+AH05,Leidsebuurt-Zuidwest,De Weteringschans,Centrum,32555.8,114.44,114.44,0.0,Leidsebosje,park,4551.86,Leidsebosje,park,4551.86,0.0,0.0,0.0,0.0,0.0,0,0
+AH02,Leidsebuurt-Noordoost,De Weteringschans,Centrum,61564.6,295.49,295.49,0.0,Leidsebosje,park,4333.05,Leidsebosje,park,4333.05,0.0,0.0,0.0,0.0,0.0,0,0
+AH06,Leidsebuurt-Zuidoost,De Weteringschans,Centrum,51097.58,182.83,179.47,-3.3600000000000136,Unnamed,forest,274.22,Unnamed,forest,142.98,0.0,0.0,0.0,0.0,0.0,0,0
+AH03,Weteringbuurt,De Weteringschans,Centrum,136276.41,215.38,215.38,0.0,Unnamed,forest,1921.03,Unnamed,forest,1921.03,0.0,0.0,0.0,0.0,0.0,0,0
+AH07,Den Texbuurt,De Weteringschans,Centrum,112860.27,55.32,55.32,0.0,Unnamed,forest,1921.03,Unnamed,forest,1921.03,13036.5,23608.74,11.55,20.92,9.37,6,8
+AH04,Utrechtsebuurt-Zuid,De Weteringschans,Centrum,68786.26,69.08,70.03,0.9500000000000028,Unnamed,forest,872.32,Unnamed,forest,1002.33,1116.25,896.53,1.62,1.3,-0.32,4,3
+AH08,Frederikspleinbuurt,De Weteringschans,Centrum,155992.16,21.54,17.71,-3.8299999999999983,Unnamed,forest,2558.21,Unnamed,forest,419.82,10768.56,9318.83,6.9,5.97,-0.9300000000000006,11,13
+AJ01,Weesperbuurt,Weesperbuurt/Plantage,Centrum,279123.3,200.44,222.22,21.78,Weesperplantsoen,park,1512.39,Unnamed,forest,387.9,4323.96,2881.6,1.55,1.03,-0.52,5,4
+AJ03,Sarphatistrook,Weesperbuurt/Plantage,Centrum,214481.13,224.79,134.44,-90.35,Unnamed,forest,435.81,Unnamed,forest,237.98,509.76,511.68,0.24,0.24,0.0,1,1
+AK01,Marine-Etablissement,Oostelijke Eilanden/Kadijken,Centrum,271576.74,532.54,21.52,-511.02,Unnamed,forest,522.33,Unnamed,forest,1617.57,0.0,8187.4,0.0,3.01,3.01,0,11
+AK02,Kattenburg,Oostelijke Eilanden/Kadijken,Centrum,120705.54,388.91,165.17,-223.74000000000004,Touwbaanpark,park,2503.4,Unnamed,forest,2018.18,0.0,2018.18,0.0,1.67,1.67,0,1
+AK03,Wittenburg,Oostelijke Eilanden/Kadijken,Centrum,180470.68,219.97,219.97,0.0,Touwbaanpark,park,2503.4,Touwbaanpark,park,2503.4,0.0,224.13,0.0,0.12,0.12,0,1
+AK04,Oostenburg,Oostelijke Eilanden/Kadijken,Centrum,247469.96,178.53,178.53,0.0,Oostenburgerpark,park,7804.41,Oostenburgerpark,park,7804.41,10307.82,10307.82,4.17,4.17,0.0,2,2
+AK05,Czaar Peterbuurt,Oostelijke Eilanden/Kadijken,Centrum,107700.17,243.04,243.04,0.0,Oostenburgerpark,park,7804.41,Oostenburgerpark,park,7804.41,0.0,0.0,0.0,0.0,0.0,0,0
+AK08,Kazernebuurt,Oostelijke Eilanden/Kadijken,Centrum,66044.96,257.23,257.23,0.0,Unnamed,forest,1172.67,Unnamed,forest,1172.67,0.0,0.0,0.0,0.0,0.0,0,0
+BA04,Petroleumhaven,Havens-West,Westpoort,3217182.14,85.7,339.99,254.29,Unnamed,forest,340.17,Unnamed,forest,1073.33,33634.34,37271.36,1.05,1.16,0.1099999999999998,22,26
+BA03,Westhaven-Noord,Havens-West,Westpoort,5696028.46,757.27,481.65,-275.62,Unnamed,forest,6772.57,Unnamed,forest,295.26,83459.47,53053.38,1.47,0.93,-0.5399999999999999,25,37
+BA05,Vervoerscentrum,Havens-West,Westpoort,700347.77,284.47,229.14,-55.33000000000004,Unnamed,forest,1572.81,Unnamed,forest,18.1,31331.09,22363.45,4.47,3.19,-1.2799999999999998,8,14
+BA02,Amerikahaven,Havens-West,Westpoort,10121417.04,679.77,679.77,0.0,Unnamed,forest,1367.79,Unnamed,forest,1367.79,40732.68,74674.87,0.4,0.74,0.3399999999999999,21,66
+BA01,Afrikahaven,Havens-West,Westpoort,5357951.74,212.34,212.08,-0.2599999999999909,Unnamed,forest,3758.65,Unnamed,forest,2921.08,118736.58,163459.58,2.22,3.05,0.8299999999999996,56,121
+FA01,Sloterdijk De Heining,Sloterdijk Nieuw-West,Nieuw-West,1125595.57,22.93,22.93,0.0,Unnamed,forest,2478.87,Unnamed,forest,2478.87,891814.26,883817.0,79.23,78.52,-0.710000000000008,23,33
+FA08,Sloterdijk Stationskwartier,Sloterdijk Nieuw-West,Nieuw-West,864468.09,286.42,20.85,-265.57,Unnamed,forest,1218.98,Unnamed,forest,108.48,22951.38,22408.23,2.65,2.59,-0.06,15,16
+EC01,Houthavens-West,Houthavens,West,663445.51,344.61,335.74,-8.870000000000005,Dijkpark,park,17884.83,Houthavenpark,park,24595.18,23905.73,29833.22,3.6,4.5,0.8999999999999999,6,7
+EC02,Houthavens-Oost,Houthavens,West,256246.16,272.61,272.61,0.0,Stenen Hoofd,park,10447.55,Stenen Hoofd,park,10447.55,10447.55,10447.55,4.08,4.08,0.0,1,1
+EB08,Zeeheldenbuurt,Spaarndammerbuurt/Zeeheldenbuurt,West,103336.47,200.06,200.06,0.0,Toon Ylandplantsoen,park,1291.09,Toon Ylandplantsoen,park,1291.09,0.0,0.0,0.0,0.0,0.0,0,0
+EB07,Spaarndammerbuurt-Noordoost,Spaarndammerbuurt/Zeeheldenbuurt,West,111765.73,331.0,331.0,0.0,Domela Nieuwenhuisplantsoen,park,2222.24,Domela Nieuwenhuisplantsoen,park,2222.24,0.0,0.0,0.0,0.0,0.0,0,0
+EB10,Spaarndammerbuurt-Zuidoost,Spaarndammerbuurt/Zeeheldenbuurt,West,56727.93,123.85,123.85,0.0,Domela Nieuwenhuisplantsoen,park,2222.24,Domela Nieuwenhuisplantsoen,park,2222.24,0.0,0.0,0.0,0.0,0.0,0,0
+EB06,Spaarndammerbuurt-Zuidwest,Spaarndammerbuurt/Zeeheldenbuurt,West,75787.78,178.16,178.12,-0.039999999999992,Unnamed,forest,3406.55,Unnamed,forest,3416.68,6457.6,6457.6,8.52,8.52,0.0,4,4
+EB05,Spaarndammerbuurt-Midden,Spaarndammerbuurt/Zeeheldenbuurt,West,57343.94,69.93,71.24,1.309999999999988,Unnamed,forest,354.62,Unnamed,forest,489.49,3715.18,3850.05,6.48,6.71,0.2299999999999995,4,4
+EB04,Spaarndammerbuurt-Noordwest,Spaarndammerbuurt/Zeeheldenbuurt,West,119158.56,35.63,35.63,0.0,Unnamed,forest,236.86,Unnamed,forest,236.86,1514.47,4023.19,1.27,3.38,2.11,2,4
+EB09,Westergasfabriek,Spaarndammerbuurt/Zeeheldenbuurt,West,257057.65,98.08,21.49,-76.59,Unnamed,park,2145.18,Unnamed,forest,650.16,209016.29,212735.31,81.31,82.76,1.4500000000000028,26,37
+EH04,De Wittenbuurt-Noord,Staatsliedenbuurt,West,74646.09,272.18,228.47,-43.71000000000001,Unnamed,park,3209.17,Unnamed,park,2025.15,0.0,0.0,0.0,0.0,0.0,0,0
+EH05,De Wittenbuurt-Zuid,Staatsliedenbuurt,West,46309.54,275.2,275.2,0.0,Frederik Hendrikplantsoen,park,9556.42,Frederik Hendrikplantsoen,park,9556.42,0.0,0.0,0.0,0.0,0.0,0,0
+EH03,Staatsliedenbuurt-Noordoost,Staatsliedenbuurt,West,68156.3,127.12,127.12,0.0,Unnamed,forest,133.73,Unnamed,forest,133.73,0.0,0.0,0.0,0.0,0.0,0,0
+EH02,Fannius Scholtenbuurt,Staatsliedenbuurt,West,111013.89,292.03,292.03,0.0,Unnamed,forest,637.58,Unnamed,forest,637.58,0.0,0.0,0.0,0.0,0.0,0,0
+EH01,Westerstaatsman,Staatsliedenbuurt,West,100221.71,294.65,294.65,0.0,Unnamed,park,423.43,Unnamed,park,423.43,0.0,0.0,0.0,0.0,0.0,0,0
+EH06,Buyskade e.o.,Staatsliedenbuurt,West,130482.3,105.19,105.19,0.0,Unnamed,park,423.43,Unnamed,park,423.43,836.73,892.08,0.64,0.68,0.04,2,2
+EG02,GWL-terrein,Centrale Markt,West,65849.94,308.24,239.67,-68.57000000000002,Unnamed,park,527.66,Unnamed,forest,300.27,0.0,0.0,0.0,0.0,0.0,0,0
+EG03,Markthallen,Centrale Markt,West,283051.4,240.64,228.3,-12.339999999999977,Unnamed,forest,639.86,Unnamed,forest,265.82,3176.94,3176.94,1.12,1.12,0.0,2,2
+EG01,Bedrijvencentrum Westerkwartier,Centrale Markt,West,151776.28,119.7,119.7,0.0,Unnamed,forest,10873.49,Unnamed,forest,10873.49,14298.73,14298.73,9.42,9.42,0.0,3,3
+EG04,Marcanti,Centrale Markt,West,71865.19,146.56,142.5,-4.060000000000002,Unnamed,forest,564.79,Unnamed,forest,82.97,0.0,82.97,0.0,0.12,0.12,0,1
+EJ01,Frederik Hendrikbuurt-Noord,Frederik Hendrikbuurt,West,212353.38,51.68,51.68,0.0,Unnamed,forest,1145.91,Unnamed,forest,1145.91,16221.0,24335.45,7.64,11.46,3.820000000000001,5,6
+EJ03,Frederik Hendrikbuurt-Zuidoost,Frederik Hendrikbuurt,West,124670.03,186.0,186.0,0.0,Unnamed,park,106.54,Unnamed,park,106.54,0.0,573.35,0.0,0.46,0.46,0,1
+EJ02,Frederik Hendrikbuurt-Zuidwest,Frederik Hendrikbuurt,West,84195.81,24.68,24.68,0.0,Unnamed,park,217.81,Unnamed,park,217.81,756.18,756.18,0.9,0.9,0.0,6,6
+EP01,Bellamybuurt-Noord,Bellamybuurt,West,110050.27,88.1,88.1,0.0,Unnamed,forest,105.67,Unnamed,forest,105.67,5626.06,5889.47,5.11,5.35,0.2399999999999993,3,4
+EP02,Bellamybuurt-Zuid,Bellamybuurt,West,163782.75,131.06,131.82,0.7599999999999909,Unnamed,park,340.55,Caspar Flickhof,park,506.32,2182.46,2348.22,1.33,1.43,0.0999999999999998,2,2
+ES03,Da Costabuurt-Zuid,Van Lennepbuurt,West,88419.68,469.43,150.6,-318.83000000000004,Bellamyplein,park,1841.91,Unnamed,park,84.51,0.0,0.0,0.0,0.0,0.0,0,0
+ES02,Borgerbuurt,Van Lennepbuurt,West,124841.23,246.96,250.62,3.6599999999999966,Unnamed,park,2179.51,Unnamed,park,1926.89,0.0,0.0,0.0,0.0,0.0,0,0
+ES01,Lootsbuurt,Van Lennepbuurt,West,74390.14,138.39,138.39,0.0,Unnamed,forest,371.38,Unnamed,forest,371.38,0.0,0.0,0.0,0.0,0.0,0,0
+EU03,Helmersbuurt-Oost,Helmersbuurt,West,112518.0,290.72,145.32,-145.40000000000003,Leidsebosje,park,4551.86,Unnamed,park,84.51,0.0,84.51,0.0,0.08,0.08,0,1
+EU02,WG-terrein,Helmersbuurt,West,167823.81,79.39,78.2,-1.1899999999999975,Helmersplantsoen,park,1960.89,Helmersplantsoen,park,1873.76,4140.4,3800.64,2.47,2.26,-0.2100000000000004,2,2
+EU01,Cremerbuurt-Oost,Helmersbuurt,West,68943.21,131.61,130.31,-1.3000000000000114,Unnamed,park,2179.51,Unnamed,park,1926.89,0.0,0.0,0.0,0.0,0.0,0,0
+ET01,Cremerbuurt-West,Overtoomse Sluis,West,206009.81,155.61,155.61,0.0,Unnamed,forest,1296.98,Unnamed,forest,1296.98,2531.41,2531.41,1.23,1.23,0.0,2,2
+ET02,Vondelparkbuurt-West,Overtoomse Sluis,West,102611.03,62.51,62.51,0.0,Unnamed,forest,314.06,Unnamed,forest,314.06,1899.62,1820.14,1.85,1.77,-0.08,7,7
+EV02,Vondelparkbuurt-Oost,Vondelparkbuurt,West,130121.71,151.84,151.84,0.0,Unnamed,forest,982.73,Unnamed,forest,982.73,14124.65,13743.07,10.85,10.56,-0.2899999999999991,6,6
+EV01,Vondelparkbuurt-Midden,Vondelparkbuurt,West,91092.45,65.63,62.0,-3.629999999999996,Unnamed,forest,4774.28,Unnamed,forest,4755.95,10694.32,10698.4,11.74,11.74,0.0,4,4
+MF01,Timorpleinbuurt-Noord,Indische Buurt-West,Oost,176083.53,277.35,277.35,0.0,Unnamed,forest,2319.25,Unnamed,forest,2319.25,628.03,628.03,0.36,0.36,0.0,1,1
+MF02,Timorpleinbuurt-Zuid,Indische Buurt-West,Oost,145566.74,273.0,273.0,0.0,Unnamed,forest,1411.09,Unnamed,forest,1411.09,151.72,151.72,0.1,0.1,0.0,1,1
+MG01,Makassarpleinbuurt,Indische Buurt-Oost,Oost,267050.15,258.21,247.16,-11.049999999999985,Unnamed,forest,2104.83,Unnamed,forest,322.9,4295.52,4754.49,1.61,1.78,0.1699999999999999,4,6
+MG03,Sumatraplantsoenbuurt,Indische Buurt-Oost,Oost,140401.76,198.94,199.29,0.3499999999999943,Unnamed,forest,14695.05,Unnamed,forest,14808.58,0.0,0.0,0.0,0.0,0.0,0,0
+MG02,Zeeburgerdijk-Oost,Indische Buurt-Oost,Oost,126948.99,77.41,38.18,-39.23,Unnamed,forest,5634.87,Unnamed,forest,274.28,9351.58,10258.62,7.37,8.08,0.71,3,7
+MG04,Flevopark,Indische Buurt-Oost,Oost,760141.12,100.3,101.61,1.3100000000000025,Unnamed,forest,3076.85,Unnamed,forest,3199.12,442139.08,436092.61,58.17,57.37,-0.8000000000000043,33,45
+MA03,Oostelijke Handelskade,Oostelijk Havengebied,Oost,357562.54,344.11,142.18,-201.93,Unnamed,forest,69.59,Unnamed,forest,720.36,0.0,50.57,0.0,0.01,0.01,0,3
+MA04,Rietlanden,Oostelijk Havengebied,Oost,344099.86,119.56,119.56,0.0,Rietlandpark,park,72973.0,Rietlandpark,park,72973.0,74555.87,74555.87,21.67,21.67,0.0,3,3
+MA01,Java-eiland,Oostelijk Havengebied,Oost,713315.05,135.01,135.01,0.0,Unnamed,forest,75.13,Unnamed,forest,75.13,4813.05,4185.92,0.67,0.59,-0.08,15,13
+MA05,Sporenburg,Oostelijk Havengebied,Oost,364416.58,68.32,69.29,0.9700000000000132,Keesje Brijdeplantsoen,park,7628.18,Keesje Brijdeplantsoen,park,7745.38,7628.18,7745.38,2.09,2.13,0.04,1,1
+MA06,Borneo,Oostelijk Havengebied,Oost,267297.0,249.43,249.82,0.3899999999999863,Keesje Brijdeplantsoen,park,7628.18,Keesje Brijdeplantsoen,park,7745.38,0.0,0.0,0.0,0.0,0.0,0,0
+MA07,Entrepot-Noordwest,Oostelijk Havengebied,Oost,127392.28,166.53,48.55,-117.98,Unnamed,forest,543.34,Unnamed,forest,324.33,604.13,924.35,0.47,0.73,0.26,2,3
+MA09,Architectenbuurt,Oostelijk Havengebied,Oost,142191.24,325.12,325.12,0.0,Unnamed,forest,543.34,Unnamed,forest,543.34,0.0,0.0,0.0,0.0,0.0,0,0
+MA08,Bedrijvengebied Veelaan,Oostelijk Havengebied,Oost,51205.66,166.31,161.48,-4.8300000000000125,Unnamed,forest,543.34,Unnamed,forest,324.33,157.4,157.4,0.31,0.31,0.0,1,1
+MA10,Cruquiusbuurt,Oostelijk Havengebied,Oost,310395.67,357.0,343.8,-13.199999999999989,Unnamed,forest,5634.87,Unnamed,forest,274.28,0.0,0.0,0.0,0.0,0.0,0,0
+MA11,Bedrijvengebied Zeeburgerkade,Oostelijk Havengebied,Oost,99550.34,370.77,370.77,0.0,Unnamed,forest,543.34,Unnamed,forest,543.34,0.0,0.0,0.0,0.0,0.0,0,0
+MH01,Sluisbuurt,Zeeburgereiland/Bovendiep,Oost,664904.17,143.23,143.23,0.0,Unnamed,forest,515.54,Unnamed,forest,515.54,6843.94,1691.66,1.03,0.25,-0.78,11,4
+MH05,Baaibuurt-Oost,Zeeburgereiland/Bovendiep,Oost,500349.53,344.03,344.03,0.0,Unnamed,forest,143.82,Unnamed,forest,143.82,2068.53,2929.31,0.41,0.59,0.18,3,4
+MH04,Baaibuurt-West,Zeeburgereiland/Bovendiep,Oost,276055.38,140.51,140.51,0.0,Unnamed,forest,1973.89,Unnamed,forest,1973.89,8428.16,13306.7,3.05,4.82,1.7700000000000005,9,11
+MH06,Bovendiep/Diemerpark,Zeeburgereiland/Bovendiep,Oost,2399936.54,137.89,137.89,0.0,Unnamed,forest,5643.31,Unnamed,forest,5643.31,682377.92,690231.85,28.43,28.76,0.3300000000000018,13,27
+MJ01,Steigereiland-Zuid,IJburg-West,Oost,403590.28,342.85,342.85,0.0,Steigerpark,park,3374.49,Steigerpark,park,3374.49,3374.49,3374.49,0.84,0.84,0.0,1,1
+MJ03,Rieteilanden-West,IJburg-West,Oost,441221.04,354.17,354.17,0.0,Ed Pelsterpark,park,8724.17,Ed Pelsterpark,park,8724.17,45786.51,45786.51,10.38,10.38,0.0,1,1
+ML03,Rieteiland-Oost,IJburg-Zuid,Oost,206371.85,335.99,208.31,-127.68,Unnamed,forest,1774.45,Unnamed,forest,1525.67,117.17,117.17,0.06,0.06,0.0,1,1
+ML02,Theo van Goghparkbuurt,IJburg-Zuid,Oost,601977.49,124.64,129.34,4.700000000000003,Theo van Goghpark,park,41196.12,Theo van Goghpark,park,42443.99,43521.81,42443.99,7.23,7.05,-0.1800000000000006,3,1
+ML01,Havenkwartier IJburg,IJburg-Zuid,Oost,160977.34,162.12,367.86,205.74,Unnamed,park,1008.09,Theo van Goghpark,park,42443.99,515.65,0.0,0.32,0.0,-0.32,2,0
+NG03,Nintemanterrein,Elzenhagen,Noord,39016.96,58.25,57.79,-0.4600000000000008,Unnamed,forest,495.47,Unnamed,forest,434.96,8575.99,5498.7,21.98,14.09,-7.890000000000001,7,5
+NG02,Elzenhagen-Zuid,Elzenhagen,Noord,312681.26,26.37,13.75,-12.62,Unnamed,forest,914.42,Unnamed,forest,162.34,44203.78,13588.56,14.14,4.35,-9.79,19,21
+NG01,Elzenhagen-Noord,Elzenhagen,Noord,509158.65,185.57,125.65,-59.91999999999999,Unnamed,forest,1402.44,Unnamed,forest,80.84,40028.46,44089.08,7.86,8.66,0.7999999999999998,13,17
+EE03,Bedrijventerrein Landlust,Landlust,West,140034.85,179.37,168.34,-11.03,Unnamed,park,331.87,Unnamed,forest,2188.33,0.0,2188.33,0.0,1.56,1.56,0,1
+EE01,Bosleeuw,Landlust,West,342857.71,138.28,138.28,0.0,Unnamed,forest,735.28,Unnamed,forest,735.28,15844.53,13585.06,4.62,3.96,-0.6600000000000001,10,8
+EE06,Landlust-Zuid,Landlust,West,216843.94,199.93,160.5,-39.43000000000001,Unnamed,forest,639.86,Unnamed,forest,519.1,8065.63,11204.71,3.72,5.17,1.4499999999999995,3,7
+EE05,Erasmusparkbuurt-Oost,Landlust,West,90692.16,210.9,99.84,-111.06,Wachterliedplantsoen,park,14398.36,Unnamed,wood,1336.4,0.0,0.0,0.0,0.0,0.0,0,0
+ED04,Robert Scottbuurt-West,De Kolenkit,West,148490.79,151.91,151.91,0.0,Unnamed,forest,4759.63,Unnamed,forest,4759.63,4759.63,4759.63,3.21,3.21,0.0,1,1
+ED03,Laan van Spartaan,De Kolenkit,West,165770.96,147.52,147.52,0.0,Willem Augustinpark,park,3541.1,Willem Augustinpark,park,3541.1,5528.01,5528.01,3.33,3.33,0.0,2,2
+ED02,Kolenkitbuurt-Zuid,De Kolenkit,West,127922.66,185.38,185.38,0.0,Willem Augustinpark,park,3541.1,Willem Augustinpark,park,3541.1,2748.69,2748.69,2.15,2.15,0.0,1,1
+ED01,Kolenkitbuurt-Noord,De Kolenkit,West,298884.99,145.54,145.54,0.0,Unnamed,forest,2800.35,Unnamed,forest,2800.35,20789.71,21301.85,6.96,7.13,0.1699999999999999,9,9
+EL01,Pieter van der Doesbuurt,Geuzenbuurt,West,74978.66,262.56,262.6,0.0400000000000204,De Krommert,park,3205.66,De Krommert,park,3207.02,0.0,0.0,0.0,0.0,0.0,0,0
+EK04,John Franklinbuurt,Van Galenbuurt,West,74913.85,213.17,213.17,0.0,Unnamed,forest,520.71,Unnamed,forest,520.71,0.0,0.0,0.0,0.0,0.0,0,0
+EK03,Jan Maijenbuurt,Van Galenbuurt,West,78371.03,195.44,195.44,0.0,Unnamed,forest,1218.83,Unnamed,forest,1218.83,0.0,0.0,0.0,0.0,0.0,0,0
+EK02,Orteliusbuurt-Noord,Van Galenbuurt,West,42626.7,85.84,85.84,0.0,Unnamed,forest,2328.72,Unnamed,forest,2328.64,0.0,0.0,0.0,0.0,0.0,0,0
+EK01,Mercatorpark,Van Galenbuurt,West,98159.81,12.87,12.87,0.0,Unnamed,forest,1236.45,Unnamed,forest,1236.45,7667.8,9877.13,7.81,10.06,2.250000000000001,5,8
+EM02,Balboaplein e.o.,Hoofdweg e.o.,West,120096.81,373.93,374.77,0.839999999999975,Unnamed,forest,1783.66,Unnamed,forest,1864.73,0.0,0.0,0.0,0.0,0.0,0,0
+EM04,Columbusplein e.o.,Hoofdweg e.o.,West,155102.68,338.38,338.38,0.0,Unnamed,forest,371.38,Unnamed,forest,371.38,0.0,0.0,0.0,0.0,0.0,0,0
+EM01,Orteliusbuurt-Midden,Hoofdweg e.o.,West,60909.42,116.18,116.18,0.0,Unnamed,forest,4928.05,Unnamed,forest,4928.05,2588.83,1444.96,4.25,2.37,-1.88,3,2
+EM03,Orteliusbuurt-Zuid,Hoofdweg e.o.,West,83603.74,90.19,86.21,-3.980000000000004,Unnamed,forest,643.71,Unnamed,forest,1081.02,6614.26,2456.4,7.91,2.94,-4.970000000000001,8,7
+ER02,Paramariboplein e.o.,Westindische Buurt,West,171293.28,203.28,203.91,0.6299999999999955,Unnamed,forest,337.44,Unnamed,forest,256.79,337.44,256.79,0.2,0.15,-0.05,1,1
+ER01,Postjeskade e.o.,Westindische Buurt,West,175518.39,118.9,120.7,1.7999999999999972,Unnamed,forest,332.06,Unnamed,forest,207.3,1004.98,880.23,0.57,0.5,-0.0699999999999999,4,4
+NK03,Van der Pekbuurt,Volewijck,Noord,579481.06,128.56,56.16,-72.4,Unnamed,park,1755.25,Unnamed,forest,84.48,35942.61,32443.44,6.2,5.6,-0.6000000000000005,15,37
+NK02,Bloemenbuurt-Zuid,Volewijck,Noord,370906.1,66.42,63.45,-2.969999999999999,Unnamed,forest,462.35,Unnamed,forest,53.91,158791.57,151128.47,42.81,40.75,-2.0600000000000023,42,48
+NK01,Bloemenbuurt-Noord,Volewijck,Noord,362674.3,106.86,106.86,0.0,Unnamed,forest,617.75,Unnamed,forest,617.75,148626.76,144335.63,40.98,39.8,-1.1799999999999995,34,40
+NL04,IJplein e.o.,IJplein/Vogelbuurt,Noord,397497.94,4.59,4.86,0.2700000000000004,Unnamed,forest,40.23,Unnamed,forest,50.44,6639.53,2669.41,1.67,0.67,-1.0,11,7
+NL03,Vogelbuurt-Zuid,IJplein/Vogelbuurt,Noord,341932.04,148.57,171.46,22.89000000000001,Unnamed,forest,3486.86,Unnamed,forest,622.69,22145.27,11962.79,6.48,3.5,-2.9800000000000004,7,12
+NL01,Vogelbuurt-Noord,IJplein/Vogelbuurt,Noord,318826.27,40.75,34.15,-6.600000000000001,Unnamed,forest,456.5,Unnamed,forest,383.0,257609.35,184915.8,80.8,58.0,-22.8,34,42
+NL02,Vliegenbos,IJplein/Vogelbuurt,Noord,395042.49,12.26,11.91,-0.3499999999999996,W.H. Vliegenbos,park,280313.27,W.H. Vliegenbos,park,279770.79,395042.49,395042.49,100.0,100.0,0.0,65,76
+NN01,Tuindorp Nieuwendam-West,Tuindorp Nieuwendam,Noord,119781.18,149.36,82.18,-67.18,Unnamed,forest,216.27,Unnamed,park,280.73,970.03,1258.83,0.81,1.05,0.24,5,6
+NN02,Tuindorp Nieuwendam-Oost,Tuindorp Nieuwendam,Noord,350772.44,85.38,63.06,-22.319999999999997,Unnamed,forest,151.51,Unnamed,forest,98.81,68983.55,69945.68,19.67,19.94,0.2699999999999996,18,22
+NM01,Blauwe Zand,Tuindorp Buiksloot,Noord,173021.82,122.59,116.03,-6.560000000000002,Unnamed,forest,293.69,Unnamed,forest,181.64,5391.68,3716.84,3.12,2.15,-0.9700000000000002,10,9
+NF01,Buiksloterdijk-West,Nieuwendammerdijk/Buiksloterdijk,Noord,26451.07,47.25,47.0,-0.25,Unnamed,forest,772.13,Unnamed,forest,599.01,293.4,250.35,1.11,0.95,-0.1600000000000001,2,1
+NF03,Nieuwendammerdijk-West,Nieuwendammerdijk/Buiksloterdijk,Noord,117724.58,91.64,120.69,29.05,Unnamed,forest,172.68,Unnamed,forest,2250.97,3148.1,2402.33,2.67,2.04,-0.6299999999999999,7,7
+NF04,Nieuwendammerdijk-Oost,Nieuwendammerdijk/Buiksloterdijk,Noord,79399.35,88.67,88.67,0.0,Unnamed,forest,2000.15,Unnamed,forest,2000.15,12299.76,13257.59,15.49,16.7,1.209999999999999,4,6
+NF05,Nieuwendammerdijk-Zuid,Nieuwendammerdijk/Buiksloterdijk,Noord,182860.63,45.03,44.38,-0.6499999999999986,Unnamed,forest,7672.58,Unnamed,forest,8475.44,62051.15,66274.26,33.93,36.24,2.3100000000000023,14,17
+NC01,Tuindorp Oostzaan-West,Tuindorp Oostzaan,Noord,181544.73,161.6,36.04,-125.56,Unnamed,forest,648.37,Unnamed,forest,1027.1,7988.41,9428.41,4.4,5.19,0.79,13,20
+NC02,Tuindorp Oostzaan-Oost,Tuindorp Oostzaan,Noord,528814.89,92.45,92.45,0.0,Unnamed,park,908.47,Unnamed,park,908.47,11062.65,11448.57,2.09,2.16,0.0700000000000002,18,26
+NC03,Terrasdorp,Tuindorp Oostzaan,Noord,689195.74,310.57,132.03,-178.54,Unnamed,forest,775.27,Unnamed,forest,54.49,17008.66,23360.21,2.47,3.39,0.92,20,34
+NC04,De Bongerd,Tuindorp Oostzaan,Noord,300140.66,305.63,144.95,-160.68,Unnamed,forest,660.65,Unnamed,park,1440.34,0.0,1440.34,0.0,0.48,0.48,0,1
+NA04,Twiske-West,Oostzanerwerf,Noord,419312.33,91.01,58.43,-32.580000000000005,Unnamed,forest,68.24,Unnamed,forest,653.57,21087.69,19877.8,5.03,4.74,-0.29,15,14
+NA01,Noorder IJplas,Oostzanerwerf,Noord,1467828.93,143.02,299.33,156.30999999999997,Unnamed,forest,3255.88,Unnamed,forest,75.68,162170.75,152151.09,11.05,10.37,-0.6800000000000015,37,36
+ND02,Kadoelen,Kadoelen,Noord,1305361.65,85.26,81.44,-3.820000000000008,Unnamed,forest,2004.01,Unnamed,forest,2061.91,82348.04,97362.45,6.31,7.46,1.1500000000000004,53,71
+ND01,Twiske-Oost,Kadoelen,Noord,190593.92,77.11,76.76,-0.3499999999999943,Unnamed,forest,10588.18,Unnamed,forest,8667.53,10647.48,8722.47,5.59,4.58,-1.0099999999999998,2,2
+NJ01,Markengouw-Noord,Waterlandpleinbuurt,Noord,118388.72,28.7,28.66,-0.0399999999999991,Unnamed,forest,3150.2,Unnamed,forest,3153.48,23296.59,80523.4,19.68,68.02,48.34,21,23
+NJ04,Werengouw-Noord,Waterlandpleinbuurt,Noord,163130.34,50.86,51.24,0.3800000000000025,Unnamed,forest,2769.0,Unnamed,forest,3862.48,163130.34,163130.34,100.0,100.0,0.0,30,34
+NJ05,Werengouw-Midden,Waterlandpleinbuurt,Noord,375753.04,115.53,83.24,-32.290000000000006,De Groene Zoom,park,34700.84,Unnamed,forest,158.64,42604.92,46644.24,11.34,12.41,1.0700000000000005,17,43
+NJ03,Markengouw-Zuid,Waterlandpleinbuurt,Noord,226453.13,87.59,87.59,0.0,Unnamed,forest,810.7,Unnamed,forest,810.7,15309.59,18145.81,6.76,8.01,1.25,15,21
+NJ06,Werengouw-Zuid,Waterlandpleinbuurt,Noord,220879.63,31.28,31.92,0.6400000000000006,Unnamed,forest,1083.22,Unnamed,forest,783.22,88550.78,91079.77,40.09,41.24,1.1499999999999986,24,29
+NH06,Rode Kruisbuurt,Buikslotermeer,Noord,156251.91,74.49,72.75,-1.7399999999999949,Unnamed,forest,960.17,Unnamed,forest,1268.58,11388.12,11111.94,7.29,7.11,-0.1799999999999997,11,10
+NH03,Loenermark,Buikslotermeer,Noord,170961.76,69.86,69.16,-0.7000000000000028,Unnamed,park,1673.26,Unnamed,forest,1893.64,18027.42,32602.04,10.54,19.07,8.530000000000001,12,13
+NE03,Banne-Zuidwest,Banne Buiksloot,Noord,372867.16,29.84,29.84,0.0,Unnamed,forest,960.16,Unnamed,forest,960.16,29536.11,85139.79,7.92,22.83,14.909999999999998,31,56
+NE04,Banne-Zuidoost,Banne Buiksloot,Noord,525415.2,57.72,57.72,0.0,Unnamed,forest,231.59,Unnamed,forest,231.59,30845.36,56540.57,5.87,10.76,4.89,37,51
+NE01,Banne-Noordwest,Banne Buiksloot,Noord,340852.19,13.27,13.27,0.0,Unnamed,forest,261.83,Unnamed,forest,261.83,51533.2,82229.41,15.12,24.12,9.000000000000002,60,60
+NE02,Banne-Noordoost,Banne Buiksloot,Noord,456091.31,48.64,48.64,0.0,Unnamed,forest,460.6,Unnamed,forest,460.6,44869.07,45565.19,9.84,9.99,0.1500000000000003,56,64
+NE05,Buiksloterbreek,Banne Buiksloot,Noord,99721.31,64.65,13.11,-51.540000000000006,Unnamed,forest,1641.74,Unnamed,forest,92.02,5295.94,21626.58,5.31,21.69,16.380000000000003,9,14
+NP01,Hamerstraatkwartier-West,Noordelijke IJ-oevers-Oost,Noord,499304.17,483.03,417.92,-65.10999999999996,Unnamed,forest,2517.85,Unnamed,forest,87.29,0.0,87.29,0.0,0.02,0.02,0,1
+NP02,Hamerstraatkwartier-Oost,Noordelijke IJ-oevers-Oost,Noord,390015.43,156.63,116.43,-40.19999999999999,Unnamed,forest,1371.47,Unnamed,forest,470.82,10868.08,13306.41,2.79,3.41,0.6200000000000001,13,18
+NP03,Bedrijventerrein Nieuwendammerdijk,Noordelijke IJ-oevers-Oost,Noord,219244.89,170.47,170.39,-0.0800000000000125,Unnamed,forest,283.7,Unnamed,forest,240.51,29260.17,30053.58,13.35,13.71,0.3600000000000012,9,10
+NQ04,Schellingwoude-West,Waterland,Noord,251149.07,60.82,60.3,-0.5200000000000031,Unnamed,forest,1224.08,Unnamed,forest,1183.33,129910.69,124821.49,51.73,49.7,-2.029999999999994,14,13
+NQ05,Schellingwoude-Oost,Waterland,Noord,921999.33,53.62,54.48,0.8599999999999994,Unnamed,forest,1027.49,Unnamed,forest,1019.76,100768.09,101978.96,10.93,11.06,0.1300000000000007,61,60
+NQ06,Schellingwoude-Noord,Waterland,Noord,368543.71,73.77,73.77,0.0,Unnamed,forest,171.13,Unnamed,forest,171.13,33071.26,28107.98,8.97,7.63,-1.3400000000000007,39,36
+NQ10,Durgerdam,Waterland,Noord,6880411.74,525.94,579.97,54.02999999999997,Unnamed,forest,61.25,Unnamed,forest,1547.64,16869.71,10610.53,0.25,0.15,-0.1,16,7
+NQ07,Zwarte Gouw,Waterland,Noord,1598392.13,355.24,355.24,0.0,Unnamed,forest,548.2,Unnamed,forest,548.2,5775.15,1871.4,0.36,0.12,-0.24,12,9
+NQ09,Ransdorp,Waterland,Noord,2271983.86,176.36,175.91,-0.450000000000017,Unnamed,forest,574.38,Unnamed,forest,620.6,4001.5,4971.15,0.18,0.22,0.04,9,13
+NQ08,Holysloot,Waterland,Noord,19900073.21,1084.84,743.08,-341.7599999999999,Unnamed,forest,514.86,Vereniging Kinselmeer Zicht,park,10878.49,19871.36,34492.79,0.1,0.17,0.07,48,59
+NQ03,Zunderdorp,Waterland,Noord,8864562.13,115.7,196.96,81.26,Unnamed,forest,109.07,Unnamed,forest,212.09,1104628.94,1093019.51,12.46,12.33,-0.1300000000000007,51,50
+EN02,Kortenaerkwartier,Chass�buurt,West,99500.85,208.59,208.57,-0.0200000000000102,De Krommert,park,3205.66,De Krommert,park,3207.02,0.0,0.0,0.0,0.0,0.0,0,0
+FD04,Dobbebuurt,Slotermeer-Noordoost,Nieuw-West,315141.45,53.64,46.84,-6.799999999999997,Unnamed,forest,909.13,Unnamed,forest,1444.42,111857.24,119039.78,35.49,37.77,2.280000000000001,18,23
+FE03,Noordoever Sloterplas,Slotermeer-Zuidoost,Nieuw-West,475794.87,28.61,32.31,3.700000000000003,Unnamed,forest,236.8,Unnamed,wood,481.03,153163.21,156863.87,32.19,32.97,0.7800000000000011,13,11
+FC01,Jan de Louterbuurt,Slotermeer-West,Nieuw-West,359193.09,98.15,96.46,-1.690000000000012,Unnamed,forest,738.13,Unnamed,forest,889.78,7431.61,35007.35,2.07,9.75,7.68,5,18
+TD01,Hoptille,H-buurt,Zuidoost,203591.58,186.31,186.31,0.0,Unnamed,forest,165.37,Unnamed,forest,165.37,4901.6,4901.6,2.41,2.41,0.0,4,4
+TD02,Rechte H-buurt,H-buurt,Zuidoost,196197.6,18.87,18.87,0.0,Unnamed,forest,824.34,Unnamed,forest,824.34,37246.36,36668.23,18.98,18.69,-0.2899999999999991,32,32
+TD03,Hakfort/Huigenbos,H-buurt,Zuidoost,294812.05,113.81,116.98,3.1700000000000017,Unnamed,forest,13.17,Unnamed,forest,2785.96,7063.16,73511.25,2.4,24.93,22.53,7,11
+TD04,Huntum,H-buurt,Zuidoost,119176.21,52.54,52.54,0.0,Unnamed,forest,509.51,Unnamed,forest,509.51,20848.04,47334.73,17.49,39.72,22.23,11,11
+TC04,Vogeltjeswei,Amsterdamse Poort e.o.,Zuidoost,72292.79,154.58,154.58,0.0,Unnamed,forest,508.93,Unnamed,forest,508.93,3553.24,3669.26,4.92,5.08,0.1600000000000001,1,1
+TC05,Nelson Mandelapark,Amsterdamse Poort e.o.,Zuidoost,510380.72,34.75,75.81,41.06,Unnamed,forest,255.18,Nelson Mandelapark,park,443311.45,458787.52,510380.72,89.89,100.0,10.11,32,34
+TE01,E-buurt,Ganzenhoef e.o.,Zuidoost,319350.02,159.26,159.26,0.0,Unnamed,forest,526.19,Unnamed,forest,526.19,31834.4,28025.36,9.97,8.78,-1.1900000000000013,23,22
+TE02,G-buurt-West,Ganzenhoef e.o.,Zuidoost,426842.57,39.39,39.39,0.0,Unnamed,forest,3004.39,Unnamed,forest,3004.39,30819.54,25652.21,7.22,6.01,-1.21,13,10
+TG01,Bijlmermuseum-Noord,Bijlmermuseum,Zuidoost,165349.17,36.08,36.08,0.0,Unnamed,forest,197.9,Unnamed,forest,197.9,11835.74,9211.87,7.16,5.57,-1.59,13,11
+TH02,Kortvoort,K-buurt,Zuidoost,222321.8,88.84,88.84,0.0,Unnamed,forest,3484.46,Unnamed,forest,3484.46,7528.09,7148.71,3.39,3.22,-0.1699999999999999,6,8
+TH03,Kelbergen,K-buurt,Zuidoost,218000.79,196.85,196.85,0.0,Unnamed,forest,2559.69,Unnamed,forest,2559.69,12727.65,43815.34,5.84,20.1,14.260000000000002,7,7
+TG03,De Kameleon e.o.,Bijlmermuseum,Zuidoost,160323.58,135.3,135.3,0.0,Unnamed,forest,1027.41,Unnamed,forest,1027.41,4164.61,4215.81,2.6,2.63,0.0299999999999998,11,12
+TH05,K-buurt-Zuidoost,K-buurt,Zuidoost,196035.99,100.37,100.5,0.1299999999999954,Karspelplantsoen,park,14878.61,Karspelplantsoen,park,15002.16,18112.99,18896.81,9.24,9.64,0.4000000000000003,3,3
+TH04,K-buurt-Zuidwest,K-buurt,Zuidoost,168448.71,135.64,135.64,0.0,Unnamed,forest,66.35,Unnamed,forest,66.35,66.77,34045.28,0.04,20.21,20.17,2,4
+TF02,Grunder/Koningshoef,Geerdinkhof/Kantershof,Zuidoost,131271.72,114.14,153.19,39.05,Unnamed,forest,1207.05,Unnamed,forest,1337.1,1139.3,935.25,0.87,0.71,-0.16,2,1
+TF01,G-buurt-Oost,Geerdinkhof/Kantershof,Zuidoost,971169.12,44.57,78.26,33.690000000000005,Unnamed,forest,927.93,Unnamed,forest,197.06,753866.08,720529.41,77.62,74.19,-3.430000000000007,46,119
+TF03,Kantershof,Geerdinkhof/Kantershof,Zuidoost,604519.89,113.03,113.03,0.0,Unnamed,forest,845.43,Unnamed,forest,845.43,303996.17,271826.8,50.29,44.97,-5.32,23,31
+TH01,Gooise Kant,K-buurt,Zuidoost,154076.52,122.56,95.44,-27.120000000000005,Unnamed,forest,204.48,Unnamed,forest,620.69,3115.56,39642.7,2.02,25.73,23.71,1,4
+TE03,G-buurt-Noord,Ganzenhoef e.o.,Zuidoost,80655.48,34.51,34.39,-0.1199999999999974,Unnamed,forest,1397.0,Unnamed,forest,1376.34,16632.41,16745.42,20.62,20.76,0.1400000000000005,3,3
+TG02,Bijlmermuseum-Zuid,Bijlmermuseum,Zuidoost,257616.61,65.53,83.53,18.0,Unnamed,forest,942.73,Unnamed,forest,257.53,29222.16,25010.25,11.34,9.71,-1.629999999999999,29,22
+TK01,L-buurt,Nellestein,Zuidoost,763814.63,16.96,16.78,-0.1799999999999997,Unnamed,forest,1206.75,Unnamed,forest,1184.07,184059.31,286807.51,24.1,37.55,13.449999999999996,95,97
+TJ01,Holendrecht-West,Holendrecht,Zuidoost,350291.07,45.47,46.09,0.6200000000000045,Unnamed,forest,791.91,Unnamed,forest,624.4,33061.53,70423.24,9.44,20.1,10.660000000000002,31,21
+TJ03,Holendrecht-Zuid,Holendrecht,Zuidoost,369399.84,17.93,17.05,-0.879999999999999,Unnamed,forest,352.17,Unnamed,forest,407.78,31987.23,26632.45,8.66,7.21,-1.4500000000000002,34,23
+TJ02,Holendrecht-Oost,Holendrecht,Zuidoost,665686.47,37.15,37.15,0.0,Unnamed,forest,1128.2,Unnamed,forest,1128.2,93152.19,188053.99,13.99,28.25,14.26,63,66
+TL01,Reigersbos 1,Reigersbos,Zuidoost,253114.83,45.23,45.23,0.0,Unnamed,forest,672.82,Unnamed,forest,672.82,24759.23,24495.98,9.78,9.68,-0.0999999999999996,23,25
+TL02,Reigersbos 2,Reigersbos,Zuidoost,192467.68,57.26,57.26,0.0,Unnamed,forest,241.09,Unnamed,forest,241.09,13041.43,11741.71,6.78,6.1,-0.6800000000000006,15,8
+TL03,Reigersbos 3,Reigersbos,Zuidoost,251133.71,78.23,130.24,52.010000000000005,Unnamed,forest,61.18,Unnamed,forest,2347.9,6648.72,16951.4,2.65,6.75,4.1,11,11
+TL04,Reigersbos 4,Reigersbos,Zuidoost,630465.13,69.41,69.41,0.0,Unnamed,wood,244.71,Unnamed,wood,244.71,57357.42,66592.47,9.1,10.56,1.4600000000000009,55,69
+TM01,Gein 1,Gein,Zuidoost,319368.03,123.4,123.4,0.0,Unnamed,forest,395.71,Unnamed,forest,395.71,17938.16,17859.94,5.62,5.59,-0.0300000000000002,18,18
+TM02,Gein 2,Gein,Zuidoost,180917.04,94.82,94.82,0.0,Unnamed,forest,403.94,Unnamed,forest,403.94,10281.58,9847.12,5.68,5.44,-0.2399999999999993,10,11
+TM03,Gein 3,Gein,Zuidoost,647798.92,189.63,189.63,0.0,Unnamed,forest,193.27,Unnamed,forest,193.27,247213.15,322215.22,38.16,49.74,11.580000000000004,35,37
+TM04,Gein 4,Gein,Zuidoost,773357.28,163.77,162.62,-1.1500000000000057,Unnamed,wood,712.09,Unnamed,wood,750.2,139177.92,149847.4,18.0,19.38,1.379999999999999,33,38
+SA01,Landelijk gebied Driemond,Driemond,Weesp,1672571.28,106.74,106.74,0.0,Unnamed,forest,18669.94,Unnamed,forest,18669.94,194956.77,197822.88,11.66,11.83,0.1699999999999999,49,56
+MB01,Weesperzijde-Noord,Weesperzijde,Oost,141021.47,93.12,92.69,-0.4300000000000068,Unnamed,forest,1503.84,Unnamed,forest,1475.5,1503.84,1571.27,1.07,1.11,0.04,1,2
+MB02,Weesperzijde-Midden/Zuid,Weesperzijde,Oost,236440.64,59.98,59.98,0.0,Unnamed,forest,2317.78,Unnamed,forest,2317.78,10232.34,10151.15,4.33,4.29,-0.04,8,8
+MB03,Parooldriehoek,Weesperzijde,Oost,69348.26,130.0,130.0,0.0,Wibautpark,park,6204.35,Wibautpark,park,6204.35,11585.28,11585.28,16.71,16.71,0.0,4,4
+MC01,Oosterparkbuurt-Noordwest,Oosterparkbuurt,Oost,220355.8,279.15,177.51,-101.64,Unnamed,forest,3193.94,Unnamed,forest,775.68,0.0,1752.45,0.0,0.8,0.8,0,3
+MC02,Oosterpark,Oosterparkbuurt,Oost,253924.96,80.24,78.48,-1.759999999999991,Oosterpark,park,143644.12,Oosterpark,park,143503.27,194208.01,195367.51,76.48,76.94,0.4599999999999937,12,14
+MC04,Oosterparkbuurt-Zuidoost,Oosterparkbuurt,Oost,157627.28,129.54,129.54,0.0,Unnamed,forest,5966.56,Unnamed,forest,5966.56,5966.56,5966.56,3.79,3.79,0.0,1,1
+MC03,Oosterparkbuurt-Zuidwest,Oosterparkbuurt,Oost,121896.07,177.82,177.82,0.0,Unnamed,forest,7847.46,Unnamed,forest,7847.46,5397.1,5553.48,4.43,4.56,0.1299999999999999,2,2
+ME01,Dapperbuurt-Noord,Dapperbuurt,Oost,211196.94,228.15,228.94,0.789999999999992,Unnamed,forest,2542.11,Unnamed,forest,2597.54,4750.52,4805.95,2.25,2.28,0.0299999999999998,3,3
+ME02,Dapperbuurt-Zuid,Dapperbuurt,Oost,174035.72,172.58,173.01,0.4299999999999784,Unnamed,forest,740.53,Unnamed,forest,636.46,811.79,707.73,0.47,0.41,-0.06,2,2
+ME03,Oostpoort,Dapperbuurt,Oost,228644.03,99.7,99.7,0.0,Unnamed,forest,2504.02,Unnamed,forest,2504.02,12989.68,12505.5,5.68,5.47,-0.2099999999999999,7,6
+MD01,Transvaalbuurt-West,Transvaalbuurt,Oost,179107.01,72.96,72.96,0.0,Afrikanerplein,park,3612.65,Afrikanerplein,park,3612.65,10285.35,10439.06,5.74,5.83,0.0899999999999998,3,4
+MD02,Transvaalbuurt-Oost,Transvaalbuurt,Oost,199529.55,166.1,166.17,0.0699999999999931,Unnamed,forest,6496.15,Unnamed,forest,6469.64,7560.16,6469.64,3.79,3.24,-0.5499999999999998,2,1
+MM02,De Eenhoorn,Frankendael,Oost,180207.99,120.75,119.4,-1.3499999999999943,Unnamed,forest,1682.35,Unnamed,forest,192.1,16674.77,10002.7,9.25,5.55,-3.7,9,13
+MM04,Julianapark,Frankendael,Oost,191965.01,148.29,148.29,0.0,Unnamed,forest,858.8,Unnamed,forest,858.8,3892.25,3650.67,2.03,1.9,-0.1299999999999999,4,5
+MM03,Don Bosco,Frankendael,Oost,162571.42,75.29,78.83,3.539999999999992,Unnamed,forest,144.32,Unnamed,forest,135.4,8383.11,4009.96,5.16,2.47,-2.69,5,10
+MM05,Frankendael,Frankendael,Oost,290446.36,30.42,30.42,0.0,Unnamed,forest,440.25,Unnamed,forest,440.25,261503.28,256201.98,90.03,88.21,-1.8200000000000076,28,31
+MM06,Tuindorp Amstelstation,Frankendael,Oost,110023.77,131.46,131.46,0.0,Unnamed,forest,858.8,Unnamed,forest,858.8,1784.52,1921.79,1.62,1.75,0.1299999999999999,2,2
+MM07,De Wetbuurt,Frankendael,Oost,287631.71,115.39,97.56,-17.83,Unnamed,forest,747.7,Unnamed,forest,328.39,46640.7,48004.9,16.22,16.69,0.4700000000000024,15,19
+MM08,Tuindorp Frankendael,Frankendael,Oost,360600.33,84.06,80.4,-3.6599999999999966,Unnamed,forest,335.87,Unnamed,forest,159.36,75692.95,76977.05,20.99,21.35,0.360000000000003,24,29
+MN01,Linnaeusparkbuurt,Middenmeer,Oost,178153.99,300.81,218.89,-81.92000000000002,Unnamed,forest,3916.16,Unnamed,forest,3677.2,3075.17,3629.0,1.73,2.04,0.31,2,4
+MN02,Middenmeer-Noord,Middenmeer,Oost,185584.54,188.88,188.88,0.0,Unnamed,forest,475.74,Unnamed,forest,475.74,14389.51,13703.71,7.75,7.38,-0.3700000000000001,4,5
+MN03,Middenmeer-Zuid,Middenmeer,Oost,395968.45,266.73,266.55,-0.1800000000000068,Galileïplantsoen,park,23481.92,Galileïplantsoen,park,23111.28,24394.16,22065.67,6.16,5.57,-0.5899999999999999,2,2
+MN06,Sportpark Middenmeer-Zuid,Middenmeer,Oost,211333.54,56.84,23.67,-33.17,Unnamed,forest,231.54,Unnamed,forest,1512.5,30400.78,28549.68,14.39,13.51,-0.8800000000000008,10,20
+MN07,Sportpark Middenmeer-Noord,Middenmeer,Oost,251009.35,48.88,16.58,-32.300000000000004,Unnamed,forest,1005.32,Unnamed,forest,559.47,28986.79,25647.67,11.55,10.22,-1.33,10,16
+MN08,Park de Meer,Middenmeer,Oost,263659.72,98.68,102.84,4.159999999999997,Unnamed,forest,1653.39,Unnamed,forest,1477.24,29309.65,33255.15,11.12,12.61,1.4900000000000002,9,6
+MN09,Sportpark Voorland,Middenmeer,Oost,269436.62,76.12,82.19,6.069999999999993,Unnamed,forest,2555.37,Unnamed,forest,1014.52,6587.31,7018.78,2.44,2.6,0.1600000000000001,6,11
+MN04,Science Park-Noord,Middenmeer,Oost,417887.62,170.0,99.34,-70.66,Unnamed,forest,7520.06,Unnamed,forest,10635.9,18069.55,12601.65,4.32,3.02,-1.3000000000000005,6,3
+MN05,Science Park-Zuid,Middenmeer,Oost,848691.84,207.58,209.42,1.839999999999975,Unnamed,forest,1246.8,Unnamed,forest,632.36,38651.12,71444.63,4.55,8.42,3.87,19,29
+MP03,Betondorp,Betondorp,Oost,457988.07,134.71,120.37,-14.340000000000003,Unnamed,forest,80.81,Unnamed,garden,31.55,18933.74,19456.38,4.13,4.25,0.1200000000000001,10,15
+MP02,Nieuwe Oosterbegraafplaats,Betondorp,Oost,394092.71,118.35,234.29,115.94,Unnamed,forest,12978.95,Unnamed,forest,14001.32,30281.86,37174.58,7.68,9.43,1.75,8,8
+MQ07,Weespertrekvaart,Omval/Overamstel,Oost,482633.2,181.02,181.56,0.539999999999992,Unnamed,forest,1640.87,Unnamed,forest,1486.76,8604.21,10309.74,1.78,2.14,0.3600000000000001,9,9
+MQ03,Amstelglorie,Omval/Overamstel,Oost,506274.5,45.62,45.62,0.0,Unnamed,forest,5356.58,Unnamed,forest,5356.58,89552.95,89312.94,17.69,17.64,-0.0500000000000007,28,33
+MQ02,Overamstel,Omval/Overamstel,Oost,1193233.62,120.16,64.0,-56.16,Unnamed,forest,1085.85,Unnamed,forest,217.14,198480.44,218897.41,16.63,18.34,1.7100000000000009,36,68
+KE05,Hemonybuurt,Oude Pijp,Zuid,139972.48,261.1,261.49,0.3899999999999863,Unnamed,forest,1503.84,Unnamed,forest,1475.5,0.0,0.0,0.0,0.0,0.0,0,0
+KE02,Gerard Doubuurt,Oude Pijp,Zuid,106412.87,62.77,62.77,0.0,Unnamed,forest,111.81,Unnamed,forest,111.81,1631.8,1631.8,1.53,1.53,0.0,2,2
+KE01,Frans Halsbuurt,Oude Pijp,Zuid,121393.89,42.56,42.56,0.0,Unnamed,forest,97.57,Unnamed,forest,97.57,3422.54,3927.87,2.82,3.24,0.4200000000000004,8,8
+KE03,Hercules Seghersbuurt,Oude Pijp,Zuid,84525.97,12.08,17.46,5.380000000000001,Unnamed,forest,152.29,Unnamed,forest,53.06,370.03,234.68,0.44,0.28,-0.1599999999999999,5,5
+KE04,Sarphatiparkbuurt,Oude Pijp,Zuid,227577.69,27.93,29.38,1.4499999999999993,Unnamed,forest,372.28,Unnamed,forest,466.22,55467.94,56693.68,24.37,24.91,0.5399999999999991,15,16
+KF04,Willibrordusbuurt,Nieuwe Pijp,Zuid,124001.95,224.47,224.47,0.0,Unnamed,forest,1695.31,Unnamed,forest,1695.31,0.0,0.0,0.0,0.0,0.0,0,0
+KF03,Van der Helstpleinbuurt,Nieuwe Pijp,Zuid,136253.56,150.82,164.4,13.580000000000013,Unnamed,forest,16.32,Unnamed,forest,4398.51,616.41,0.0,0.45,0.0,-0.45,1,0
+KF02,Lizzy Ansinghbuurt,Nieuwe Pijp,Zuid,127528.16,171.35,137.33,-34.01999999999998,Unnamed,forest,616.41,Unnamed,forest,454.41,0.0,1216.01,0.0,0.95,0.95,0,5
+KF01,Cornelis Troostbuurt,Nieuwe Pijp,Zuid,156478.61,229.4,110.63,-118.77,Unnamed,forest,506.14,Unnamed,forest,470.87,0.0,925.27,0.0,0.59,0.59,0,2
+KG03,Diamantbuurt,Zuid Pijp,Zuid,167159.76,109.97,109.97,0.0,Unnamed,park,301.72,Unnamed,park,301.72,827.89,948.43,0.5,0.57,0.0699999999999999,3,6
+KG02,Burgemeester Tellegenbuurt-Oost,Zuid Pijp,Zuid,121426.44,140.84,80.06,-60.78,Unnamed,forest,306.68,Unnamed,park,178.09,323.0,178.09,0.27,0.15,-0.12,2,1
+KG01,Burgemeester Tellegenbuurt-West,Zuid Pijp,Zuid,102283.97,172.71,199.22,26.50999999999999,Unnamed,forest,306.68,Unnamed,forest,695.22,0.0,0.0,0.0,0.0,0.0,0,0
+KA02,Surinamepleinbuurt,Hoofddorppleinbuurt,Zuid,89403.06,142.4,142.4,0.0,Unnamed,forest,144.55,Unnamed,forest,144.55,4036.65,4011.97,4.52,4.49,-0.0299999999999993,2,2
+KA01,Westlandgrachtbuurt,Hoofddorppleinbuurt,Zuid,188037.73,40.92,40.92,0.0,Unnamed,park,719.73,Unnamed,park,719.73,3836.16,4351.03,2.04,2.31,0.27,2,5
+KA04,Aalsmeerwegbuurt-West,Hoofddorppleinbuurt,Zuid,105184.85,99.53,99.53,0.0,Unnamed,forest,129.92,Unnamed,forest,129.92,636.29,636.29,0.6,0.6,0.0,4,4
+KA05,Aalsmeerwegbuurt-Oost,Hoofddorppleinbuurt,Zuid,118214.39,104.12,98.2,-5.920000000000002,Unnamed,forest,195.49,Unnamed,forest,311.38,5179.59,5477.89,4.38,4.63,0.25,6,7
+KA03,Legmeerpleinbuurt,Hoofddorppleinbuurt,Zuid,75551.01,241.07,241.07,0.0,Unnamed,forest,144.55,Unnamed,forest,144.55,0.0,0.0,0.0,0.0,0.0,0,0
+KA06,Bedrijventerrein Schinkel,Hoofddorppleinbuurt,Zuid,380250.27,106.13,106.13,0.0,Unnamed,forest,1072.49,Unnamed,forest,1072.49,26375.17,35356.27,6.94,9.3,2.3600000000000003,17,23
+KB01,Schinkelbuurt-Noord,Schinkelbuurt,Zuid,108034.8,171.97,171.97,0.0,Unnamed,forest,1006.15,Unnamed,forest,1006.15,1485.12,1522.89,1.37,1.41,0.0399999999999998,4,4
+KB02,Schinkelbuurt-Zuid,Schinkelbuurt,Zuid,238210.81,206.33,148.52,-57.81,Unnamed,forest,213.81,Unnamed,forest,40.85,51375.58,45349.16,21.57,19.04,-2.530000000000001,7,9
+KC04,Valeriusbuurt-Oost,Willemspark,Zuid,120615.09,74.38,74.38,0.0,Unnamed,forest,113.4,Unnamed,forest,113.4,917.07,3073.82,0.76,2.55,1.7899999999999998,3,5
+KC03,Valeriusbuurt-West,Willemspark,Zuid,141024.01,154.14,154.14,0.0,Unnamed,forest,408.72,Unnamed,forest,408.72,684.73,2574.66,0.49,1.83,1.34,3,5
+KC02,Willemsparkbuurt-Noord,Willemspark,Zuid,189221.91,104.09,105.09,1.0,Unnamed,forest,41.02,Unnamed,forest,155.86,6786.64,7280.93,3.59,3.85,0.2600000000000002,8,11
+KC01,Vondelpark-West,Willemspark,Zuid,247582.06,34.06,32.7,-1.3599999999999994,Unnamed,forest,1744.94,Unnamed,forest,1978.36,247582.06,247582.06,100.0,100.0,0.0,75,84
+KD08,Johannes Vermeerbuurt,Museumkwartier,Zuid,159836.93,80.89,80.26,-0.6299999999999955,Unnamed,park,368.37,Unnamed,park,265.43,395.22,292.28,0.25,0.18,-0.07,2,2
+KD04,P.C. Hooftbuurt,Museumkwartier,Zuid,113864.43,120.44,120.44,0.0,Unnamed,forest,4154.64,Unnamed,forest,4154.64,0.0,0.0,0.0,0.0,0.0,0,0
+KD03,Concertgebouwbuurt,Museumkwartier,Zuid,132064.79,200.96,200.96,0.0,Unnamed,forest,1831.42,Unnamed,forest,1831.42,138.88,138.88,0.11,0.11,0.0,3,3
+KD02,Cornelis Schuytbuurt,Museumkwartier,Zuid,194804.01,230.12,229.94,-0.1800000000000068,Unnamed,forest,4821.62,Unnamed,forest,648.43,4626.28,4626.28,2.37,2.37,0.0,3,3
+KD06,Banpleinbuurt,Museumkwartier,Zuid,112328.33,90.94,90.94,0.0,Unnamed,forest,64.16,Unnamed,forest,64.16,1267.56,1267.56,1.13,1.13,0.0,5,5
+KD07,Hondecoeterbuurt,Museumkwartier,Zuid,126096.27,142.71,143.18,0.4699999999999988,Unnamed,forest,428.59,Unnamed,forest,478.92,480.81,531.13,0.38,0.42,0.0399999999999999,3,3
+KD10,Harmoniehofbuurt,Museumkwartier,Zuid,113874.29,136.19,13.23,-122.96,Unnamed,forest,53.27,Unnamed,forest,19.49,818.46,852.9,0.72,0.75,0.03,3,10
+KD05,Museumplein,Museumkwartier,Zuid,134057.82,163.22,163.22,0.0,Museumplein,park,37237.06,Museumplein,park,37237.06,50747.54,51030.22,37.85,38.07,0.2199999999999988,3,3
+KD01,Vondelpark-Oost,Museumkwartier,Zuid,236985.28,32.93,32.93,0.0,Unnamed,forest,1168.97,Unnamed,forest,1168.97,236985.28,236985.28,100.0,100.0,0.0,57,58
+KH01,Bertelmanpleinbuurt,Stadionbuurt,Zuid,59572.86,166.85,12.16,-154.69,Unnamed,forest,249.73,Unnamed,forest,171.81,1173.26,2946.05,1.97,4.95,2.9800000000000004,2,6
+KH04,Marathonbuurt-Oost,Stadionbuurt,Zuid,155316.38,33.86,34.32,0.4600000000000008,Unnamed,forest,453.07,Unnamed,forest,793.69,2383.36,4513.0,1.53,2.91,1.38,4,5
+KH03,Marathonbuurt-West,Stadionbuurt,Zuid,121152.0,222.91,149.41,-73.5,Unnamed,forest,2844.05,Unnamed,forest,129.32,1475.3,1831.76,1.22,1.51,0.29,1,3
+KH02,Olympisch Stadion e.o.,Stadionbuurt,Zuid,231295.49,215.98,224.47,8.490000000000009,Unnamed,forest,2210.38,Unnamed,forest,5191.37,2914.55,8887.33,1.26,3.84,2.58,3,9
+KH06,IJsbaanpad e.o.,Stadionbuurt,Zuid,296110.16,125.82,113.71,-12.11,Park de Schinkeleilanden,park,133473.28,Unnamed,forest,267.36,112336.85,111508.26,37.94,37.66,-0.2800000000000011,13,20
+KH05,Van Tuyllbuurt,Stadionbuurt,Zuid,210400.8,37.48,37.48,0.0,Unnamed,forest,1128.68,Unnamed,forest,1128.68,1796.23,7451.18,0.85,3.54,2.69,3,14
+KJ06,Diepenbrockbuurt,Apollobuurt,Zuid,220659.12,106.8,106.8,0.0,Unnamed,forest,55.54,Unnamed,forest,55.54,1730.74,1829.74,0.78,0.83,0.0499999999999999,9,12
+KJ05,Beethovenbuurt,Apollobuurt,Zuid,152248.95,119.03,119.03,0.0,Unnamed,forest,1891.41,Unnamed,forest,1891.41,9412.16,10096.29,6.18,6.63,0.4500000000000002,5,9
+KJ01,Hiltonbuurt,Apollobuurt,Zuid,112957.91,158.62,82.74,-75.88000000000001,Unnamed,forest,64.16,Unnamed,forest,0.0,9961.73,11215.07,8.82,9.93,1.1099999999999994,2,4
+KJ02,Minervabuurt-Noord,Apollobuurt,Zuid,144125.52,129.12,39.34,-89.78,Adama van Scheltemaplein,park,1821.09,Unnamed,park,1807.41,11808.76,19677.09,8.19,13.65,5.460000000000001,4,6
+KJ03,Minervabuurt-Midden,Apollobuurt,Zuid,150386.75,64.89,34.19,-30.700000000000003,Unnamed,forest,290.91,Unnamed,park,2167.39,1409.75,5879.96,0.94,3.91,2.97,2,9
+KJ04,Minervabuurt-Zuid,Apollobuurt,Zuid,162412.35,108.81,106.16,-2.6500000000000057,Unnamed,forest,388.84,Unnamed,park,714.03,1506.43,2297.64,0.93,1.41,0.4799999999999998,3,5
+KK01,Wielingenbuurt,Scheldebuurt,Zuid,150996.96,93.09,92.46,-0.6300000000000097,Unnamed,forest,1718.06,Unnamed,forest,1770.07,3712.3,3687.57,2.46,2.44,-0.02,2,2
+KK02,Scheldebuurt-West,Scheldebuurt,Zuid,255590.13,63.04,63.04,0.0,Unnamed,park,267.47,Unnamed,park,267.47,4782.23,3093.4,1.87,1.21,-0.6600000000000001,8,6
+KK03,Scheldebuurt-Midden,Scheldebuurt,Zuid,160212.29,84.14,84.54,0.4000000000000057,Unnamed,park,802.72,Unnamed,park,759.42,1958.33,1915.04,1.22,1.2,-0.02,2,2
+KK04,Scheldebuurt-Oost,Scheldebuurt,Zuid,140562.34,77.19,81.95,4.760000000000005,Unnamed,forest,976.6,Unnamed,forest,762.95,2219.05,2005.4,1.58,1.43,-0.1500000000000001,6,6
+KL01,IJselbuurt-West,IJselbuurt,Zuid,133208.38,62.51,61.58,-0.9299999999999996,Unnamed,forest,166.16,Unnamed,forest,92.75,2050.37,2006.96,1.54,1.51,-0.03,5,5
+KL02,IJselbuurt-Oost,IJselbuurt,Zuid,158888.26,70.06,70.6,0.539999999999992,Unnamed,forest,29.19,Unnamed,forest,17.6,1252.74,818.51,0.79,0.52,-0.27,7,4
+KM01,Kromme Mijdrechtbuurt,Rijnbuurt,Zuid,184876.29,167.35,118.39,-48.96,Unnamed,forest,756.78,Unnamed,forest,363.25,1593.17,1557.81,0.86,0.84,-0.02,2,4
+KM04,Rijnbuurt-Oost,Rijnbuurt,Zuid,232571.34,75.25,75.25,0.0,Unnamed,forest,469.19,Unnamed,forest,469.19,2928.17,2780.02,1.26,1.2,-0.06,5,6
+KM03,Rijnbuurt-Midden,Rijnbuurt,Zuid,285463.26,83.83,88.73,4.900000000000006,Unnamed,forest,9127.09,Unnamed,forest,10188.76,15572.48,16820.86,5.46,5.89,0.4299999999999997,9,10
+KM02,Rijnbuurt-West,Rijnbuurt,Zuid,79402.5,227.37,227.37,0.0,Unnamed,forest,2793.48,Unnamed,forest,2793.48,0.0,0.0,0.0,0.0,0.0,0,0
+KM05,Zorgvlied,Rijnbuurt,Zuid,320954.51,67.32,60.63,-6.689999999999991,Unnamed,forest,335.15,Unnamed,forest,249.68,27409.79,25601.03,8.54,7.98,-0.5599999999999987,12,17
+KN01,Prinses Irenebuurt,Prinses Irenebuurt e.o.,Zuid,266446.5,115.1,66.46,-48.64,Unnamed,forest,398.51,Unnamed,forest,1809.99,5350.51,14572.6,2.01,5.47,3.46,7,21
+KN02,Beatrixpark,Prinses Irenebuurt e.o.,Zuid,166594.67,35.72,31.17,-4.549999999999997,Unnamed,forest,1008.14,Unnamed,forest,1142.49,166594.67,166594.67,100.0,100.0,0.0,35,47
+KQ04,Gelderlandpleinbuurt,Buitenveldert-West,Zuid,464207.7,286.07,216.74,-69.32999999999998,Unnamed,forest,1543.04,Unnamed,forest,3986.38,6764.48,18991.05,1.46,4.09,2.63,8,13
+KQ06,Buitenveldert-Zuid-Midden,Buitenveldert-West,Zuid,543504.85,54.02,54.02,0.0,Unnamed,forest,316.96,Unnamed,forest,316.96,38144.92,101343.22,7.02,18.65,11.63,35,53
+KQ05,Buitenveldert-Zuidwest,Buitenveldert-West,Zuid,749454.07,143.17,178.06,34.890000000000015,Unnamed,park,1091.04,Unnamed,forest,445.84,55728.76,119380.75,7.44,15.93,8.489999999999998,25,40
+KQ01,Amsterdamse Bos,Buitenveldert-West,Zuid,1317156.7,47.41,47.41,0.0,Unnamed,forest,4722.77,Unnamed,forest,4722.77,953568.4,961306.52,72.4,72.98,0.5799999999999983,95,109
+KR01,De Klenckebuurt,Buitenveldert-Oost,Zuid,139053.61,69.89,76.61,6.719999999999999,Unnamed,forest,705.05,Unnamed,forest,338.71,1592.83,3206.67,1.15,2.31,1.16,3,7
+KR02,Buitenveldert-Oost-Midden,Buitenveldert-Oost,Zuid,298643.02,31.89,30.07,-1.8200000000000005,Unnamed,forest,106.66,Unnamed,forest,112.19,26020.55,28503.74,8.71,9.54,0.8299999999999983,18,27
+KR03,Buitenveldert-Zuidoost,Buitenveldert-Oost,Zuid,643352.06,25.14,25.14,0.0,Unnamed,forest,486.76,Unnamed,forest,486.76,143379.99,211902.72,22.29,32.94,10.65,44,48
+KR04,Amstelpark,Buitenveldert-Oost,Zuid,619820.27,46.47,45.99,-0.4799999999999969,Amstelpark,park,448950.24,Unnamed,forest,5633.77,613990.31,609921.17,99.06,98.4,-0.6599999999999966,67,82
+FQ05,Belgi�plein e.o.,Sloten/Nieuw-Sloten,Nieuw-West,82912.7,55.94,61.71,5.770000000000003,Unnamed,forest,120.23,Unnamed,forest,50.14,507.1,264.72,0.61,0.32,-0.29,5,5
+AK06,Het Funen,Oostelijke Eilanden/Kadijken,Centrum,91802.09,257.7,257.7,0.0,Unnamed,forest,157.4,Unnamed,forest,157.4,0.0,0.0,0.0,0.0,0.0,0,0
+EQ01,Da Costabuurt-Noord,Da Costabuurt,West,258521.64,238.16,238.16,0.0,Bilderdijkpark,park,6102.4,Bilderdijkpark,park,6102.4,6102.4,6102.4,2.36,2.36,0.0,1,1
+FC03,Confuciusbuurt,Slotermeer-West,Nieuw-West,320580.58,261.02,261.02,0.0,Unnamed,forest,3136.43,Unnamed,forest,3136.43,1625.19,1811.42,0.51,0.57,0.0599999999999999,4,4
+FC02,Lodewijk van Deysselbuurt,Slotermeer-West,Nieuw-West,231473.32,218.74,154.88,-63.860000000000014,Unnamed,forest,1011.86,Unnamed,forest,309.27,2502.5,3482.39,1.08,1.5,0.4199999999999999,4,6
+MF03,Ambonpleinbuurt,Indische Buurt-West,Oost,159624.27,184.83,184.6,-0.2300000000000182,Unnamed,forest,1322.8,Unnamed,forest,1309.21,908.89,895.37,0.57,0.56,-0.0099999999999998,2,2
+NE06,Marjoleinterrein,Banne Buiksloot,Noord,34711.87,117.57,117.57,0.0,Unnamed,forest,478.47,Unnamed,forest,478.47,0.0,0.0,0.0,0.0,0.0,0,0
+AA01,Planciusbuurt-Noord,Haarlemmerbuurt,Centrum,24127.41,156.53,155.85,-0.6800000000000068,Toon Ylandplantsoen,park,1291.09,Unnamed,park,681.3,0.0,0.0,0.0,0.0,0.0,0,0
+AA04,Planciusbuurt-Zuid,Haarlemmerbuurt,Centrum,17356.41,226.33,226.33,0.0,Unnamed,park,3209.17,Unnamed,park,3209.17,0.0,0.0,0.0,0.0,0.0,0,0
+KQ02,Zuiderhof,Buitenveldert-West,Zuid,207771.78,109.0,111.0,2.0,Unnamed,forest,2773.79,Unnamed,forest,2752.98,20058.3,11427.06,9.65,5.5,-4.15,9,7
+BA06,Westhaven-Zuid,Havens-West,Westpoort,469961.44,408.87,254.82,-154.05,Unnamed,forest,476.74,Unnamed,forest,95.9,1516.91,3185.19,0.32,0.68,0.36,3,2
+MQ01,De Omval,Omval/Overamstel,Oost,147910.67,56.48,57.3,0.8200000000000003,Unnamed,forest,334.97,Unnamed,forest,161.73,1121.69,2472.59,0.76,1.67,0.91,3,8
+NB04,Buiksloterham-Zuid,Noordelijke IJ-oevers-West,Noord,658648.38,43.13,207.99,164.86,Unnamed,forest,9721.35,fo,forest,247.55,10475.19,495.74,1.59,0.08,-1.51,3,2
+NB07,Overhoeks,Noordelijke IJ-oevers-West,Noord,513186.59,99.8,106.98,7.180000000000007,Unnamed,forest,76.52,Oeverpark,park,14717.27,29368.12,37193.04,5.72,7.25,1.5300000000000002,5,3
+EE02,Gibraltarbuurt,Landlust,West,200000.3,322.33,321.56,-0.7699999999999818,Unnamed,forest,328.5,Unnamed,forest,937.49,0.0,0.0,0.0,0.0,0.0,0,0
+EE04,Landlust-Noord,Landlust,West,98042.58,100.94,100.94,0.0,Unnamed,park,422.28,Unnamed,park,422.28,754.15,754.15,0.77,0.77,0.0,2,2
+AB03,Anjeliersbuurt-Noord,Jordaan,Centrum,98831.91,348.16,350.68,2.519999999999982,Unnamed,park,81.6,Unnamed,park,150.48,0.0,0.0,0.0,0.0,0.0,0,0
+AB05,Anjeliersbuurt-Zuid,Jordaan,Centrum,119599.69,220.14,223.35,3.210000000000008,Unnamed,park,81.6,Unnamed,park,150.48,0.0,0.0,0.0,0.0,0.0,0,0
+AG01,Leidsegracht-Zuid,Grachtengordel-Zuid,Centrum,68639.92,558.21,558.21,0.0,Leidsebosje,park,4551.86,Leidsebosje,park,4551.86,0.0,0.0,0.0,0.0,0.0,0,0
+EN03,Van Brakelkwartier,Chass�buurt,West,53596.47,237.59,237.59,0.0,Unnamed,forest,371.38,Unnamed,forest,371.38,371.38,371.38,0.69,0.69,0.0,1,1
+EF02,Erasmusparkbuurt-West,Erasmuspark,West,336226.47,45.55,45.54,-0.009999999999998,Unnamed,park,8919.17,Unnamed,park,8918.82,160964.29,165946.01,47.87,49.36,1.490000000000002,21,25
+EF01,Robert Scottbuurt-Oost,Erasmuspark,West,68865.95,135.45,136.48,1.0300000000000011,Unnamed,forest,1876.39,Unnamed,forest,1929.66,0.0,0.0,0.0,0.0,0.0,0,0
+AJ02,Plantage,Weesperbuurt/Plantage,Centrum,377613.84,37.88,36.6,-1.2800000000000011,Unnamed,forest,364.42,Unnamed,forest,395.16,26351.14,25808.46,6.98,6.83,-0.1500000000000003,16,16
+AJ04,Alexanderplein e.o.,Weesperbuurt/Plantage,Centrum,48608.12,64.3,63.91,-0.3900000000000005,Unnamed,forest,637.14,Unnamed,forest,610.08,1347.79,1320.72,2.77,2.72,-0.0499999999999998,2,2
+AK07,Kadijken,Oostelijke Eilanden/Kadijken,Centrum,218292.17,174.63,174.63,0.0,Unnamed,forest,213.01,Unnamed,forest,213.01,0.0,0.0,0.0,0.0,0.0,0,0
+KD09,Duivelseiland,Museumkwartier,Zuid,61540.46,145.26,145.26,0.0,Unnamed,forest,212.33,Unnamed,forest,212.33,212.33,212.33,0.35,0.35,0.0,1,1
+FA06,Bretten-West,Sloterdijk Nieuw-West,Nieuw-West,1494694.42,91.86,93.26,1.4000000000000057,Unnamed,wood,8105.78,Unnamed,wood,9604.43,1148501.96,1149020.98,76.84,76.87,0.0300000000000011,49,53
+FQ01,Dorp Sloten,Sloten/Nieuw-Sloten,Nieuw-West,612140.85,147.38,47.31,-100.07,Unnamed,forest,2167.38,Unnamed,forest,36.56,31879.2,103764.01,5.21,16.95,11.739999999999998,26,45
+FN01,Louis Chrispijnbuurt,Slotervaart-Zuid,Nieuw-West,373517.26,235.77,228.88,-6.890000000000015,Unnamed,forest,45.52,Unnamed,forest,297.18,9342.73,16056.0,2.5,4.3,1.7999999999999998,7,34
+FN02,Jacques Veltmanbuurt,Slotervaart-Zuid,Nieuw-West,308572.68,223.41,223.41,0.0,Unnamed,forest,7050.33,Unnamed,forest,7050.33,12909.23,11981.28,4.18,3.88,-0.2999999999999998,5,5
+FN03,Medisch Centrum Slotervaart,Slotervaart-Zuid,Nieuw-West,302046.14,184.35,200.81,16.460000000000008,Unnamed,forest,1606.92,Unnamed,forest,947.69,9500.76,7986.23,3.15,2.64,-0.5099999999999998,7,6
+FN04,Staalmanbuurt,Slotervaart-Zuid,Nieuw-West,321147.58,215.09,96.76,-118.33,Unnamed,wood,1714.4,Staalmanpark,park,9429.12,10171.6,20186.68,3.17,6.29,3.12,4,10
+FA07,Bretten-Oost,Sloterdijk Nieuw-West,Nieuw-West,842515.57,57.56,57.56,0.0,Unnamed,forest,666.68,Unnamed,forest,666.68,505821.92,504775.19,60.04,59.91,-0.1300000000000025,48,51
+NB03,NDSM terrein,Noordelijke IJ-oevers-West,Noord,794693.66,255.24,251.76,-3.480000000000018,Unnamed,park,5329.78,Unnamed,park,4207.01,5329.78,5635.75,0.67,0.71,0.0399999999999999,1,4
+NA06,Circus/Kermisbuurt,Oostzanerwerf,Noord,159034.48,103.0,102.72,-0.2800000000000011,Unnamed,forest,5037.32,Unnamed,forest,5007.0,11861.11,12052.24,7.46,7.58,0.1200000000000001,7,11
+NA07,Molenwijk,Oostzanerwerf,Noord,303285.61,4.17,4.19,0.0200000000000004,Unnamed,forest,591.9,Unnamed,forest,594.93,54427.39,64700.05,17.95,21.33,3.379999999999999,51,75
+NQ01,Noorderstrook-West,Waterland,Noord,1017576.21,129.83,129.83,0.0,Unnamed,forest,1188.3,Unnamed,forest,1188.3,137014.06,152023.08,13.46,14.94,1.4799999999999986,56,60
+NQ02,Noorderstrook-Oost,Waterland,Noord,479302.4,117.99,117.99,0.0,Unnamed,forest,6314.49,Unnamed,forest,6314.49,103021.58,104255.4,21.49,21.75,0.2600000000000015,47,47
+NH01,Buikslotermeer-Noord,Buikslotermeer,Noord,471147.15,46.81,46.81,0.0,Unnamed,forest,677.83,Unnamed,forest,677.83,46035.31,61309.66,9.77,13.01,3.24,43,64
+NH02,De Kleine Wereld,Buikslotermeer,Noord,237866.84,45.86,45.86,0.0,Unnamed,forest,634.87,Unnamed,forest,634.87,3788.95,771.01,1.59,0.32,-1.27,3,2
+NH04,Buikslotermeerplein,Buikslotermeer,Noord,234397.74,107.49,197.87,90.38,Unnamed,forest,249.83,Berend Seinen Heemtuin,park,3554.93,19817.76,23689.53,8.45,10.11,1.66,6,7
+NH05,Plan van Gool,Buikslotermeer,Noord,282589.44,32.17,31.95,-0.2200000000000024,Unnamed,forest,1306.99,Unnamed,forest,1175.71,71299.37,67570.42,25.23,23.91,-1.3200000000000005,40,42
+MH02,Sportheldenbuurt,Zeeburgereiland/Bovendiep,Oost,421902.78,365.28,189.45,-175.82999999999998,Unnamed,forest,1319.13,Unnamed,forest,254.39,0.0,254.39,0.0,0.06,0.06,0,1
+MH03,Oostpunt Zeeburgereiland,Zeeburgereiland/Bovendiep,Oost,542336.52,534.58,534.58,0.0,Unnamed,forest,143.82,Unnamed,forest,143.82,0.0,0.0,0.0,0.0,0.0,0,0
+KK05,Veluwebuurt,Scheldebuurt,Zuid,130869.2,123.36,123.36,0.0,Unnamed,forest,2793.48,Unnamed,forest,2793.48,7076.85,6030.75,5.41,4.61,-0.7999999999999998,5,4
+KK06,Kop Zuidas,Scheldebuurt,Zuid,169423.16,84.83,119.83,35.0,Unnamed,forest,1566.15,Unnamed,forest,291.07,11549.19,11076.2,6.82,6.54,-0.2800000000000002,12,11
+KP02,RAI,Zuidas,Zuid,370566.98,161.44,75.07,-86.37,Unnamed,forest,1931.63,Unnamed,forest,91.26,21806.19,14178.89,5.88,3.83,-2.05,12,17
+KP01,Zuidas-Noord,Zuidas,Zuid,826121.3,97.52,91.37,-6.149999999999992,Unnamed,forest,1840.61,Unnamed,forest,1014.19,162448.31,159051.42,19.66,19.25,-0.4100000000000001,34,56
+KP05,Vivaldi,Zuidas,Zuid,289766.68,184.25,246.46,62.21000000000001,Unnamed,forest,9753.08,Unnamed,forest,338.71,4457.18,2331.59,1.54,0.8,-0.74,2,4
+KP04,Zuidas-Zuid,Zuidas,Zuid,216757.71,238.73,144.67,-94.06,Unnamed,forest,1293.19,Unnamed,park,194.27,0.0,643.77,0.0,0.3,0.3,0,3
+KP03,VU-kwartier,Zuidas,Zuid,463311.79,304.99,304.99,0.0,Unnamed,forest,402.97,Unnamed,forest,402.97,11275.06,5856.6,2.43,1.26,-1.1700000000000002,8,6
+KQ03,Buitenveldert-West-Midden,Buitenveldert-West,Zuid,270237.91,100.5,100.5,0.0,Unnamed,forest,679.99,Unnamed,forest,679.99,30088.59,30694.9,11.13,11.36,0.2299999999999986,15,16
+MM01,Van der Kunbuurt,Frankendael,Oost,90549.96,125.28,125.28,0.0,Unnamed,forest,1211.55,Unnamed,forest,1211.55,2258.14,2258.14,2.49,2.49,0.0,2,2
+MQ05,Amstelkwartier-Noord,Omval/Overamstel,Oost,368218.33,205.83,65.37,-140.46,Park Somerlust,park,7767.99,Bella Vistapark,park,22414.39,8330.53,31453.27,2.26,8.54,6.279999999999999,2,4
+MQ06,Amstelkwartier-Zuid,Omval/Overamstel,Oost,243441.47,260.86,328.11,67.25,Unnamed,forest,142.43,Unnamed,forest,2604.83,2946.29,2604.83,1.21,1.07,-0.1399999999999999,1,1
+MQ04,Amstelkwartier-West,Omval/Overamstel,Oost,255502.2,195.55,196.18,0.6299999999999955,Unnamed,forest,5550.57,Unnamed,forest,5626.08,38322.31,36654.34,15.0,14.35,-0.6500000000000004,8,12
